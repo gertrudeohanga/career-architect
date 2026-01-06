@@ -1,23 +1,93 @@
 #!/usr/bin/env python3
+"""Build resume and cover letter outputs from Markdown.
+
+This script converts Markdown files to PDF, DOCX, and TXT formats
+using Pandoc with custom LaTeX styling.
+"""
 import argparse
+import json
 import re
 import subprocess
 import sys
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from shutil import which
+from typing import Optional
 
 ROOT = Path(__file__).resolve().parents[1]
 TEMPLATES_DIR = ROOT / "templates"
 APPLICATIONS_DIR = ROOT / "applications"
+SOURCE_MATERIALS_DIR = ROOT / "source_materials"
 STYLE_TEX = TEMPLATES_DIR / "style.tex"
 COVER_LETTER_STYLE_TEX = TEMPLATES_DIR / "cover_letter_style.tex"
+IDENTITY_JSON = SOURCE_MATERIALS_DIR / "identity.json"
+
+
+class Colors:
+    GREEN = "\033[92m"
+    YELLOW = "\033[93m"
+    RED = "\033[91m"
+    BLUE = "\033[94m"
+    RESET = "\033[0m"
+    BOLD = "\033[1m"
 
 
 def read_file(path: Path) -> str:
+    """Read file contents with UTF-8 encoding."""
     return path.read_text(encoding="utf-8")
 
 
+def log_success(msg: str):
+    """Print success message in green."""
+    print(f"{Colors.GREEN}✓{Colors.RESET} {msg}")
+
+
+def log_warning(msg: str):
+    """Print warning message in yellow."""
+    print(f"{Colors.YELLOW}⚠{Colors.RESET} {msg}")
+
+
+def log_error(msg: str):
+    """Print error message in red."""
+    print(f"{Colors.RED}✗{Colors.RESET} {msg}", file=sys.stderr)
+
+
+def log_info(msg: str):
+    """Print info message in blue."""
+    print(f"{Colors.BLUE}ℹ{Colors.RESET} {msg}")
+
+
+def load_identity() -> Optional[dict]:
+    """Load identity data from source materials."""
+    if not IDENTITY_JSON.exists():
+        return None
+    try:
+        return json.loads(IDENTITY_JSON.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as e:
+        log_warning(f"Invalid identity.json: {e}")
+        return None
+
+
+def validate_contact_info(text: str, identity: dict) -> list:
+    """Validate that contact info in document matches identity.json."""
+    warnings = []
+    email = identity.get("email", "")
+
+    if email and email != "your@email.com":
+        email_pattern = r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}"
+        found_emails = re.findall(email_pattern, text)
+        for found in found_emails:
+            if found.lower() != email.lower():
+                if "example.com" not in found.lower():
+                    warnings.append(
+                        f"Email mismatch: found '{found}', expected '{email}'"
+                    )
+
+    return warnings
+
+
 def parse_frontmatter(text: str) -> dict:
+    """Parse YAML frontmatter from Markdown text."""
     m = re.match(r"^---\n([\s\S]*?)\n---\n?", text)
     if not m:
         return {}
@@ -31,6 +101,7 @@ def parse_frontmatter(text: str) -> dict:
 
 
 def slugify(s: str) -> str:
+    """Convert string to URL-friendly slug."""
     s = s.lower().strip()
     s = re.sub(r"[^a-z0-9]+", "-", s)
     s = re.sub(r"-+", "-", s).strip("-")
@@ -38,37 +109,50 @@ def slugify(s: str) -> str:
 
 
 def ensure_dirs():
+    """Ensure required directories exist."""
     TEMPLATES_DIR.mkdir(parents=True, exist_ok=True)
     APPLICATIONS_DIR.mkdir(parents=True, exist_ok=True)
 
 
-def run(cmd: list, cwd: Path):
-    return subprocess.run(cmd, cwd=str(cwd), capture_output=True, text=True)
-
-
-def build_outputs(input_md: Path, company: str, role: str, formats: list):
-    ensure_dirs()
-    if APPLICATIONS_DIR in input_md.parents:
-        out_dir = input_md.parent
-    else:
-        out_dir = APPLICATIONS_DIR / f"{slugify(company)}-{slugify(role)}"
-    out_dir.mkdir(parents=True, exist_ok=True)
-    if which("pandoc") is None:
-        print(
-            "pandoc not found. Install pandoc to use the build pipeline.",
-            file=sys.stderr,
+def run(cmd: list, cwd: Path, timeout: int = 120):
+    """Run a command with timeout."""
+    try:
+        return subprocess.run(
+            cmd, cwd=str(cwd), capture_output=True, text=True, timeout=timeout
         )
-        sys.exit(1)
+    except subprocess.TimeoutExpired:
+        return subprocess.CompletedProcess(
+            cmd, returncode=1, stdout="", stderr="Build timed out"
+        )
+
+
+def check_dependencies() -> bool:
+    """Check that required dependencies are installed."""
+    missing = []
+    if which("pandoc") is None:
+        missing.append("pandoc")
+    if which("pdflatex") is None:
+        missing.append("pdflatex (LaTeX distribution)")
+
+    if missing:
+        log_error(f"Missing dependencies: {', '.join(missing)}")
+        log_info("Install pandoc: https://pandoc.org/installing.html")
+        log_info("Install LaTeX: brew install --cask mactex-no-gui (macOS)")
+        return False
+    return True
+
+
+def build_format(input_md: Path, out_dir: Path, fmt: str, style_file: Path) -> tuple:
+    """Build a single format. Returns (format, success, output_path, error)."""
     base_name = input_md.stem
-    if "pdf" in formats:
-        pdf_out = out_dir / f"{base_name}.pdf"
-        # Use cover letter style for cover_letter files, resume style for others
-        style_file = COVER_LETTER_STYLE_TEX if "cover_letter" in base_name else STYLE_TEX
-        pdf_cmd = [
+
+    if fmt == "pdf":
+        out_path = out_dir / f"{base_name}.pdf"
+        cmd = [
             "pandoc",
             str(input_md),
             "-o",
-            str(pdf_out),
+            str(out_path),
             "--include-in-header",
             str(style_file),
             "--pdf-engine",
@@ -77,48 +161,106 @@ def build_outputs(input_md: Path, company: str, role: str, formats: list):
             "--metadata=author=",
             "--metadata=date=",
         ]
-        r = run(pdf_cmd, ROOT)
-        if r.returncode != 0:
-            print(r.stderr, file=sys.stderr)
-            print("PDF build failed.", file=sys.stderr)
+    elif fmt == "docx":
+        out_path = out_dir / f"{base_name}.docx"
+        cmd = ["pandoc", str(input_md), "-o", str(out_path)]
+    elif fmt == "txt":
+        out_path = out_dir / f"{base_name}.txt"
+        cmd = ["pandoc", str(input_md), "-t", "plain", "-o", str(out_path)]
+    else:
+        return (fmt, False, None, f"Unknown format: {fmt}")
+
+    r = run(cmd, ROOT)
+    if r.returncode != 0:
+        return (fmt, False, out_path, r.stderr)
+    return (fmt, True, out_path, None)
+
+
+def build_outputs(
+    input_md: Path,
+    company: str,
+    role: str,
+    formats: list,
+    validate: bool = True,
+    parallel: bool = True,
+):
+    """Build all requested output formats from Markdown input."""
+    ensure_dirs()
+
+    # Determine output directory
+    if APPLICATIONS_DIR in input_md.parents:
+        out_dir = input_md.parent
+    else:
+        out_dir = APPLICATIONS_DIR / f"{slugify(company)}-{slugify(role)}"
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    # Check dependencies
+    if not check_dependencies():
+        sys.exit(1)
+
+    # Load and validate identity
+    text = read_file(input_md)
+    if validate:
+        identity = load_identity()
+        if identity:
+            warnings = validate_contact_info(text, identity)
+            for warning in warnings:
+                log_warning(f"CONTACT VALIDATION: {warning}")
+
+    # Determine style file
+    base_name = input_md.stem
+    style_file = COVER_LETTER_STYLE_TEX if "cover_letter" in base_name else STYLE_TEX
+
+    if not style_file.exists():
+        log_error(f"Style file not found: {style_file}")
+        sys.exit(1)
+
+    log_info(f"Building {base_name} → {', '.join(formats)}")
+
+    # Build formats (parallel or sequential)
+    results = []
+    if parallel and len(formats) > 1:
+        with ThreadPoolExecutor(max_workers=3) as executor:
+            futures = {
+                executor.submit(build_format, input_md, out_dir, fmt, style_file): fmt
+                for fmt in formats
+            }
+            for future in as_completed(futures):
+                results.append(future.result())
+    else:
+        for fmt in formats:
+            results.append(build_format(input_md, out_dir, fmt, style_file))
+
+    # Report results
+    success_count = 0
+    for fmt, success, out_path, error in results:
+        if success:
+            log_success(f"Built {out_path}")
+            success_count += 1
         else:
-            print(f"Built {pdf_out}")
-    if "docx" in formats:
-        docx_out = out_dir / f"{base_name}.docx"
-        docx_cmd = [
-            "pandoc",
-            str(input_md),
-            "-o",
-            str(docx_out),
-        ]
-        r = run(docx_cmd, ROOT)
-        if r.returncode != 0:
-            print(r.stderr, file=sys.stderr)
-            print("DOCX build failed.", file=sys.stderr)
-        else:
-            print(f"Built {docx_out}")
-    if "txt" in formats:
-        txt_out = out_dir / f"{base_name}.txt"
-        txt_cmd = [
-            "pandoc",
-            str(input_md),
-            "-t",
-            "plain",
-            "-o",
-            str(txt_out),
-        ]
-        r = run(txt_cmd, ROOT)
-        if r.returncode != 0:
-            print(r.stderr, file=sys.stderr)
-            print("TXT build failed.", file=sys.stderr)
-        else:
-            print(f"Built {txt_out}")
+            log_error(f"{fmt.upper()} build failed: {error}")
+
+    # Summary
+    if success_count == len(formats):
+        log_success(f"All {success_count} formats built successfully")
+    elif success_count > 0:
+        log_warning(f"{success_count}/{len(formats)} formats built")
+    else:
+        log_error("All builds failed")
+        sys.exit(1)
 
 
 def main():
     p = argparse.ArgumentParser(
         prog="build_resume",
         description="Build resume/cover letter outputs from Markdown.",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Examples:
+  python build_resume.py resume.md
+  python build_resume.py resume.md --formats pdf
+  python build_resume.py cover_letter.md --company "Acme Inc" --role "Senior Engineer"
+        """,
     )
     p.add_argument("input", help="Path to input Markdown file")
     p.add_argument("--company", help="Company name override")
@@ -126,19 +268,51 @@ def main():
     p.add_argument(
         "--formats",
         default="pdf,docx,txt",
-        help="Comma-separated formats: pdf,docx,txt",
+        help="Comma-separated formats: pdf,docx,txt (default: pdf,docx,txt)",
+    )
+    p.add_argument(
+        "--no-validate",
+        action="store_true",
+        help="Skip contact info validation against identity.json",
+    )
+    p.add_argument(
+        "--sequential",
+        action="store_true",
+        help="Build formats sequentially instead of in parallel",
     )
     args = p.parse_args()
+
     input_md = Path(args.input).resolve()
     if not input_md.exists():
-        print("Input Markdown not found.", file=sys.stderr)
+        log_error(f"Input file not found: {input_md}")
         sys.exit(1)
+
+    if not input_md.suffix.lower() == ".md":
+        log_warning(f"Input file may not be Markdown: {input_md.suffix}")
+
     text = read_file(input_md)
     fm = parse_frontmatter(text)
     company = args.company or fm.get("company") or "Company"
     role = args.role or fm.get("role") or "Role"
-    formats = [f.strip() for f in args.formats.split(",") if f.strip()]
-    build_outputs(input_md, company, role, formats)
+    formats = [f.strip().lower() for f in args.formats.split(",") if f.strip()]
+
+    # Validate formats
+    valid_formats = {"pdf", "docx", "txt"}
+    invalid = set(formats) - valid_formats
+    if invalid:
+        log_error(
+            f"Invalid formats: {', '.join(invalid)}. Valid: {', '.join(valid_formats)}"
+        )
+        sys.exit(1)
+
+    build_outputs(
+        input_md,
+        company,
+        role,
+        formats,
+        validate=not args.no_validate,
+        parallel=not args.sequential,
+    )
 
 
 if __name__ == "__main__":

@@ -1,0 +1,37 @@
+# Career Architect - Git Ignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+
+# Build artifacts
+*.pdf
+*.docx
+*.aux
+*.log
+*.out
+.last_build
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keep applications structure but ignore generated files
+# Uncomment below if you want to track application markdown but not outputs
+# applications/**/*.pdf
+# applications/**/*.docx
+# applications/**/*.txt

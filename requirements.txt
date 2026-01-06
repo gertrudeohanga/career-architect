@@ -1,0 +1,11 @@
+# Career Architect - Python Dependencies
+# =====================================
+
+# Core utilities (standard library mostly used, but these enhance the experience)
+rich>=13.0.0          # Beautiful terminal output and progress bars
+click>=8.0.0          # CLI framework for better command-line tools
+watchdog>=3.0.0       # File system monitoring for auto-rebuild
+pyyaml>=6.0           # YAML parsing for frontmatter
+
+# Optional: Enhanced functionality
+python-frontmatter>=1.0.0  # Better frontmatter parsing
