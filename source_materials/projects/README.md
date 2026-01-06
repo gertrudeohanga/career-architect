@@ -1,3 +1,27 @@
+# How to Add Your Projects
+
+> **Do this BEFORE running the setup prompt!**
+
+Document your key projects here. The AI will extract achievements and metrics to use in tailored resumes.
+
+## Instructions
+
+1. **Create a new `.md` file** for each significant project
+2. **Fill in the details** - focus on impact and metrics
+3. **Name files descriptively**: `project-name.md`
+
+## Example Files to Create
+
+```
+source_materials/projects/
+├── saas-platform.md           # Your main product/project
+├── payment-system.md          # A key system you built
+├── open-source-library.md     # Open source contributions
+└── side-project.md            # Notable personal projects
+```
+
+---
+
 # Project Template
 
 > Copy this template for each significant project you want to highlight.

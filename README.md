@@ -35,7 +35,9 @@ make check  # Verify dependencies
 
 ### 2. Configure Your Profile (One-Time)
 
-Edit `source_materials/identity.json` with your info:
+**Step A: Edit your identity**
+
+Update `source_materials/identity.json` with your contact info:
 
 ```json
 {
@@ -48,9 +50,35 @@ Edit `source_materials/identity.json` with your info:
 }
 ```
 
-Then tell your AI assistant:
+**Step B: Add your historical resumes**
 
-> "Read the `.prompts/setup.md` prompt and help me build my master experience file from my resume"
+Copy-paste your existing resumes into `source_materials/resumes/`:
+
+```
+source_materials/resumes/
+├── 2024-google-resume.md      # Paste your Google application resume
+├── 2023-startup-resume.md     # Paste your startup resume
+└── general-resume.md          # Your most complete/recent resume
+```
+
+**Step C: Add your projects**
+
+Document key projects in `source_materials/projects/`:
+
+```
+source_materials/projects/
+├── saas-platform.md           # Your SaaS project details
+├── open-source-contrib.md     # Open source contributions
+└── side-project.md            # Notable side projects
+```
+
+**Step D: Build your experience lake**
+
+Now tell your AI assistant:
+
+> "Read `.prompts/setup.md` and analyze my resumes in `source_materials/resumes/` and projects in `source_materials/projects/` to build my master experience file."
+
+The AI will extract and structure all your achievements into `source_materials/master_experience.md`.
 
 ### 3. Apply to a Job
 

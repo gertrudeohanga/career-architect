@@ -2,18 +2,31 @@
 
 This directory contains AI instruction prompts for the Career Architect pipeline. Use these prompts with your AI assistant (Claude, GPT-4, etc.) to generate tailored job application materials.
 
+## First-Time Setup (Do This Once)
+
+Before using any prompts, you must add your source materials:
+
+```
+1. Edit identity.json          → Your contact info
+2. Add resumes to resumes/     → Copy-paste your existing resumes as .md files
+3. Add projects to projects/   → Document your key projects
+4. Run setup.md                → AI builds your master_experience.md
+```
+
+Then for each job application, just paste the job description!
+
 ## Quick Reference
 
-| Prompt                     | When to Use                         | Output                         |
-| -------------------------- | ----------------------------------- | ------------------------------ |
-| `main_orchestrator.md`     | Start here for new applications     | Full pipeline execution        |
-| `setup.md`                 | Initial setup / updating experience | `master_experience.md`         |
-| `analyser.md`              | Before tailoring resume             | Strategic Match Report         |
-| `tailor_resume.md`         | Generate targeted resume            | `resume.md`                    |
-| `application_questions.md` | Answer extra questions              | `extra_questions.md`           |
-| `interview_prep.md`        | Prepare for interviews              | Q&A coaching                   |
-| `gap_filler.md`            | Fill experience gaps                | Updated `master_experience.md` |
-| `pdf_generator.md`         | Prepare for PDF build               | Validated Markdown             |
+| Prompt                     | When to Use                              | Output                         |
+| -------------------------- | ---------------------------------------- | ------------------------------ |
+| `setup.md`                 | **First!** After adding resumes/projects | `master_experience.md`         |
+| `main_orchestrator.md`     | For each new job application             | Full pipeline                  |
+| `analyser.md`              | Gap analysis before tailoring            | Strategic Match Report         |
+| `tailor_resume.md`         | Generate targeted resume                 | `resume.md`                    |
+| `application_questions.md` | Answer extra questions                   | `extra_questions.md`           |
+| `interview_prep.md`        | Prepare for interviews                   | Q&A coaching                   |
+| `gap_filler.md`            | Fill experience gaps                     | Updated `master_experience.md` |
+| `pdf_generator.md`         | Prepare for PDF build                    | Validated Markdown             |
 
 ## Workflow Diagram
 
@@ -22,15 +35,22 @@ This directory contains AI instruction prompts for the Career Architect pipeline
 │                        CAREER ARCHITECT PIPELINE                         │
 └─────────────────────────────────────────────────────────────────────────┘
 
+SETUP PHASE (One-Time):
 ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
-│   setup.md   │────▶│  identity.json│────▶│master_exp.md │
-│  (One-time)  │     │   (Edit)      │     │  (Generated) │
+│ Add Resumes  │────▶│ Add Projects │────▶│  setup.md    │
+│ (resumes/)   │     │ (projects/)  │     │              │
 └──────────────┘     └──────────────┘     └──────────────┘
                                                   │
                                                   ▼
+                                         ┌──────────────┐
+                                         │master_exp.md │
+                                         │  (Generated) │
+                                         └──────────────┘
+
+APPLICATION PHASE (Per Job):
 ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
 │  Job Desc    │────▶│ analyser.md  │────▶│ Match Report │
-│  (Input)     │     │              │     │              │
+│  (Paste it!) │     │              │     │              │
 └──────────────┘     └──────────────┘     └──────────────┘
                                                   │
                            ┌──────────────────────┤
