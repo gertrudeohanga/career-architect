@@ -8,17 +8,33 @@
   "gitlab": "",
   "portfolio": "",
   "date_of_birth": "",
-  "gender": "Male",
+  "gender": "",
+
+  "preferences": {
+    "language": "en",
+    "resume_style": "modern_builder",
+    "tone": "professional",
+    "include_photo": false,
+    "date_format": "YYYY-MM",
+    "notes": "Set resume_style to: modern_builder, traditional, academic, or creative"
+  },
+
+  "narrative_hooks": {
+    "why_this_industry": "",
+    "why_this_location": "",
+    "career_mission": "",
+    "unique_value": ""
+  },
+
   "logistics": {
     "salary_expectation": "",
+    "salary_currency": "USD",
     "salary_notes": "",
     "notice_period": "",
     "work_authorization": "",
     "relocation": "",
+    "remote_preference": "",
     "availability": "",
-    "languages": {
-      "english": "",
-      "german": ""
-    }
+    "spoken_languages": []
   }
 }

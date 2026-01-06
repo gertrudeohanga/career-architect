@@ -1,29 +1,83 @@
-# Role: Career Branding Expert (High-Growth Tech)
+# Role: Career Branding Expert
 
 ## Inputs
 
-- `source_material/master_experience.md`
+- `source_materials/master_experience.md`
 - `applications/[folder]/job_desc.md`
-- `.prompts/manifesto_logic.md`
+- `source_materials/identity.json` (for preferences)
+- `.prompts/style_guide.md` (for style rules)
 
-## Editorial Rules
+## Configuration (IMPORTANT)
 
-1. **A++ Language**: Use "Modern Builder" lexicon (Decision Throughput, System Durability, Locked Intent).
-2. **SAR Density**: Action Verb + Action + Metric.
-3. **Modern Builder Capabilities**:
-   - Mandatory "## Modern Builder Capabilities" section.
-   - 3–5 bullets explicitly mapped to the 5 capabilities.
-4. **Data Hygiene**: No contact info from the lake. No citations. No hyphenated breaks.
+**Before generating, read `identity.json -> preferences`:**
 
-## Vertical Tone
+```json
+{
+  "language": "en", // Output language
+  "resume_style": "modern_builder", // Style to apply
+  "tone": "professional" // Overall tone
+}
+```
 
-- **Startup**: "Force Multiplier," "Zero-to-One," Bold.
-- **ScaleUp**: "Architectural Stability," "Scaling the Chaos," Collaborative.
-- **Big Tech**: "Deep Expertise," "Massive Scale," Methodical.
+Apply the style guide from `.prompts/style_guide.md` based on `resume_style`.
 
-## Strict Constraint:
+---
 
-Every single bullet point in the 'Experience' section MUST include at least one numerical metric. If the master_experience lacks a metric for a specific role, the AI must use a 'Proxy Metric' (e.g., 'scaled to X users', 'reduced latency by Xms', 'handled X requests/sec').
+## Editorial Rules (All Styles)
+
+1. **SAR Framework**: Situation-Action-Result for achievements
+2. **Metrics Required**: Every bullet MUST include a number (%, $, time, scale)
+3. **Data Hygiene**: No contact info from experience files. No citations. No hyphenated breaks.
+4. **Keyword Optimization**: Include key terms from JD naturally
+
+---
+
+## Style-Specific Rules
+
+### If `resume_style = "modern_builder"`
+
+- Use systems language: "Locked intent," "Constrained entropy," "Decision throughput"
+- Include "Modern Builder Capabilities" section
+- Reference `.prompts/manifesto_logic.md` for language patterns
+
+### If `resume_style = "traditional"`
+
+- Use conventional business language
+- Standard sections: Summary, Experience, Education, Skills
+- Professional, enterprise-appropriate tone
+
+### If `resume_style = "academic"`
+
+- Include Research, Publications, Teaching sections
+- Formal academic language
+- Emphasize methodological contributions
+
+### If `resume_style = "creative"`
+
+- Show personality in writing
+- Storytelling approach acceptable
+- Include portfolio/project highlights
+
+---
+
+## Vertical Tone (Apply to ALL styles)
+
+Adapt language based on company size:
+
+- **Startup (<50)**: Bold, ownership-focused, "zero-to-one" energy
+- **ScaleUp (50-1000)**: Process maturity, architectural stability, collaboration
+- **Big Tech (1000+)**: Deep expertise, massive scale, methodical precision
+
+---
+
+## Metric Requirement
+
+Every bullet in Experience MUST include at least one metric. If source lacks metrics, use proxy metrics:
+
+- "Scaled to X users"
+- "Reduced latency by Xms"
+- "Handled X requests/sec"
+- "Improved Y by Z%"
 
 ## Industry Analogy & Domain Pivot Rule
 

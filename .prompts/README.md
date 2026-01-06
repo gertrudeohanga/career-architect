@@ -17,16 +17,40 @@ Then for each job application, just paste the job description!
 
 ## Quick Reference
 
-| Prompt                     | When to Use                              | Output                         |
-| -------------------------- | ---------------------------------------- | ------------------------------ |
-| `setup.md`                 | **First!** After adding resumes/projects | `master_experience.md`         |
-| `main_orchestrator.md`     | For each new job application             | Full pipeline                  |
-| `analyser.md`              | Gap analysis before tailoring            | Strategic Match Report         |
-| `tailor_resume.md`         | Generate targeted resume                 | `resume.md`                    |
-| `application_questions.md` | Answer extra questions                   | `extra_questions.md`           |
-| `interview_prep.md`        | Prepare for interviews                   | Q&A coaching                   |
-| `gap_filler.md`            | Fill experience gaps                     | Updated `master_experience.md` |
-| `pdf_generator.md`         | Prepare for PDF build                    | Validated Markdown             |
+### Core Pipeline
+
+| Prompt                     | When to Use                              | Output                 |
+| -------------------------- | ---------------------------------------- | ---------------------- |
+| `setup.md`                 | **First!** After adding resumes/projects | `master_experience.md` |
+| `main_orchestrator.md`     | For each new job application             | Full pipeline          |
+| `analyser.md`              | Gap analysis before tailoring            | Strategic Match Report |
+| `tailor_resume.md`         | Generate targeted resume                 | `resume.md`            |
+| `cover_letter.md`          | Generate cover letter                    | `cover_letter.md`      |
+| `application_questions.md` | Answer extra questions                   | `extra_questions.md`   |
+| `pdf_generator.md`         | Prepare for PDF build                    | Validated Markdown     |
+
+### Supporting Prompts
+
+| Prompt                  | When to Use                        | Output                         |
+| ----------------------- | ---------------------------------- | ------------------------------ |
+| `style_guide.md`        | Reference for resume styles        | Style configuration            |
+| `interview_prep.md`     | Prepare for interviews             | Q&A coaching                   |
+| `linkedin_optimizer.md` | Optimize LinkedIn profile          | Profile content                |
+| `follow_up.md`          | Post-application communications    | Email templates                |
+| `gap_filler.md`         | Fill experience gaps               | Updated `master_experience.md` |
+| `manifesto_logic.md`    | Modern Builder language (optional) | Language patterns              |
+
+### Configuration
+
+Set your preferences in `source_materials/identity.json`:
+
+```json
+"preferences": {
+  "language": "en",              // en, de, es, fr, pt, etc.
+  "resume_style": "traditional", // modern_builder, traditional, academic, creative
+  "tone": "professional"         // professional, conversational, formal
+}
+```
 
 ## Workflow Diagram
 

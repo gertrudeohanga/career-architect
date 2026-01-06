@@ -2,24 +2,36 @@
 
 ## Task: Initialize and execute the end-to-end "Job Application Build Pipeline."
 
-### Step 0: Workspace Initialization (Smart Directory Logic)
+### Step 0: Load User Preferences
+
+**CRITICAL**: Before any generation, read `source_materials/identity.json`:
+
+```
+preferences.language      → Output language (en, de, es, fr, pt, etc.)
+preferences.resume_style  → Style guide to apply (modern_builder, traditional, academic, creative)
+preferences.tone          → Overall tone (professional, conversational, formal)
+```
+
+Reference `.prompts/style_guide.md` for style-specific rules.
+
+### Step 0.5: Workspace Initialization
 
 - **Scan**: Identify Company Name and Role from the provided Job Description (JD).
 - **Directory Creation**: Create `applications/YYYY-MM-DD-company-role/`.
 - **Action**: If only JD text was provided, save it as `job_desc.md` inside that new directory.
 
-### Step 0.5: Vertical Classification & Strategy
+### Step 0.7: Vertical Classification
 
-Classify the company and apply the corresponding strategy:
+Classify the company size and adapt tone accordingly:
 
-- **🚀 Bucket A: Early-Stage Startups (<50 people)**: Focus on "Force Multiplier," "Zero-to-One" wins, and high-energy ownership.
-- **📈 Bucket B: High-Growth ScaleUps (50-1000 people)**: Focus on "Scaling the Chaos," process maturity, and architectural stability.
-- **🏢 Bucket C: Big Tech / FAANG (1000+ people)**: Focus on "Deep Expertise at Scale," precise data/metrics, and cross-functional standards.
+- **🚀 Startup (<50 people)**: Bold, ownership-focused, high-energy
+- **📈 ScaleUp (50-1000 people)**: Process maturity, architectural stability, collaboration
+- **🏢 Big Tech (1000+ people)**: Deep expertise, massive scale, methodical precision
 
-### Step 0.7: Manifesto Alignment
+### Step 0.8: Style Alignment
 
-- Execute `.prompts/manifesto_logic.md`.
-- Ensure all subsequent steps view the candidate as a **Modern Builder** (Judgment > Code, Entropy Control, Elite Pairs).
+- If `resume_style = "modern_builder"`: Execute `.prompts/manifesto_logic.md`
+- Otherwise: Skip manifesto, use style from `.prompts/style_guide.md`
 
 ### Step 1: Deep Analysis
 
@@ -29,8 +41,8 @@ Classify the company and apply the corresponding strategy:
 
 ### Step 2: Generation (Core Documents)
 
-- Execute `.prompts/tailor_resume.md`.
-- Draft `cover_letter.md` using the "Vertical Tone" and "Manifesto Logic."
+- Execute `.prompts/tailor_resume.md` (respects user's style preference).
+- Execute `.prompts/cover_letter.md` to generate cover letter.
 
 ### Step 2.5: Handle Extra Questions (Logistics & Narrative)
 
