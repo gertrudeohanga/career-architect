@@ -1,0 +1,51 @@
+% --- Professional Cover Letter Styling ---
+\usepackage[empty]{fullpage}
+\usepackage{xcolor}
+\usepackage[unicode]{hyperref}
+\usepackage{setspace}
+\usepackage{parskip}
+\usepackage{fontawesome5}
+
+% Define Slate Blue Accent
+\definecolor{accentcolor}{HTML}{2E5984}
+
+% Setup Margins - Business letter spacing
+\addtolength{\oddsidemargin}{-0.4in}
+\addtolength{\evensidemargin}{-0.4in}
+\addtolength{\textwidth}{0.8in}
+\addtolength{\topmargin}{-.4in}
+\addtolength{\textheight}{0.8in}
+
+% Link styling
+\hypersetup{colorlinks=true, urlcolor=accentcolor}
+
+% Contact header similar to resume but appropriate for cover letters
+\newcommand{\letterheader}[7]{
+    \begin{center}
+        \textbf{\Large #1} \\ \vspace{6pt}
+        \small #2 \ $|$ \ #3 \ $|$ \ \href{mailto:#4}{#4} \\ \vspace{2pt}
+        \href{#5}{\faIcon{linkedin} LinkedIn} \ $|$ \ \href{#6}{\faIcon{github} GitHub} \ $|$ \ \href{#7}{\faIcon{globe} Portfolio}
+    \end{center}
+    \vspace{10pt}
+}
+
+% Alternative contact line command (same as resume template)
+\newcommand{\contactline}[7]{
+    \begin{center}
+        \textbf{\Large #1} \\ \vspace{6pt}
+        \small #2 \ $|$ \ #3 \ $|$ \ \href{mailto:#4}{#4} \\ \vspace{2pt}
+        \href{#5}{\faIcon{linkedin} LinkedIn} \ $|$ \ \href{#6}{\faIcon{github} GitHub} \ $|$ \ \href{#7}{\faIcon{globe} Portfolio}
+    \end{center}
+    \vspace{10pt}
+}
+
+% Clean bullet points for cover letters
+\usepackage{enumitem}
+\setlist[itemize]{leftmargin=0.15in, labelsep=0.5em, nosep, after=\vspace{4pt}}
+
+% Proper spacing for business letters
+\setlength{\parskip}{6pt}
+\onehalfspacing
+
+% No page numbers on cover letters
+\pagenumbering{gobble}

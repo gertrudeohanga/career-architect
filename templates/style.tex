@@ -1,0 +1,48 @@
+% --- Modern Professional Header & Section Styling ---
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{xcolor}
+\usepackage[unicode]{hyperref}
+\usepackage{enumitem}
+\usepackage{fontawesome5}
+\usepackage{setspace}
+\usepackage{parskip}
+\usepackage{graphicx}
+
+% Define Slate Blue Accent
+\definecolor{accentcolor}{HTML}{2E5984}
+
+% Setup Margins - More readable spacing
+\addtolength{\oddsidemargin}{-0.4in}
+\addtolength{\evensidemargin}{-0.4in}
+\addtolength{\textwidth}{0.8in}
+\addtolength{\topmargin}{-.4in}
+\addtolength{\textheight}{0.8in}
+
+% --- Header Styling - Improved spacing ---
+\titleformat{\section}{\vspace{-2pt}\scshape\raggedright\large\bfseries\color{accentcolor}}{}{0em}{}[\color{black}\titlerule \vspace{-3pt}]
+
+% Link styling
+\hypersetup{colorlinks=true, urlcolor=accentcolor}
+
+% Custom command for the contact line (7 parameters) - Improved readability
+\newcommand{\contactline}[7]{
+    \begin{center}
+        \textbf{\Huge #1} \\ \vspace{8pt}
+        \small #2 \ $|$ \ #3 \ $|$ \ \href{mailto:#4}{#4} \\ \vspace{2pt}
+        \href{#5}{\faIcon{linkedin} LinkedIn} \ $|$ \ \href{#6}{\faIcon{github} GitHub} \ $|$ \ \href{#7}{\faIcon{globe} Portfolio}
+    \end{center}
+    \vspace{12pt}
+}
+
+% Bullet point styling - Clear and visible bullets for experience highlights
+\setlist[itemize]{leftmargin=0.15in, labelsep=0.5em, nosep, after=\vspace{4pt}, itemsep=3pt, topsep=2pt}
+\renewcommand{\labelitemi}{\large{\color{accentcolor}\textbullet}}
+\setlength{\parskip}{4pt}
+\onehalfspacing
+
+% Experience section formatting - ensure bullets are prominent
+\usepackage{needspace}
+\let\oldsection\section
+\renewcommand{\section}{\needspace{4\baselineskip}\oldsection}
+\pagenumbering{gobble}

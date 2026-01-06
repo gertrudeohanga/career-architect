@@ -1,0 +1,24 @@
+{
+  "full_name": "Your Name",
+  "email": "your@email.com",
+  "phone": "+254 712 345 678",
+  "location": "Nairobi, Kenya",
+  "linkedin": "",
+  "github": "",
+  "gitlab": "",
+  "portfolio": "",
+  "date_of_birth": "",
+  "gender": "Male",
+  "logistics": {
+    "salary_expectation": "",
+    "salary_notes": "",
+    "notice_period": "",
+    "work_authorization": "",
+    "relocation": "",
+    "availability": "",
+    "languages": {
+      "english": "",
+      "german": ""
+    }
+  }
+}
