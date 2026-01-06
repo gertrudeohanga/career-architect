@@ -1,44 +1,41 @@
 # Career Architect 🏗️
 
-An AI-powered job application pipeline that helps engineers create tailored resumes, cover letters, and application materials using a structured prompt system.
+> **Paste a job description. Let AI do the rest.**
 
-## Features
+An open-source, AI-powered job application pipeline that helps engineers create tailored resumes, cover letters, and application materials. Just paste the job description and your AI coding assistant handles everything.
 
-- **AI-Guided Workflow**: Structured prompts for consistent, high-quality outputs
-- **Modern Builder Framework**: Emphasizes metrics-driven achievements and system leadership
-- **Multi-Format Export**: Generate PDF, DOCX, and TXT from Markdown sources
-- **Vertical Targeting**: Customized tone for Startups, ScaleUps, and Big Tech
-- **Gap Analysis**: Identifies skill gaps and suggests strategic pivots
-- **Interview Prep**: Generate predictive questions based on your application
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-## Quick Start
+## How It Works
 
-### Prerequisites
-
-- Python 3.8+
-- [Pandoc](https://pandoc.org/installing.html)
-- LaTeX distribution (for PDF generation):
-  - macOS: `brew install --cask mactex-no-gui`
-  - Ubuntu: `sudo apt-get install texlive-full`
-  - Windows: [MiKTeX](https://miktex.org/download)
-
-### Installation
-
-```bash
-# Clone the repository
-git clone <repo-url>
-cd learning
-
-# Install Python dependencies
-pip install -r requirements.txt
-
-# Verify Pandoc installation
-pandoc --version
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│                                                                        │
+│   1. PASTE JOB DESCRIPTION  →  2. AI GENERATES  →  3. BUILD PDF       │
+│                                                                        │
+│   You provide the JD            AI creates:         One command:       │
+│   to your AI assistant          • Tailored resume   python compile.py  │
+│                                 • Cover letter                         │
+│                                 • Interview prep                       │
+│                                                                        │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-### Setup Your Profile
+## Quick Start (5 Minutes)
 
-1. **Edit your identity** in `source_materials/identity.json`:
+### 1. Clone & Setup
+
+```bash
+git clone https://github.com/yourusername/career-architect.git
+cd career-architect
+make install
+make check  # Verify dependencies
+```
+
+### 2. Configure Your Profile (One-Time)
+
+Edit `source_materials/identity.json` with your info:
 
 ```json
 {
@@ -46,66 +43,79 @@ pandoc --version
   "email": "your@email.com",
   "phone": "+1 234 567 8901",
   "location": "City, Country",
-  "linkedin": "https://linkedin.com/in/yourprofile",
-  "github": "https://github.com/yourusername",
-  "portfolio": "https://yoursite.com"
+  "linkedin": "https://linkedin.com/in/you",
+  "github": "https://github.com/you"
 }
 ```
 
-2. **Build your experience lake** in `source_materials/master_experience.md` using the setup prompt
+Then tell your AI assistant:
 
-3. **Add projects** to `source_materials/projects/`
+> "Read the `.prompts/setup.md` prompt and help me build my master experience file from my resume"
 
-## Usage
+### 3. Apply to a Job
 
-### The Pipeline Workflow
+**Just paste the job description to your AI assistant and say:**
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  1. Job Description → 2. Analysis → 3. Generation → 4. Build   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> "I want to apply for this job. Use the Career Architect pipeline."
 
-#### Step 1: Start a New Application
+That's it! The AI will:
 
-Provide a job description to your AI assistant with the main orchestrator prompt (`.prompts/main_orchestrator.md`). The system will:
+1. ✅ Create an application folder
+2. ✅ Analyze the job requirements against your experience
+3. ✅ Generate a tailored resume with metrics
+4. ✅ Write a matching cover letter
+5. ✅ Prepare you for interviews
 
-- Extract company and role information
-- Create `applications/YYYY-MM-DD-company-role/`
-- Save the job description as `job_desc.md`
-
-#### Step 2: Build Documents
+### 4. Build PDFs
 
 ```bash
-# Build a specific resume
-python scripts/build_resume.py applications/2025-01-06-acme-senior-engineer/resume.md
-
-# Build with specific formats
-python scripts/build_resume.py resume.md --formats pdf,docx
-
-# Build most recent application
 python scripts/compile_all.py
-
-# Build all applications
-python scripts/compile_all.py --all
-
-# Build specific application
-python scripts/compile_all.py --application "2025-01-06-acme-senior-engineer"
 ```
 
-### CLI Reference
+## Features
+
+- **🤖 AI-Native Workflow** - Designed for Claude, GPT-4, Copilot, and other AI assistants
+- **📊 Modern Builder Framework** - Metrics-driven achievements using SAR (Situation-Action-Result)
+- **🎯 Vertical Targeting** - Auto-adapts tone for Startups vs ScaleUps vs Big Tech
+- **📄 Multi-Format Export** - PDF, DOCX, and TXT from single Markdown source
+- **🔍 Gap Analysis** - Identifies skill gaps and suggests how to address them
+- **🎤 Interview Prep** - Generates likely questions with model answers
+
+## Prerequisites
+
+- **Python 3.8+**
+- **AI Assistant** (Claude, GPT-4, Cursor, Windsurf, etc.)
+- **[Pandoc](https://pandoc.org/installing.html)** - Document conversion
+- **LaTeX** - PDF generation
+  - macOS: `brew install --cask mactex-no-gui`
+  - Ubuntu: `sudo apt-get install texlive-full`
+  - Windows: [MiKTeX](https://miktex.org/download)
+
+## CLI Commands
 
 ```bash
-# Build resume/cover letter
-python scripts/build_resume.py <input.md> [options]
-  --company    Company name override
-  --role       Role name override
-  --formats    Output formats: pdf,docx,txt (default: pdf,docx,txt)
+# Create new application
+python scripts/career.py new --company "Acme" --role "Senior Engineer"
 
-# Compile applications
-python scripts/compile_all.py [options]
-  --all           Build all applications
-  --application   Build specific application by folder name
+# Build documents
+python scripts/career.py build              # Most recent application
+python scripts/career.py build --all        # All applications
+python scripts/career.py build --force      # Force rebuild
+
+# List applications
+python scripts/career.py list
+
+# Check setup
+python scripts/career.py status
+python scripts/career.py validate
+```
+
+Or use Make:
+
+```bash
+make build                    # Build most recent
+make build-all               # Build all
+make new COMPANY=Acme ROLE=Engineer
 ```
 
 ## Project Structure
