@@ -271,6 +271,32 @@ def cmd_ats(args):
     return subprocess.run(cmd, cwd=str(ROOT)).returncode
 
 
+def cmd_scrape(args):
+    """Scrape job description from URL."""
+    from job_scraper import fetch_job, create_application
+
+    print(f"\n{BOLD}Job Scraper{RESET}\n")
+
+    data = fetch_job(args.url)
+    if not data:
+        return 1
+
+    log("✓", f"Company: {data.get('company', 'Unknown')}", GREEN)
+    log("✓", f"Role: {data.get('role', 'Unknown')}", GREEN)
+
+    if args.create:
+        app_dir = create_application(data)
+        if app_dir:
+            log("✓", f"Created: {app_dir.name}", GREEN)
+    else:
+        desc = data.get("description", "")[:500]
+        if desc:
+            print(f"\nDescription preview:\n{desc}...")
+        print("\nRun with --create to create application folder")
+
+    return 0
+
+
 def cmd_batch(args):
     """Batch process multiple job descriptions."""
     from batch_process import process_folder
@@ -543,6 +569,13 @@ def main():
         "--dry-run", "-n", action="store_true", help="Preview only"
     )
 
+    # scrape command
+    scrape_parser = subparsers.add_parser("scrape", help="Import from URL")
+    scrape_parser.add_argument("url", help="Job posting URL")
+    scrape_parser.add_argument(
+        "--create", "-c", action="store_true", help="Create application"
+    )
+
     args = parser.parse_args()
 
     if not args.command:
@@ -560,6 +593,7 @@ def main():
         "version": cmd_version,
         "export": cmd_export,
         "batch": cmd_batch,
+        "scrape": cmd_scrape,
     }
 
     return commands[args.command](args)

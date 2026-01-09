@@ -158,7 +158,27 @@ python scripts/career.py stats                  # Application statistics
 # Batch processing
 python scripts/career.py batch ./jd_folder      # Import multiple JDs
 python scripts/career.py batch ./jd_folder -n   # Preview (dry run)
+
+# Scrape from URL
+python scripts/career.py scrape <url>           # Preview job details
+python scripts/career.py scrape <url> --create  # Create application
 ```
+
+## Web Dashboard
+
+Launch the visual dashboard:
+
+```bash
+streamlit run app.py
+```
+
+Features:
+
+- 📊 Dashboard overview of all applications
+- 📝 Application management with status updates
+- ➕ Create new applications with form
+- 📈 Analytics and statistics
+- ⚙️ Profile settings
 
 Or use Make:
 
