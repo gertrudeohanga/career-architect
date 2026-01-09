@@ -50,6 +50,11 @@
 % Stylish bullet points
 \setlist[itemize]{leftmargin=0.15in, labelsep=0.5em, nosep, itemsep=4pt}
 \renewcommand{\labelitemi}{\textcolor{primary}{\faIcon{chevron-right}}}
+
+% Numbered list styling with color
+\setlist[enumerate]{leftmargin=0.2in, labelsep=0.5em, itemsep=4pt, topsep=4pt, parsep=2pt}
+\setlist[enumerate,1]{label=\textcolor{primary}{\arabic*.}}
+\setlist[enumerate,2]{label=\textcolor{secondary}{\alph*.}, leftmargin=0.3in}
 \setlength{\parskip}{5pt}
 \onehalfspacing
 

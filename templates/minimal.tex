@@ -35,6 +35,11 @@
 % Clean bullet points
 \setlist[itemize]{leftmargin=0.2in, labelsep=0.4em, nosep, itemsep=2pt}
 \renewcommand{\labelitemi}{\textbullet}
+
+% Numbered list styling
+\setlist[enumerate]{leftmargin=0.25in, labelsep=0.4em, itemsep=2pt, topsep=3pt, parsep=2pt}
+\setlist[enumerate,1]{label=\arabic*.}
+\setlist[enumerate,2]{label=\alph*., leftmargin=0.35in}
 \setlength{\parskip}{3pt}
 
 \pagenumbering{gobble}

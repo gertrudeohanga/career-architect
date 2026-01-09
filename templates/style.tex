@@ -38,6 +38,11 @@
 % Bullet point styling - Clear and visible bullets for experience highlights
 \setlist[itemize]{leftmargin=0.15in, labelsep=0.5em, nosep, after=\vspace{4pt}, itemsep=3pt, topsep=2pt}
 \renewcommand{\labelitemi}{\large{\color{accentcolor}\textbullet}}
+
+% Numbered list styling - Proper spacing and formatting
+\setlist[enumerate]{leftmargin=0.2in, labelsep=0.5em, itemsep=3pt, topsep=4pt, parsep=2pt}
+\setlist[enumerate,1]{label=\arabic*.}
+\setlist[enumerate,2]{label=\alph*., leftmargin=0.3in}
 \setlength{\parskip}{4pt}
 \onehalfspacing
 
