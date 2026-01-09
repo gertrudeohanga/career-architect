@@ -271,6 +271,26 @@ def cmd_ats(args):
     return subprocess.run(cmd, cwd=str(ROOT)).returncode
 
 
+def cmd_batch(args):
+    """Batch process multiple job descriptions."""
+    from batch_process import process_folder
+
+    input_dir = Path(args.input)
+    print(f"\n{BOLD}Batch Processing Job Descriptions{RESET}\n")
+
+    if args.dry_run:
+        log("ℹ", "DRY RUN - No folders will be created", BLUE)
+
+    results = process_folder(input_dir, args.dry_run)
+
+    print(f"\n{BOLD}Summary{RESET}")
+    print(f"  Processed: {len(results['processed'])}")
+    print(f"  Skipped:   {len(results['skipped'])}")
+    print(f"  Errors:    {len(results['errors'])}")
+
+    return 0 if not results["errors"] else 1
+
+
 def cmd_export(args):
     """Export resume to ATS-friendly formats."""
     from export_resume import export_txt, export_json_resume, find_latest_application
@@ -516,6 +536,13 @@ def main():
     exp_parser.add_argument("--app", "-a", help="Application folder")
     exp_parser.add_argument("--output", "-o", help="Output directory")
 
+    # batch command
+    batch_parser = subparsers.add_parser("batch", help="Batch process JDs")
+    batch_parser.add_argument("input", help="Folder with JD files")
+    batch_parser.add_argument(
+        "--dry-run", "-n", action="store_true", help="Preview only"
+    )
+
     args = parser.parse_args()
 
     if not args.command:
@@ -532,6 +559,7 @@ def main():
         "ats": cmd_ats,
         "version": cmd_version,
         "export": cmd_export,
+        "batch": cmd_batch,
     }
 
     return commands[args.command](args)

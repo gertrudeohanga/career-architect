@@ -1,0 +1,57 @@
+% --- Executive Professional Style ---
+% A sophisticated, authoritative resume template
+% Best for: Senior roles, management, enterprise companies
+
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{xcolor}
+\usepackage[unicode]{hyperref}
+\usepackage{enumitem}
+\usepackage{fontawesome5}
+\usepackage{setspace}
+\usepackage{parskip}
+
+% Professional color scheme
+\definecolor{navy}{HTML}{1E3A5F}
+\definecolor{gold}{HTML}{B8860B}
+\definecolor{charcoal}{HTML}{36454F}
+
+% Executive margins - balanced white space
+\addtolength{\oddsidemargin}{-0.35in}
+\addtolength{\evensidemargin}{-0.35in}
+\addtolength{\textwidth}{0.7in}
+\addtolength{\topmargin}{-.35in}
+\addtolength{\textheight}{0.7in}
+
+% Distinguished section headers
+\titleformat{\section}{
+    \vspace{-3pt}\scshape\large\bfseries\color{navy}
+}{}{0em}{}[\color{gold}\titlerule\vspace{-3pt}]
+
+% Professional link styling
+\hypersetup{colorlinks=true, urlcolor=navy, linkcolor=navy}
+
+% Executive contact header
+\newcommand{\contactline}[7]{
+    \begin{center}
+        {\fontsize{24}{30}\selectfont\textbf{\textsc{#1}}} \\[8pt]
+        \textcolor{charcoal}{\small
+            #2 \quad \textcolor{gold}{|} \quad
+            #3 \quad \textcolor{gold}{|} \quad
+            \href{mailto:#4}{#4}
+        } \\[4pt]
+        \textcolor{charcoal}{\small
+            \href{#5}{\faIcon{linkedin} LinkedIn} \quad \textcolor{gold}{|} \quad
+            \href{#6}{\faIcon{github} GitHub}
+        }
+    \end{center}
+    \vspace{10pt}
+}
+
+% Refined bullet points
+\setlist[itemize]{leftmargin=0.18in, labelsep=0.5em, nosep, itemsep=3pt}
+\renewcommand{\labelitemi}{\small\textcolor{gold}{\faIcon{angle-right}}}
+\setlength{\parskip}{4pt}
+\setstretch{1.15}
+
+\pagenumbering{gobble}

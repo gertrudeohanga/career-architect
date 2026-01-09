@@ -1,0 +1,40 @@
+% --- Minimal Clean Style ---
+% A clean, distraction-free resume template
+% Best for: Traditional industries, conservative companies
+
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage[unicode]{hyperref}
+\usepackage{enumitem}
+\usepackage{setspace}
+\usepackage{parskip}
+
+% Minimal margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1in}
+
+% Simple section headers - no color, clean lines
+\titleformat{\section}{\vspace{-4pt}\large\bfseries\uppercase}{}{0em}{}[\titlerule\vspace{-4pt}]
+
+% Subtle link styling
+\hypersetup{colorlinks=true, urlcolor=black, linkcolor=black}
+
+% Simple contact header
+\newcommand{\contactline}[7]{
+    \begin{center}
+        \textbf{\LARGE #1} \\[4pt]
+        \small #2 \quad $\bullet$ \quad #3 \quad $\bullet$ \quad #4 \\[2pt]
+        #5 \quad $\bullet$ \quad #6
+    \end{center}
+    \vspace{8pt}
+}
+
+% Clean bullet points
+\setlist[itemize]{leftmargin=0.2in, labelsep=0.4em, nosep, itemsep=2pt}
+\renewcommand{\labelitemi}{\textbullet}
+\setlength{\parskip}{3pt}
+
+\pagenumbering{gobble}

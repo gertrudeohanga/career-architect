@@ -154,6 +154,10 @@ python scripts/career.py version diff           # Compare versions
 
 # Analytics
 python scripts/career.py stats                  # Application statistics
+
+# Batch processing
+python scripts/career.py batch ./jd_folder      # Import multiple JDs
+python scripts/career.py batch ./jd_folder -n   # Preview (dry run)
 ```
 
 Or use Make:
@@ -197,6 +201,7 @@ career-architect/
 │   ├── ats_score.py             # ATS keyword analyzer
 │   ├── export_resume.py         # ATS format exporter
 │   ├── version_tracker.py       # Resume version tracking
+│   ├── batch_process.py         # Batch JD processing
 │   ├── build_resume.py          # Document builder
 │   └── compile_all.py           # Batch compiler
 ├── tests/                       # Unit tests
@@ -207,7 +212,10 @@ career-architect/
 │   ├── projects/                # Project case studies
 │   └── resumes/                 # Historical resumes
 ├── templates/
-│   ├── style.tex                # Resume LaTeX styling
+│   ├── style.tex                # Default resume style
+│   ├── minimal.tex              # Clean, conservative style
+│   ├── creative.tex             # Bold, colorful style
+│   ├── executive.tex            # Sophisticated style
 │   └── cover_letter_style.tex   # Cover letter styling
 ├── requirements.txt
 ├── Makefile
