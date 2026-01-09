@@ -103,13 +103,101 @@ If the Target Company is in a different vertical than the source history (e.g., 
 
 **Action**: After generating the resume, write it to the file. Do not just display — save to disk.
 
-**Format**: Include YAML frontmatter:
+---
 
-```yaml
+## Template Formatting Rules (MANDATORY)
+
+The resume will be converted to PDF using LaTeX templates. You MUST follow these rules exactly:
+
+### Header Format
+
+**DO NOT** create your own header with name, contact info, or styled text.
+
+**INSTEAD**, the PDF generator will inject a `\contactline` macro from `identity.json`.
+
+Your markdown should start with:
+
+```markdown
 ---
 company: [Company Name]
 role: [Role Title]
 date: [YYYY-MM-DD]
 version: 1.0
 ---
+
+## Summary
+
+[Your summary here...]
+```
+
+### Section Headers
+
+- **Use `##` (H2) for ALL section headers** - these become styled LaTeX sections
+- **NEVER use `#` (H1)** - this conflicts with the template header
+- **NEVER create a name header** - the template handles this automatically
+
+### Correct Section Order
+
+1. `## Summary`
+2. `## Experience` (or `## Modern Builder Capabilities` if using that style)
+3. `## Education`
+4. `## Skills`
+5. `## Certifications` (optional)
+
+### List Formatting
+
+- Use `-` for bullet points (unordered lists)
+- Use `1.` `2.` `3.` for numbered lists (each on new line)
+- Leave a blank line before starting any list
+- Do not mix bullets and numbers in the same list
+
+### What NOT to Include
+
+- ❌ Name as a header (`# John Doe`)
+- ❌ Contact info in markdown (email, phone, location)
+- ❌ Custom styling or formatting commands
+- ❌ Horizontal rules (`---`) except for frontmatter
+- ❌ Links to LinkedIn/GitHub (template adds these)
+
+### Example Correct Structure
+
+```markdown
+---
+company: Acme Corp
+role: Senior Engineer
+date: 2025-01-10
+version: 1.0
+---
+
+## Summary
+
+Results-driven engineer with 8+ years building scalable systems...
+
+## Experience
+
+### Acme Corp
+
+**Senior Software Engineer** | 2022 - Present
+
+- Architected microservices platform handling 10M+ daily requests
+- Reduced deployment time by 75% through CI/CD automation
+- Led team of 5 engineers delivering $2M revenue feature
+
+### Previous Company
+
+**Software Engineer** | 2019 - 2022
+
+- Built real-time data pipeline processing 1TB+ daily
+- Improved API response times by 40% through caching
+
+## Education
+
+### University Name
+
+**B.S. Computer Science** | 2019
+
+## Skills
+
+**Languages:** Python, TypeScript, Go
+**Infrastructure:** AWS, Kubernetes, Terraform
 ```

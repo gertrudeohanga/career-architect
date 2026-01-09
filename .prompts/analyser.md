@@ -4,6 +4,19 @@
 
 Perform a deep-gap analysis between `source_materials/master_experience.md` and the provided `job_desc.md`.
 
+## Input: job_desc.md Structure
+
+The job description should be formatted with these sections:
+
+- **Company Overview** - Industry, size, mission
+- **Role Summary** - What the role does
+- **Key Responsibilities** - Main duties
+- **Required Qualifications** - Must-have skills
+- **Preferred Qualifications** - Nice-to-haves
+- **Tech Stack / Tools** - Technologies used
+
+If `job_desc.md` is poorly formatted, first restructure it before analysis.
+
 ## Instructions
 
 1. **Keyword Extraction**: Identify the top 10 hard skills and top 5 soft skills/values from the JD.

@@ -20,6 +20,86 @@ Reference `.prompts/style_guide.md` for style-specific rules.
 - **Directory Creation**: Create `applications/YYYY-MM-DD-company-role/`.
 - **Action**: If only JD text was provided, save it as `job_desc.md` inside that new directory.
 
+### Step 0.6: Format Job Description (MANDATORY)
+
+When saving `job_desc.md`, use this structured format:
+
+````markdown
+---
+company: [Company Name]
+role: [Role Title]
+date_added: [YYYY-MM-DD]
+status: draft
+source_url: [URL if available]
+---
+
+# [Company Name] - [Role Title]
+
+## Company Overview
+
+[2-3 sentences about the company, industry, size, mission]
+
+## Role Summary
+
+[Brief description of what this role does and its impact]
+
+## Key Responsibilities
+
+- [Responsibility 1]
+- [Responsibility 2]
+- [Responsibility 3]
+
+## Required Qualifications
+
+- [Requirement 1]
+- [Requirement 2]
+- [Requirement 3]
+
+## Preferred Qualifications
+
+- [Nice-to-have 1]
+- [Nice-to-have 2]
+
+## Tech Stack / Tools
+
+- **Languages:** [List]
+- **Frameworks:** [List]
+- **Infrastructure:** [List]
+- **Other:** [List]
+
+## Compensation & Benefits
+
+- **Salary Range:** [If provided]
+- **Equity:** [If provided]
+- **Benefits:** [Key benefits]
+
+## Interview Process
+
+[If mentioned in JD]
+
+## Notes
+
+- [Any additional observations]
+- [Red flags or highlights]
+- [Questions to research]
+
+---
+
+## Original Job Posting
+
+> [Paste the complete, unmodified original job description here] > [Preserve all original formatting, bullet points, and text] > [This serves as the source of truth for reference]
+
+````
+
+**Formatting Rules:**
+- Use H1 (`#`) only for the main title
+- Use H2 (`##`) for major sections
+- Use bullet lists (`-`) for items
+- Bold key terms with `**term**`
+- Keep sections even if empty (mark as "Not specified")
+- Extract and organize scattered info into proper sections
+- **ALWAYS preserve original JD** in the "Original Job Posting" section
+
 ### Step 0.7: Vertical Classification
 
 Classify the company size and adapt tone accordingly:
@@ -67,3 +147,42 @@ Classify the company size and adapt tone accordingly:
 2. **Modern Builder Enforcement**: Every application MUST include the "Modern Builder Capabilities" section with metrics.
 3. **Industry Analogy Rule**: If the target industry is new (e.g., Energy), pivot Fintech/SaaS achievements using the domain translation map (Telemetry, High-Integrity State, etc.).
 4. **No Citations**: Remove all file paths or line numbers (e.g., :40-44) from final documents.
+
+## 📐 Template Formatting Rules (MANDATORY)
+
+All generated documents must follow these rules for proper PDF generation:
+
+### Resume Markdown Structure
+
+```markdown
+---
+company: [Company]
+role: [Role]
+date: [YYYY-MM-DD]
+---
+
+## Summary
+
+[content]
+
+## Experience
+
+### Company Name
+
+**Role** | Dates
+
+- Bullet points
+
+## Education
+
+## Skills
+````
+````
+
+### Critical Rules
+
+- **NO H1 headers** (`#`) - The LaTeX template handles the name/header
+- **NO contact info** in markdown - Template injects from `identity.json`
+- **Use H2** (`##`) for sections, **H3** (`###`) for subsections
+- **Blank line before lists** - Required for proper rendering
+- **Numbered lists on separate lines** - Each `1.` `2.` `3.` on its own line

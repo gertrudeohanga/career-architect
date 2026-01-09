@@ -110,6 +110,7 @@ def auto_build(
     force: bool = False,
     formats: str = "pdf,docx,txt",
     doc_types: list = None,
+    template: str = None,
 ):
     """Build documents for job applications.
 
@@ -153,17 +154,16 @@ def auto_build(
                 continue
 
             log("🔨", f" Building {doc_name}...", BLUE)
-            result = subprocess.run(
-                [
-                    sys.executable,
-                    "scripts/build_resume.py",
-                    str(doc_path),
-                    "--formats",
-                    formats,
-                ],
-                capture_output=True,
-                text=True,
-            )
+            cmd = [
+                sys.executable,
+                "scripts/build_resume.py",
+                str(doc_path),
+                "--formats",
+                formats,
+            ]
+            if template:
+                cmd.extend(["--template", template])
+            result = subprocess.run(cmd, capture_output=True, text=True)
 
             if result.returncode == 0:
                 built += 1
@@ -273,6 +273,12 @@ Examples:
         action="store_true",
         help="Build only cover letters, skip resumes",
     )
+    parser.add_argument(
+        "--template",
+        "-t",
+        choices=["default", "minimal", "creative", "executive"],
+        help="Resume template to use",
+    )
 
     args = parser.parse_args()
 
@@ -301,4 +307,5 @@ Examples:
         force=args.force,
         formats=args.formats,
         doc_types=doc_types,
+        template=args.template,
     )

@@ -29,11 +29,40 @@ An open-source, AI-powered job application pipeline that helps engineers create 
 ```bash
 git clone https://github.com/yourusername/career-architect.git
 cd career-architect
-make install
-make check  # Verify dependencies
 ```
 
-### 2. Configure Your Profile (One-Time)
+### 2. Create Virtual Environment (Recommended)
+
+```bash
+# Create virtual environment
+python -m venv .venv
+
+# Activate it
+source .venv/bin/activate  # macOS/Linux
+# .venv\Scripts\activate   # Windows
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Or use Make (auto-installs)
+make install
+```
+
+### 3. Verify Setup
+
+```bash
+make check  # Verify all dependencies are installed
+```
+
+**Required external tools:**
+
+- **Pandoc** - Document conversion ([install](https://pandoc.org/installing.html))
+- **LaTeX** - PDF generation
+  - macOS: `brew install --cask mactex-no-gui`
+  - Ubuntu: `sudo apt-get install texlive-full`
+  - Windows: [MiKTeX](https://miktex.org/download)
+
+### 4. Configure Your Profile (One-Time)
 
 **Step A: Edit your identity**
 
@@ -80,7 +109,7 @@ Now tell your AI assistant:
 
 The AI will extract and structure all your achievements into `source_materials/master_experience.md`.
 
-### 3. Apply to a Job
+### 5. Apply to a Job
 
 **Just paste the job description to your AI assistant and say:**
 
@@ -94,7 +123,7 @@ That's it! The AI will:
 4. ✅ Write a matching cover letter
 5. ✅ Prepare you for interviews
 
-### 4. Build PDFs
+### 6. Build PDFs
 
 ```bash
 python scripts/compile_all.py
@@ -105,21 +134,16 @@ python scripts/compile_all.py
 - **🤖 AI-Native Workflow** - Designed for Claude, GPT-4, Copilot, and other AI assistants
 - **📊 Modern Builder Framework** - Metrics-driven achievements using SAR (Situation-Action-Result)
 - **🎯 Vertical Targeting** - Auto-adapts tone for Startups vs ScaleUps vs Big Tech
-- **📄 Multi-Format Export** - PDF, DOCX, and TXT from single Markdown source
+- **📄 Multi-Format Export** - PDF, DOCX, TXT, and JSON Resume from single Markdown source
 - **🔍 Gap Analysis** - Identifies skill gaps and suggests how to address them
-- **🎤 Interview Prep** - Generates likely questions with model answers
+- **🎤 Interview Prep** - Generates likely questions with mock interview coaching
 - **📈 ATS Scoring** - Keyword analysis to optimize for Applicant Tracking Systems
 - **🌍 Multi-Language** - Configurable for any language and resume style
-
-## Prerequisites
-
-- **Python 3.8+**
-- **AI Assistant** (Claude, GPT-4, Cursor, Windsurf, etc.)
-- **[Pandoc](https://pandoc.org/installing.html)** - Document conversion
-- **LaTeX** - PDF generation
-  - macOS: `brew install --cask mactex-no-gui`
-  - Ubuntu: `sudo apt-get install texlive-full`
-  - Windows: [MiKTeX](https://miktex.org/download)
+- **🎨 Template Gallery** - 4 professional LaTeX templates (default, minimal, creative, executive)
+- **🌐 Web Dashboard** - Visual management with Streamlit UI
+- **🔗 Job Board Scraper** - Import jobs from LinkedIn, Indeed, Greenhouse, Lever
+- **📦 Batch Processing** - Import multiple job descriptions at once
+- **📝 Version Tracking** - Save, compare, and restore resume versions
 
 ## CLI Commands
 
@@ -131,6 +155,10 @@ python scripts/career.py new --company "Acme" --role "Senior Engineer"
 python scripts/career.py build              # Most recent application
 python scripts/career.py build --all        # All applications
 python scripts/career.py build --force      # Force rebuild
+
+# Build with specific template
+python scripts/compile_all.py --template executive
+python scripts/compile_all.py --template minimal --force
 
 # List applications
 python scripts/career.py list
@@ -217,15 +245,20 @@ career-architect/
 │       ├── extra_questions.md
 │       └── *.pdf, *.docx
 ├── scripts/
-│   ├── career.py                # CLI tool
+│   ├── career.py                # Main CLI tool
 │   ├── ats_score.py             # ATS keyword analyzer
-│   ├── export_resume.py         # ATS format exporter
+│   ├── export_resume.py         # ATS format exporter (TXT, JSON Resume)
 │   ├── version_tracker.py       # Resume version tracking
 │   ├── batch_process.py         # Batch JD processing
+│   ├── job_scraper.py           # Job board URL scraper
 │   ├── build_resume.py          # Document builder
 │   └── compile_all.py           # Batch compiler
-├── tests/                       # Unit tests
-│   └── test_career.py
+├── tests/                       # Unit tests (40+ tests)
+│   ├── test_career.py
+│   ├── test_export.py
+│   ├── test_version_tracker.py
+│   └── test_batch.py
+├── app.py                       # Streamlit web dashboard
 ├── source_materials/
 │   ├── identity.json            # Contact info & logistics
 │   ├── master_experience.md     # Experience lake
@@ -327,26 +360,47 @@ Add new prompts to `.prompts/` following the existing pattern:
 
 ## Configuration
 
-### Resume Styles
+### Resume Styles & Templates
 
-Set your preferred style in `source_materials/identity.json`:
+Set your preferences in `source_materials/identity.json`:
 
 ```json
 {
+  "full_name": "Your Name",
+  "email": "your@email.com",
   "preferences": {
     "language": "en",
     "resume_style": "modern_builder",
-    "tone": "professional"
+    "tone": "professional",
+    "template": "executive"
   }
 }
 ```
 
-Available styles:
+#### Content Styles (AI generation)
 
-- **modern_builder** - Metrics-driven, high-agency verbs, SAR framework
-- **traditional** - Conservative, chronological, formal language
-- **academic** - Research-focused, publications, methodologies
-- **creative** - Personality-forward, storytelling approach
+| Style            | Description                                      |
+| ---------------- | ------------------------------------------------ |
+| `modern_builder` | Metrics-driven, high-agency verbs, SAR framework |
+| `traditional`    | Conservative, chronological, formal language     |
+| `academic`       | Research-focused, publications, methodologies    |
+| `creative`       | Personality-forward, storytelling approach       |
+
+#### Visual Templates (PDF output)
+
+| Template    | File            | Best For                                       |
+| ----------- | --------------- | ---------------------------------------------- |
+| `default`   | `style.tex`     | Modern professional (slate blue)               |
+| `minimal`   | `minimal.tex`   | Conservative industries, traditional companies |
+| `creative`  | `creative.tex`  | Startups, design roles, bold colors            |
+| `executive` | `executive.tex` | Senior roles, management, navy/gold            |
+
+**Override template via CLI:**
+
+```bash
+python scripts/compile_all.py --template executive
+python scripts/build_resume.py resume.md --template minimal
+```
 
 ### ATS Keyword Scoring
 

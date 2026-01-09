@@ -18,9 +18,16 @@ ROOT = Path(__file__).resolve().parents[1]
 TEMPLATES_DIR = ROOT / "templates"
 APPLICATIONS_DIR = ROOT / "applications"
 SOURCE_MATERIALS_DIR = ROOT / "source_materials"
-STYLE_TEX = TEMPLATES_DIR / "style.tex"
-COVER_LETTER_STYLE_TEX = TEMPLATES_DIR / "cover_letter_style.tex"
 IDENTITY_JSON = SOURCE_MATERIALS_DIR / "identity.json"
+
+# Available resume templates
+TEMPLATES = {
+    "default": TEMPLATES_DIR / "style.tex",
+    "minimal": TEMPLATES_DIR / "minimal.tex",
+    "creative": TEMPLATES_DIR / "creative.tex",
+    "executive": TEMPLATES_DIR / "executive.tex",
+}
+COVER_LETTER_STYLE_TEX = TEMPLATES_DIR / "cover_letter_style.tex"
 
 
 class Colors:
@@ -176,6 +183,28 @@ def build_format(input_md: Path, out_dir: Path, fmt: str, style_file: Path) -> t
     return (fmt, True, out_path, None)
 
 
+def get_template(template_name: str = None) -> Path:
+    """Get the template file path.
+
+    Priority:
+    1. Explicit template_name argument
+    2. identity.json -> preferences.template
+    3. Default template (style.tex)
+    """
+    if template_name and template_name in TEMPLATES:
+        return TEMPLATES[template_name]
+
+    # Check identity.json for preference
+    identity = load_identity()
+    if identity:
+        prefs = identity.get("preferences", {})
+        pref_template = prefs.get("template", "default")
+        if pref_template in TEMPLATES:
+            return TEMPLATES[pref_template]
+
+    return TEMPLATES["default"]
+
+
 def build_outputs(
     input_md: Path,
     company: str,
@@ -183,6 +212,7 @@ def build_outputs(
     formats: list,
     validate: bool = True,
     parallel: bool = True,
+    template: str = None,
 ):
     """Build all requested output formats from Markdown input."""
     ensure_dirs()
@@ -209,7 +239,11 @@ def build_outputs(
 
     # Determine style file
     base_name = input_md.stem
-    style_file = COVER_LETTER_STYLE_TEX if "cover_letter" in base_name else STYLE_TEX
+    if "cover_letter" in base_name:
+        style_file = COVER_LETTER_STYLE_TEX
+    else:
+        style_file = get_template(template)
+        log_info(f"Using template: {style_file.stem}")
 
     if not style_file.exists():
         log_error(f"Style file not found: {style_file}")
@@ -280,6 +314,12 @@ Examples:
         action="store_true",
         help="Build formats sequentially instead of in parallel",
     )
+    p.add_argument(
+        "--template",
+        "-t",
+        choices=["default", "minimal", "creative", "executive"],
+        help="Resume template (default: from identity.json or 'default')",
+    )
     args = p.parse_args()
 
     input_md = Path(args.input).resolve()
@@ -312,6 +352,7 @@ Examples:
         formats,
         validate=not args.no_validate,
         parallel=not args.sequential,
+        template=args.template,
     )
 
 
