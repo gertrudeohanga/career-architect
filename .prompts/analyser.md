@@ -2,34 +2,101 @@
 
 ## Objective
 
-Perform a deep-gap analysis between `source_material/master_experience.md` and the provided `job_desc.md`.
+Perform a deep-gap analysis between `source_materials/master_experience.md` and the provided `job_desc.md`.
 
 ## Instructions
 
 1. **Keyword Extraction**: Identify the top 10 hard skills and top 5 soft skills/values from the JD.
-2. **Evidence Matching**: Scan `source_material/` for quantified achievements (%, $, time) proving these skills.
+2. **Evidence Matching**: Scan `source_materials/` for quantified achievements (%, $, time) proving these skills.
 3. **Gap Identification**: List JD requirements not strongly supported in the current master experience.
 4. **Strategy Formulation**: Suggest how to "pivot" or "re-frame" existing experience for these gaps.
 5. **Modern Builder Capabilities**: Assess evidence for the Five Capabilities (Precise Problem Decomposition, Systems Thinking, AI Steering, Technical Taste, Ownership). Identify 2–3 strongest achievements for each.
 
+---
+
+## Output Requirements
+
+**CRITICAL**: You MUST save the Strategic Match Report as a markdown file.
+
+**File Location**: `applications/[folder]/strategic_match_report.md`
+
+**Action**: After completing the analysis, create and save the file. Do not just display the report — write it to disk.
+
+---
+
 ## Output Format
 
-### 🎯 Strategic Match Report
+Save the following content to `strategic_match_report.md`:
 
-| Required Skill | Match Strength (1-10) | Evidence from Source            |
-| :------------- | :-------------------- | :------------------------------ |
-| [Skill Name]   | [Score]               | [Brief Bullet Point + Citation] |
+```markdown
+---
+company: [Company Name]
+role: [Role Title]
+date: [YYYY-MM-DD]
+overall_match: [1-10 score]
+---
 
-### 🧭 Modern Builder Capability Alignment
+# Strategic Match Report
 
-| Capability        | Match Strength (1-10) | Evidence from Source       |
-| :---------------- | :-------------------- | :------------------------- |
-| [Capability Name] | [Score]               | [Achievement with Metrics] |
+## Company & Role
 
-### ⚠️ Critical Gaps
+- **Company**: [Name]
+- **Role**: [Title]
+- **Analysis Date**: [Date]
 
-- [Gap 1]: [Suggested Pivot]
+## 🎯 Skills Match
 
-## Domain Translation
+| Required Skill | Match (1-10) | Evidence                        |
+| :------------- | :----------- | :------------------------------ |
+| [Skill Name]   | [Score]      | [Brief achievement with metric] |
 
-Identify the technical 'analogies' between the User's background and the JD. If the user worked in FinTech, translate 'Transaction Consistency' to 'Smart Meter Data Reliability.' Force the AI to use Energy-sector terminology (Grid, Metering, Telemetry) within the experience bullets.
+## 🧭 Modern Builder Capability Alignment
+
+| Capability                    | Match (1-10) | Evidence      |
+| :---------------------------- | :----------- | :------------ |
+| Precise Problem Decomposition | [Score]      | [Achievement] |
+| Systems Thinking              | [Score]      | [Achievement] |
+| AI Steering                   | [Score]      | [Achievement] |
+| Technical Taste               | [Score]      | [Achievement] |
+| Ownership of Outcomes         | [Score]      | [Achievement] |
+
+## ⚠️ Critical Gaps
+
+| Gap                        | Severity        | Suggested Pivot                      |
+| :------------------------- | :-------------- | :----------------------------------- |
+| [Missing skill/experience] | High/Medium/Low | [How to reframe existing experience] |
+
+## 🔄 Domain Translation
+
+If switching industries, map terminology:
+
+| Your Background | Target Industry Term |
+| :-------------- | :------------------- |
+| [Your term]     | [Their term]         |
+
+## 📊 Overall Assessment
+
+**Match Score**: [X]/10
+
+**Recommendation**: [Go/Caution/Reconsider]
+
+**Key Strengths to Emphasize**:
+
+1. [Strength 1]
+2. [Strength 2]
+3. [Strength 3]
+
+**Areas to Address in Cover Letter**:
+
+1. [Gap to address]
+```
+
+---
+
+## Domain Translation Rules
+
+Identify technical analogies between the user's background and JD. Examples:
+
+- FinTech → InsurTech: "Transaction Consistency" → "Policy Data Integrity"
+- SaaS → Energy: "User Events" → "Telemetry/Sensor Data"
+- E-commerce → Enterprise: "Shopping Cart" → "Workflow State Management"
