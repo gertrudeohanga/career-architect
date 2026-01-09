@@ -9,3 +9,7 @@ pyyaml>=6.0           # YAML parsing for frontmatter
 
 # Optional: Enhanced functionality
 python-frontmatter>=1.0.0  # Better frontmatter parsing
+
+# Development & Testing
+pytest>=7.0.0         # Testing framework
+flake8>=6.0.0         # Code linting

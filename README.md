@@ -108,6 +108,8 @@ python scripts/compile_all.py
 - **📄 Multi-Format Export** - PDF, DOCX, and TXT from single Markdown source
 - **🔍 Gap Analysis** - Identifies skill gaps and suggests how to address them
 - **🎤 Interview Prep** - Generates likely questions with model answers
+- **📈 ATS Scoring** - Keyword analysis to optimize for Applicant Tracking Systems
+- **🌍 Multi-Language** - Configurable for any language and resume style
 
 ## Prerequisites
 
@@ -136,6 +138,10 @@ python scripts/career.py list
 # Check setup
 python scripts/career.py status
 python scripts/career.py validate
+
+# ATS keyword scoring
+python scripts/career.py ats                    # Score latest application
+python scripts/ats_score.py applications/folder # Score specific application
 ```
 
 Or use Make:
@@ -144,6 +150,8 @@ Or use Make:
 make build                    # Build most recent
 make build-all               # Build all
 make new COMPANY=Acme ROLE=Engineer
+make ats                     # ATS keyword score
+make test                    # Run tests
 ```
 
 ## Project Structure

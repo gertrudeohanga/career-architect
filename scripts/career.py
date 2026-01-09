@@ -82,11 +82,11 @@ Paste the job description here.
 
 ## Key Requirements
 
-- 
+-
 
 ## Notes
 
-- 
+-
 """,
         encoding="utf-8",
     )
@@ -169,6 +169,33 @@ def cmd_status(args):
 
     print()
     return 0
+
+
+def cmd_ats(args):
+    """Run ATS keyword scoring."""
+    cmd = [sys.executable, str(ROOT / "scripts" / "ats_score.py")]
+
+    if args.path:
+        cmd.append(args.path)
+    else:
+        # Find most recent application
+        if APPLICATIONS_DIR.exists():
+            apps = sorted(
+                [d for d in APPLICATIONS_DIR.iterdir() if d.is_dir()], reverse=True
+            )
+            if apps:
+                cmd.append(str(apps[0]))
+            else:
+                log("✗", "No applications found", RED)
+                return 1
+        else:
+            log("✗", "Applications directory not found", RED)
+            return 1
+
+    if args.json:
+        cmd.append("--json")
+
+    return subprocess.run(cmd, cwd=str(ROOT)).returncode
 
 
 def cmd_validate(args):
@@ -265,6 +292,11 @@ def main():
     # validate command
     subparsers.add_parser("validate", help="Validate source materials")
 
+    # ats command
+    ats_parser = subparsers.add_parser("ats", help="ATS keyword scoring")
+    ats_parser.add_argument("path", nargs="?", help="Application folder or JD path")
+    ats_parser.add_argument("--json", action="store_true", help="Output as JSON")
+
     args = parser.parse_args()
 
     if not args.command:
@@ -277,6 +309,7 @@ def main():
         "list": cmd_list,
         "status": cmd_status,
         "validate": cmd_validate,
+        "ats": cmd_ats,
     }
 
     return commands[args.command](args)

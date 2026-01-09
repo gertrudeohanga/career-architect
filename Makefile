@@ -1,7 +1,7 @@
 # Career Architect - Makefile
 # ===========================
 
-.PHONY: help install check build build-all build-latest watch clean lint
+.PHONY: help install check build build-all build-latest watch clean lint test ats
 
 # Default target
 help:
@@ -17,7 +17,12 @@ help:
 	@echo "  make build-all   Build all applications that need updating"
 	@echo "  make build APP=<name>  Build specific application"
 	@echo ""
+	@echo "Analysis:"
+	@echo "  make ats         Run ATS keyword scoring on latest application"
+	@echo "  make ats APP=<name>  Score specific application"
+	@echo ""
 	@echo "Development:"
+	@echo "  make test        Run unit tests"
 	@echo "  make watch       Watch for changes and auto-rebuild"
 	@echo "  make clean       Remove generated files"
 	@echo "  make lint        Check Python code style"
@@ -62,6 +67,16 @@ build-latest:
 	@echo "🔨 Building most recent application..."
 	python scripts/compile_all.py
 
+# Analysis
+ats:
+ifdef APP
+	@echo "🔍 Analyzing ATS score for: $(APP)"
+	python scripts/ats_score.py "applications/$(APP)"
+else
+	@echo "🔍 Analyzing ATS score for most recent application..."
+	python scripts/career.py ats
+endif
+
 # Development
 watch:
 	@echo "👀 Watching for changes in applications/..."
@@ -87,6 +102,12 @@ lint:
 	@echo "🔍 Checking Python code..."
 	@python3 -m py_compile scripts/build_resume.py && echo "✅ build_resume.py OK"
 	@python3 -m py_compile scripts/compile_all.py && echo "✅ compile_all.py OK"
+	@python3 -m py_compile scripts/career.py && echo "✅ career.py OK"
+	@python3 -m py_compile scripts/ats_score.py && echo "✅ ats_score.py OK"
+
+test:
+	@echo "🧪 Running tests..."
+	python -m pytest tests/ -v
 
 # Create new application directory
 new:
