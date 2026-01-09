@@ -77,9 +77,15 @@ Read `identity.json -> preferences` to determine:
 - ❌ Desperation ("I really need this job")
 - ❌ Salary discussion in cover letter
 
-## Output
+## Output Requirements
 
-Save as `applications/[folder]/cover_letter.md` with YAML frontmatter:
+**CRITICAL**: You MUST save the cover letter to disk.
+
+**File Location**: `applications/[folder]/cover_letter.md`
+
+**Action**: After generating the cover letter, write it to the file. Do not just display — save to disk.
+
+**Format**: Include YAML frontmatter:
 
 ```yaml
 ---

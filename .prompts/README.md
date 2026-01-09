@@ -120,9 +120,15 @@ APPLICATION PHASE (Per Job):
 
 ### ✍️ tailor_resume.md
 
-**Resume Generation** - Creates a targeted resume using the Modern Builder framework. Every bullet includes metrics.
+**Resume Generation** - Creates a targeted resume respecting your style preferences. Every bullet includes metrics. Saves to `applications/[folder]/resume.md`.
 
 **Usage**: "Create a tailored resume for this position"
+
+### 💌 cover_letter.md
+
+**Cover Letter Generation** - Creates a compelling cover letter that complements (not duplicates) your resume. Saves to `applications/[folder]/cover_letter.md`.
+
+**Usage**: "Write a cover letter for this application"
 
 ### 📝 application_questions.md
 
@@ -132,13 +138,13 @@ APPLICATION PHASE (Per Job):
 
 ### 🎤 interview_prep.md
 
-**Interview Coaching** - Generates likely interview questions and provides model answers based on your experience.
+**Interview Coaching** - Generates technical, behavioral, and role-specific questions with model answers. Includes mock interview mode. Saves to `applications/[folder]/interview_prep.md`.
 
 **Usage**: "Help me prepare for the interview at [Company]"
 
 ### 🔧 gap_filler.md
 
-**Experience Updates** - Converts informal experience descriptions into structured entries for master_experience.md.
+**Experience Updates** - Converts informal experience descriptions into structured entries. Asks clarifying questions to extract metrics, then updates `source_materials/master_experience.md`.
 
 **Usage**: "I have this experience that's not in my master file: [describe]"
 
@@ -148,9 +154,27 @@ APPLICATION PHASE (Per Job):
 
 **Usage**: "Prepare resume.md for PDF generation"
 
+### 🔗 linkedin_optimizer.md
+
+**LinkedIn Optimization** - Generates optimized headline, about section, and experience bullets for LinkedIn profile.
+
+**Usage**: "Optimize my LinkedIn profile for [target role]"
+
+### 📧 follow_up.md
+
+**Professional Communications** - Generates follow-up emails, thank you notes, rejection responses, and networking outreach.
+
+**Usage**: "Write a thank you email after my interview with [Company]"
+
+### 🎨 style_guide.md
+
+**Style Configuration** - Defines resume styles (modern_builder, traditional, academic, creative) and language localization.
+
+**Usage**: Referenced by other prompts based on `identity.json -> preferences.resume_style`
+
 ### 💡 manifesto_logic.md
 
-**Philosophy Guide** - Defines the "Modern Builder" language transformations. Referenced by other prompts automatically.
+**Philosophy Guide** - Defines the "Modern Builder" language transformations. Referenced when `resume_style = "modern_builder"`.
 
 ### 🏗️ career_architect.md
 

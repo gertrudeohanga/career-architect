@@ -36,6 +36,18 @@ Organize chronologically (Newest to Oldest) using this structure for each entry:
 3. **Conflict Detection**: If you find a data conflict (e.g., one source says "40% faster" and another says "60%"), mark it clearly as: `[!! CONFLICT: Verify Metric]`.
 4. **No Fluff**: Strip out adjectives like "experienced," "passionate," or "team-player." Keep it strictly technical and result-oriented.
 
+---
+
+## Output Requirements
+
+**CRITICAL**: You MUST save the Master Experience document to disk.
+
+**File Location**: `source_materials/master_experience.md`
+
+**Action**: After completing the analysis and structuring, write the complete document to the file. Do not just display — save to disk.
+
+---
+
 ## Final Goal
 
 Create a "Knowledge Lake" so deep that any future job—whether a UN Information Systems Officer (P3), a World Bank Manager, or a Silicon Valley Startup Lead—can be perfectly tailored using only this file.

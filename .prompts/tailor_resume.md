@@ -92,3 +92,24 @@ If the Target Company is in a different vertical than the source history (e.g., 
 5. **Fundraising/Scale** -> **High-Availability / Infrastructure Reliability**
 
 **Instruction:** Do not change the _facts_ of the experience, but adjust the _descriptors_. For an Energy/Smart-Metering role like Metrify, prioritize terms like "Telemetry," "Event-Driven Synchronization," "Idempotency," and "Data Lineage" when describing your work at Pariti or Länk.
+
+---
+
+## Output Requirements
+
+**CRITICAL**: You MUST save the tailored resume to disk.
+
+**File Location**: `applications/[folder]/resume.md`
+
+**Action**: After generating the resume, write it to the file. Do not just display — save to disk.
+
+**Format**: Include YAML frontmatter:
+
+```yaml
+---
+company: [Company Name]
+role: [Role Title]
+date: [YYYY-MM-DD]
+version: 1.0
+---
+```
