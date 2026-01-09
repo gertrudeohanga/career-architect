@@ -224,7 +224,8 @@ def parse_skills(text: str) -> list:
                 keywords = [k.strip() for k in parts[1].split(",")]
                 skills.append({"name": name, "keywords": keywords})
             else:
-                skills.append({"name": strip_markdown(line[2:]), "keywords": []})
+                name = strip_markdown(line[2:])
+                skills.append({"name": name, "keywords": []})
 
     return skills
 
@@ -341,7 +342,11 @@ def main():
     parser = argparse.ArgumentParser(
         description="Export resume to ATS-friendly formats"
     )
-    parser.add_argument("format", choices=["txt", "json", "all"], help="Export format")
+    parser.add_argument(
+        "format",
+        choices=["txt", "json", "all"],
+        help="Export format",
+    )
     parser.add_argument(
         "app", nargs="?", help="Application folder (default: most recent)"
     )

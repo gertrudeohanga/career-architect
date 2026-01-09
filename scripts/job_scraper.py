@@ -83,7 +83,10 @@ def extract_indeed(soup: BeautifulSoup, url: str) -> dict:
         data["role"] = title_elem.get_text(strip=True)
 
     # Company
-    company_elem = soup.find("div", {"data-testid": "inlineHeader-companyName"})
+    company_elem = soup.find(
+        "div",
+        {"data-testid": "inlineHeader-companyName"},
+    )
     if company_elem:
         data["company"] = company_elem.get_text(strip=True)
 
@@ -195,7 +198,11 @@ def extract_generic(soup: BeautifulSoup, url: str) -> dict:
 def fetch_job(url: str) -> dict:
     """Fetch and parse a job posting URL."""
     if not HAS_DEPS:
-        log("✗", "Missing dependencies. Run: pip install requests beautifulsoup4", RED)
+        log(
+            "✗",
+            "Missing dependencies. Run: pip install requests beautifulsoup4",
+            RED,
+        )
         return None
 
     headers = {
@@ -235,7 +242,11 @@ def fetch_job(url: str) -> dict:
 def create_application(data: dict) -> Path:
     """Create application folder from scraped data."""
     if not data.get("company") or not data.get("role"):
-        log("⚠", "Could not extract company/role. Please provide manually.", YELLOW)
+        log(
+            "⚠",
+            "Could not extract company/role. Please provide manually.",
+            YELLOW,
+        )
         data["company"] = data.get("company") or input("Company name: ").strip()
         data["role"] = data.get("role") or input("Role title: ").strip()
 
@@ -278,12 +289,18 @@ source_url: {data.get('source', '')}
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Scrape job descriptions from URLs")
+    parser = argparse.ArgumentParser(
+        description="Scrape job descriptions from URLs",
+    )
     parser.add_argument("url", help="Job posting URL")
     parser.add_argument(
         "--create", "-c", action="store_true", help="Create application folder"
     )
-    parser.add_argument("--output", "-o", help="Output file (default: print to stdout)")
+    parser.add_argument(
+        "--output",
+        "-o",
+        help="Output file (default: print to stdout)",
+    )
 
     args = parser.parse_args()
 

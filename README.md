@@ -10,16 +10,13 @@ An open-source, AI-powered job application pipeline that helps engineers create 
 ## How It Works
 
 ```
-┌────────────────────────────────────────────────────────────────────────┐
-│                                                                        │
-│   1. PASTE JOB DESCRIPTION  →  2. AI GENERATES  →  3. BUILD PDF       │
-│                                                                        │
-│   You provide the JD            AI creates:         One command:       │
-│   to your AI assistant          • Tailored resume   python compile.py  │
-│                                 • Cover letter                         │
-│                                 • Interview prep                       │
-│                                                                        │
-└────────────────────────────────────────────────────────────────────────┘
+┌─────────────────────┐    ┌─────────────────────┐    ┌─────────────────────┐
+│  1. PASTE JOB DESC  │───▶│   2. AI GENERATES   │───▶│    3. BUILD PDF     │
+├─────────────────────┤    ├─────────────────────┤    ├─────────────────────┤
+│ You provide the JD  │    │ • Tailored resume   │    │ One command:        │
+│ to your AI assistant│    │ • Cover letter      │    │ make build          │
+│                     │    │ • Interview prep    │    │                     │
+└─────────────────────┘    └─────────────────────┘    └─────────────────────┘
 ```
 
 ## Quick Start (5 Minutes)
@@ -27,7 +24,12 @@ An open-source, AI-powered job application pipeline that helps engineers create 
 ### 1. Clone & Setup
 
 ```bash
-git clone https://github.com/yourusername/career-architect.git
+# HTTPS
+git clone https://github.com/henryohanga/career-architect.git
+
+# Or SSH (if you have keys configured)
+git clone git@github.com:henryohanga/career-architect.git
+
 cd career-architect
 ```
 
