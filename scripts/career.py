@@ -119,6 +119,79 @@ def cmd_list(args):
     return subprocess.run(cmd, cwd=str(ROOT)).returncode
 
 
+def cmd_stats(args):
+    """Show detailed application statistics and analytics."""
+    print(f"\n{BOLD}Application Analytics{RESET}\n")
+
+    if not APPLICATIONS_DIR.exists():
+        log("✗", "No applications directory found", RED)
+        return 1
+
+    apps = [
+        d
+        for d in APPLICATIONS_DIR.iterdir()
+        if d.is_dir() and not d.name.startswith(".")
+    ]
+
+    if not apps:
+        log("ℹ", "No applications yet", BLUE)
+        return 0
+
+    # Gather statistics
+    total = len(apps)
+    by_status = {"draft": 0, "applied": 0, "interview": 0, "rejected": 0}
+    by_month = {}
+    companies = set()
+    has_resume = 0
+    has_cover = 0
+
+    for app in apps:
+        name = app.name
+        if len(name) >= 7 and name[4] == "-" and name[7] == "-":
+            month = name[:7]
+            by_month[month] = by_month.get(month, 0) + 1
+
+        if (app / "resume.md").exists():
+            has_resume += 1
+        if (app / "cover_letter.md").exists():
+            has_cover += 1
+
+        job_desc = app / "job_desc.md"
+        if job_desc.exists():
+            content = job_desc.read_text()
+            for status in by_status.keys():
+                if f"status: {status}" in content:
+                    by_status[status] += 1
+                    break
+            for line in content.split("\n"):
+                if line.startswith("company:"):
+                    companies.add(line.split(":", 1)[1].strip())
+
+    # Print stats
+    print(f"  {BOLD}Overview{RESET}")
+    print(f"  Total applications: {total}")
+    print(f"  Unique companies:   {len(companies)}")
+    print()
+
+    print(f"  {BOLD}By Status{RESET}")
+    for status, count in by_status.items():
+        if count > 0:
+            print(f"  {status:<10} {count:>3} {'█' * count}")
+    print()
+
+    print(f"  {BOLD}Documents{RESET}")
+    print(f"  With resume:       {has_resume}/{total}")
+    print(f"  With cover letter: {has_cover}/{total}")
+    print()
+
+    if by_month:
+        print(f"  {BOLD}By Month{RESET}")
+        for month in sorted(by_month.keys(), reverse=True)[:6]:
+            print(f"  {month}  {by_month[month]:>3} {'█' * by_month[month]}")
+
+    return 0
+
+
 def cmd_status(args):
     """Show project status and statistics."""
     print(f"\n{BOLD}Career Architect Status{RESET}\n")
@@ -196,6 +269,121 @@ def cmd_ats(args):
         cmd.append("--json")
 
     return subprocess.run(cmd, cwd=str(ROOT)).returncode
+
+
+def cmd_export(args):
+    """Export resume to ATS-friendly formats."""
+    from export_resume import export_txt, export_json_resume, find_latest_application
+
+    # Find application folder
+    if args.app:
+        app_path = APPLICATIONS_DIR / args.app
+        if not app_path.exists():
+            app_path = Path(args.app)
+    else:
+        app_path = find_latest_application()
+
+    if not app_path or not app_path.exists():
+        log("✗", "No application found", RED)
+        return 1
+
+    resume_path = app_path / "resume.md"
+    if not resume_path.exists():
+        log("✗", f"No resume.md in {app_path.name}", RED)
+        return 1
+
+    output_dir = Path(args.output) if args.output else app_path
+    log("ℹ", f"Exporting from: {app_path.name}", BLUE)
+
+    success = True
+    if args.format in ("txt", "all"):
+        txt_path = output_dir / "resume.txt"
+        if export_txt(resume_path, txt_path):
+            log("✓", f"Created: {txt_path.name}", GREEN)
+        else:
+            log("✗", "Failed to create TXT", RED)
+            success = False
+
+    if args.format in ("json", "all"):
+        json_path = output_dir / "resume.json"
+        if export_json_resume(resume_path, json_path):
+            log("✓", f"Created: {json_path.name}", GREEN)
+        else:
+            log("✗", "Failed to create JSON", RED)
+            success = False
+
+    return 0 if success else 1
+
+
+def cmd_version(args):
+    """Track resume versions."""
+    from version_tracker import VersionTracker, find_latest_application
+
+    # Find application folder
+    if args.app:
+        app_path = APPLICATIONS_DIR / args.app
+        if not app_path.exists():
+            app_path = Path(args.app)
+    else:
+        app_path = find_latest_application()
+
+    if not app_path or not app_path.exists():
+        log("✗", "No application found", RED)
+        return 1
+
+    tracker = VersionTracker(app_path)
+    log("ℹ", f"Application: {app_path.name}", BLUE)
+
+    if args.action == "save":
+        result = tracker.save_version(args.file, args.message)
+        if result:
+            log("✓", f"Saved {result['id']}: {result['message']}", GREEN)
+        else:
+            log("⚠", "No changes to save", YELLOW)
+
+    elif args.action == "list":
+        versions = tracker.list_versions(args.file)
+        print(f"\n  Version history for {args.file}:\n")
+        if not versions:
+            print("  No versions found")
+        else:
+            print(f"  {'Ver':<5} {'Date':<20} {'Message'}")
+            print(f"  {'-'*5} {'-'*20} {'-'*30}")
+            for v in versions:
+                ts = v["timestamp"][:19].replace("T", " ")
+                print(f"  {v['id']:<5} {ts:<20} {v['message']}")
+
+    elif args.action == "diff":
+        versions = tracker.list_versions(args.file)
+        v1 = args.v1 or "v1"
+        v2 = args.v2 or (versions[-1]["id"] if versions else "v1")
+        diff = tracker.diff_versions(v1, v2, args.file)
+        if diff:
+            print(f"\n  Comparing {v1} → {v2}")
+            print(f"  +{diff['added_count']} -{diff['removed_count']}")
+        else:
+            log("✗", "Could not compare versions", RED)
+
+    elif args.action == "show":
+        vid = args.id or tracker.get_current_version()
+        if vid:
+            content = tracker.get_version(vid, args.file)
+            if content:
+                print(f"\n--- {args.file} ({vid}) ---\n")
+                print(content[:2000])
+        else:
+            log("✗", "No version specified", RED)
+
+    elif args.action == "restore":
+        if not args.id:
+            log("✗", "Specify version with --id", RED)
+            return 1
+        if tracker.restore_version(args.id, args.file):
+            log("✓", f"Restored {args.file} to {args.id}", GREEN)
+        else:
+            log("✗", f"Could not restore {args.id}", RED)
+
+    return 0
 
 
 def cmd_validate(args):
@@ -289,13 +477,44 @@ def main():
     # status command
     subparsers.add_parser("status", help="Show project status")
 
+    # stats command
+    subparsers.add_parser("stats", help="Application analytics")
+
     # validate command
     subparsers.add_parser("validate", help="Validate source materials")
 
     # ats command
     ats_parser = subparsers.add_parser("ats", help="ATS keyword scoring")
-    ats_parser.add_argument("path", nargs="?", help="Application folder or JD path")
-    ats_parser.add_argument("--json", action="store_true", help="Output as JSON")
+    ats_parser.add_argument("path", nargs="?", help="Application folder")
+    ats_parser.add_argument("--json", action="store_true", help="JSON output")
+
+    # version command
+    ver_parser = subparsers.add_parser("version", help="Track resume versions")
+    ver_parser.add_argument(
+        "action",
+        nargs="?",
+        default="list",
+        choices=["save", "list", "diff", "restore", "show"],
+        help="Action to perform",
+    )
+    ver_parser.add_argument("--app", "-a", help="Application folder")
+    ver_parser.add_argument("--file", "-f", default="resume.md", help="File")
+    ver_parser.add_argument("--message", "-m", help="Version message")
+    ver_parser.add_argument("--v1", help="First version for diff")
+    ver_parser.add_argument("--v2", help="Second version for diff")
+    ver_parser.add_argument("--id", help="Version ID for restore/show")
+
+    # export command
+    exp_parser = subparsers.add_parser("export", help="Export to ATS formats")
+    exp_parser.add_argument(
+        "format",
+        nargs="?",
+        default="all",
+        choices=["txt", "json", "all"],
+        help="Export format",
+    )
+    exp_parser.add_argument("--app", "-a", help="Application folder")
+    exp_parser.add_argument("--output", "-o", help="Output directory")
 
     args = parser.parse_args()
 
@@ -308,8 +527,11 @@ def main():
         "build": cmd_build,
         "list": cmd_list,
         "status": cmd_status,
+        "stats": cmd_stats,
         "validate": cmd_validate,
         "ats": cmd_ats,
+        "version": cmd_version,
+        "export": cmd_export,
     }
 
     return commands[args.command](args)

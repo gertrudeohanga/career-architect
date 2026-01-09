@@ -109,6 +109,10 @@ test:
 	@echo "🧪 Running tests..."
 	python -m pytest tests/ -v
 
+version:
+	@echo "📝 Resume version tracking..."
+	python scripts/career.py version list
+
 # Create new application directory
 new:
 ifndef COMPANY

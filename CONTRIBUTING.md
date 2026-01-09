@@ -92,11 +92,42 @@ make check
 ### Running Tests
 
 ```bash
-# Lint Python code
+# Run all unit tests
+make test
+
+# Run tests with verbose output
+python -m pytest tests/ -v
+
+# Run specific test file
+python -m pytest tests/test_career.py -v
+
+# Run with coverage (if installed)
+python -m pytest tests/ --cov=scripts
+```
+
+### Linting
+
+```bash
+# Check Python syntax
 make lint
+
+# Run flake8 directly
+flake8 scripts/ --max-line-length=100 --ignore=E501,W503
 
 # Validate project structure
 python scripts/career.py validate
+```
+
+### ATS Scoring Tool
+
+Test the ATS keyword analyzer:
+
+```bash
+# Score an application
+python scripts/ats_score.py applications/your-application/
+
+# JSON output for automation
+python scripts/ats_score.py applications/your-application/ --json
 ```
 
 ## Pull Request Process

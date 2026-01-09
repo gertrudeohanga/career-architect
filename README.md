@@ -141,7 +141,19 @@ python scripts/career.py validate
 
 # ATS keyword scoring
 python scripts/career.py ats                    # Score latest application
-python scripts/ats_score.py applications/folder # Score specific application
+
+# Export to ATS-friendly formats
+python scripts/career.py export                 # Export TXT + JSON Resume
+python scripts/career.py export txt             # Plain text only
+python scripts/career.py export json            # JSON Resume format
+
+# Version tracking
+python scripts/career.py version save -m "v1"   # Save version
+python scripts/career.py version list           # List versions
+python scripts/career.py version diff           # Compare versions
+
+# Analytics
+python scripts/career.py stats                  # Application statistics
 ```
 
 Or use Make:
@@ -161,11 +173,15 @@ career-architect/
 ├── .prompts/                    # AI instruction prompts
 │   ├── main_orchestrator.md     # Pipeline controller
 │   ├── setup.md                 # Experience extraction
-│   ├── analyser.md              # Gap analysis
+│   ├── analyser.md              # Gap analysis + strategic match report
 │   ├── tailor_resume.md         # Resume generation
+│   ├── cover_letter.md          # Cover letter generation
 │   ├── application_questions.md # Extra questions
-│   ├── interview_prep.md        # Interview coaching
+│   ├── interview_prep.md        # Interview coaching + mock interviews
 │   ├── gap_filler.md            # Fill experience gaps
+│   ├── linkedin_optimizer.md    # LinkedIn profile optimization
+│   ├── follow_up.md             # Professional follow-up emails
+│   ├── style_guide.md           # Resume styles & language config
 │   ├── pdf_generator.md         # Build preparation
 │   ├── manifesto_logic.md       # Modern Builder philosophy
 │   └── career_architect.md      # Core directives
@@ -177,8 +193,14 @@ career-architect/
 │       ├── extra_questions.md
 │       └── *.pdf, *.docx
 ├── scripts/
+│   ├── career.py                # CLI tool
+│   ├── ats_score.py             # ATS keyword analyzer
+│   ├── export_resume.py         # ATS format exporter
+│   ├── version_tracker.py       # Resume version tracking
 │   ├── build_resume.py          # Document builder
 │   └── compile_all.py           # Batch compiler
+├── tests/                       # Unit tests
+│   └── test_career.py
 ├── source_materials/
 │   ├── identity.json            # Contact info & logistics
 │   ├── master_experience.md     # Experience lake
@@ -194,18 +216,22 @@ career-architect/
 
 ## Prompts Overview
 
-| Prompt                     | Purpose                                                |
-| -------------------------- | ------------------------------------------------------ |
-| `main_orchestrator.md`     | End-to-end pipeline controller                         |
-| `setup.md`                 | Extract and structure experience into master file      |
-| `analyser.md`              | Gap analysis between experience and job requirements   |
-| `tailor_resume.md`         | Generate targeted resume with Modern Builder framework |
-| `application_questions.md` | Answer application questions with SAR framework        |
-| `interview_prep.md`        | Generate interview questions and model answers         |
-| `gap_filler.md`            | Fill identified experience gaps                        |
-| `pdf_generator.md`         | Prepare documents for PDF generation                   |
-| `manifesto_logic.md`       | Modern Builder philosophy and language                 |
-| `career_architect.md`      | Core operational directives                            |
+| Prompt                     | Purpose                                                 |
+| -------------------------- | ------------------------------------------------------- |
+| `main_orchestrator.md`     | End-to-end pipeline controller                          |
+| `setup.md`                 | Extract and structure experience into master file       |
+| `analyser.md`              | Gap analysis + strategic match report                   |
+| `tailor_resume.md`         | Generate targeted resume (style-configurable)           |
+| `cover_letter.md`          | Generate compelling cover letters                       |
+| `application_questions.md` | Answer application questions with SAR framework         |
+| `interview_prep.md`        | Generate questions + mock interview coaching            |
+| `gap_filler.md`            | Fill identified experience gaps                         |
+| `linkedin_optimizer.md`    | Optimize LinkedIn profile for target roles              |
+| `follow_up.md`             | Professional follow-up emails and thank you notes       |
+| `style_guide.md`           | Resume styles (modern, traditional, academic, creative) |
+| `pdf_generator.md`         | Prepare documents for PDF generation                    |
+| `manifesto_logic.md`       | Modern Builder philosophy and language                  |
+| `career_architect.md`      | Core operational directives                             |
 
 ## The Modern Builder Framework
 
@@ -271,15 +297,87 @@ Add new prompts to `.prompts/` following the existing pattern:
 [Expected output structure]
 ```
 
+## Configuration
+
+### Resume Styles
+
+Set your preferred style in `source_materials/identity.json`:
+
+```json
+{
+  "preferences": {
+    "language": "en",
+    "resume_style": "modern_builder",
+    "tone": "professional"
+  }
+}
+```
+
+Available styles:
+
+- **modern_builder** - Metrics-driven, high-agency verbs, SAR framework
+- **traditional** - Conservative, chronological, formal language
+- **academic** - Research-focused, publications, methodologies
+- **creative** - Personality-forward, storytelling approach
+
+### ATS Keyword Scoring
+
+Analyze how well your resume matches the job description:
+
+```bash
+# Score most recent application
+python scripts/career.py ats
+
+# Score specific application
+python scripts/ats_score.py applications/2025-01-09-company-role/
+
+# Get JSON output
+python scripts/ats_score.py applications/folder/ --json
+```
+
+The tool identifies:
+
+- ✅ Matched keywords (what you have)
+- ⚠️ Missing keywords (what to add)
+- 📊 Match score (0-100%)
+- 💡 Recommendations
+
+## Development
+
+### Running Tests
+
+```bash
+make test                    # Run all tests
+python -m pytest tests/ -v   # Verbose output
+```
+
+### Linting
+
+```bash
+make lint                    # Check Python syntax
+flake8 scripts/ --max-line-length=100
+```
+
+### CI/CD
+
+The project uses GitHub Actions for:
+
+- Python linting (flake8)
+- Unit tests (pytest)
+- Project structure validation
+
 ## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 1. Fork the repository
 2. Create a feature branch
-3. Submit a pull request
+3. Run tests (`make test`)
+4. Submit a pull request
 
 ## License
 
-MIT License - See LICENSE file for details.
+MIT License - See [LICENSE](LICENSE) file for details.
 
 ---
 
