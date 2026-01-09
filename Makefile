@@ -1,7 +1,7 @@
 # Career Architect - Makefile
 # ===========================
 
-.PHONY: help install check build build-all build-latest watch clean lint test ats
+.PHONY: help install check build build-all build-latest watch clean lint test ats version dashboard new
 
 # Default target
 help:
@@ -18,7 +18,9 @@ help:
 	@echo "  make build APP=<name>  Build specific application"
 	@echo ""
 	@echo "Analysis:"
-	@echo "  make ats         Run ATS keyword scoring on latest application"
+	@echo "  make ats          - Run ATS keyword scoring"
+	@echo "  make test         - Run unit tests"
+	@echo "  make dashboard    - Launch web dashboard"
 	@echo "  make ats APP=<name>  Score specific application"
 	@echo ""
 	@echo "Development:"
@@ -112,6 +114,10 @@ test:
 version:
 	@echo "📝 Resume version tracking..."
 	python scripts/career.py version list
+
+dashboard:
+	@echo "🌐 Starting web dashboard..."
+	streamlit run app.py
 
 # Create new application directory
 new:

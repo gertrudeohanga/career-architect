@@ -35,6 +35,8 @@ Then for each job application, just paste the job description!
 | ----------------------- | ---------------------------------- | ------------------------------ |
 | `style_guide.md`        | Reference for resume styles        | Style configuration            |
 | `interview_prep.md`     | Prepare for interviews             | Q&A coaching                   |
+| `mock_interview.md`     | Practice interview responses       | Feedback & coaching            |
+| `salary_negotiation.md` | Negotiate offers                   | Negotiation playbook           |
 | `linkedin_optimizer.md` | Optimize LinkedIn profile          | Profile content                |
 | `follow_up.md`          | Post-application communications    | Email templates                |
 | `gap_filler.md`         | Fill experience gaps               | Updated `master_experience.md` |
