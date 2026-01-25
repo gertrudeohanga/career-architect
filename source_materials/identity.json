@@ -1,14 +1,14 @@
 {
-  "full_name": "Your Name",
-  "email": "your@email.com",
-  "phone": "+254 712 345 678",
+  "full_name": "Getrude Kasinga Ohanga",
+  "email": "ohanga.gertrude@gmail.com",
+  "phone": "+254 706 573 273",
   "location": "Nairobi, Kenya",
   "linkedin": "",
   "github": "",
   "gitlab": "",
   "portfolio": "",
-  "date_of_birth": "",
-  "gender": "",
+  "date_of_birth": "15/11/1993",
+  "gender": "Female",
 
   "preferences": {
     "language": "en",
@@ -20,21 +20,21 @@
   },
 
   "narrative_hooks": {
-    "why_this_industry": "",
-    "why_this_location": "",
-    "career_mission": "",
-    "unique_value": ""
+    "why_this_industry": "Passionate about gender development and financial inclusion",
+    "why_this_location": "Based in Kenya with experience across East Africa",
+    "career_mission": "Drive inclusive financial solutions and gender empowerment",
+    "unique_value": "Strong research, relationship management, and market development expertise"
   },
 
   "logistics": {
-    "salary_expectation": "",
-    "salary_currency": "USD",
-    "salary_notes": "",
-    "notice_period": "",
-    "work_authorization": "",
-    "relocation": "",
-    "remote_preference": "",
-    "availability": "",
-    "spoken_languages": []
+    "salary_expectation": "25000-40000 KES",
+    "salary_currency": "KES",
+    "salary_notes": "Flexible, negotiable based on benefits and opportunities",
+    "notice_period": "30 days",
+    "work_authorization": "Kenyan citizen - Local work authorization",
+    "relocation": "Open to relocation within East Africa",
+    "remote_preference": "Flexible - Open to hybrid/remote roles",
+    "availability": "Immediately available",
+    "spoken_languages": ["English", "Swahili"]
   }
 }

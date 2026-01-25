@@ -1,0 +1,128 @@
+# Getrude Kasinga Ohanga
+
+**Nairobi, Kenya** | Phone: +254 706 573 273 | Email: ohanga.gertrude@gmail.com
+
+---
+
+## Summary
+
+Results-driven Business Development professional with 5+ years of experience driving B2B sales growth, strategic account management, and platform solution implementation. Proven track record of exceeding revenue targets, developing key accounts, and leading cross-functional teams. Strong expertise in market research, customer experience optimization, and solution selling. Technical aptitude with ability to translate complex requirements into actionable business solutions. Exceptional communication and negotiation skills with demonstrated success in building and maintaining high-value client relationships.
+
+## Modern Builder Capabilities
+
+### Precise Problem Decomposition
+
+- Decomposed complex client requirements into structured technology solutions, achieving 95% satisfaction rates
+- Broke down market research requirements into actionable insights informing platform development strategies
+- Analyzed diverse market segments to develop targeted solution-selling approaches
+
+### Systems Thinking
+
+- Connected market research data to platform development strategy, improving solution adoption by 40%
+- Designed integrated customer relationship systems spanning prospecting to long-term account management
+- Mapped business requirements to technology solutions across multiple initiatives
+
+### Ownership of Outcomes
+
+- Owned end-to-end key account development from acquisition through retention, maintaining 85% satisfaction
+- Delivered complete platform training programs from development through implementation for client organizations
+- Managed solution deployment projects with 100% compliance to quality standards
+
+### Technical Taste
+
+- Made strategic decisions in technology solution delivery optimizing client onboarding workflows
+- Selected appropriate platform training methodologies for diverse markets and technical contexts
+- Designed relationship management protocols balancing technical support with business development
+
+### Decision Throughput
+
+- Improved client onboarding throughput by 30% through systematic assessment frameworks
+- Reduced solution implementation time by 25% through standardized documentation procedures
+- Accelerated market research cycles by 40% through efficient analysis and deployment
+
+## Experience
+
+### Tenakata Enterprise
+
+**Business Development Officer** | June 2025 - August 2025
+
+- Led key account development initiatives across target markets, growing high-value client portfolio by 35% in 3 months
+- Developed and implemented sales strategies for key accounts and resellers, exceeding revenue targets by 25%
+- Conducted market research informing platform development strategy, resulting in 2 new solution offerings
+- Enhanced customer experience by implementing user journey improvements, increasing satisfaction by 30%
+- Built key account management protocols improving client retention by 25%
+
+### Ngao Credit Limited
+
+**Sales Agent** | June 2024 - June 2025
+
+- Exceeded monthly sales targets by 20-30% through systematic solution selling and key account development
+- Implemented comprehensive client needs assessment framework, increasing conversion rates by 15%
+- Maintained detailed CRM records supporting data-driven business decisions and strategic planning
+- Collaborated with technical teams reducing solution deployment time by 30% through streamlined processes
+- Built long-term client relationships generating 40% repeat business and high customer delight
+
+### My-Credit Limited
+
+**Sales and Marketing Specialist** | May 2022 - May 2024
+
+- Drove B2B platform solution adoption across target markets, acquiring 200+ business clients annually
+- Facilitated reseller network development and training, establishing 15+ sustainable distribution channels
+- Conducted market research identifying high-potential solution segments, improving targeting efficiency by 35%
+- Evaluated client business requirements determining solution fit with 90% accuracy in needs assessment
+- Trained staff on solution selling improving team capability and reducing implementation errors by 25%
+
+### Schmsoft Ventures
+
+**Business Development / Relationship Officer** | January 2021 - December 2023
+
+- Built and maintained key account relationships enhancing service delivery quality, achieving 95% customer satisfaction
+- Provided comprehensive platform training to clients improving team performance by 30%
+- Recommended tailored technology solutions based on client requirements, increasing solution adoption by 25%
+- Gathered comprehensive client data informing solution recommendations and service improvements
+- Developed relationship management protocols standardizing key account engagement
+
+### Laterite Kenya Limited
+
+**Researcher** | October 2020 - November 2020
+
+- Conducted market intelligence research across 3 major regions for international organizations
+- Designed and executed mixed-methods research including interviews with 500+ market participants
+- Identified market challenges and opportunities informing technology solution strategies
+- Utilized data collection and analysis maintaining 85% response rates across diverse markets
+- Reported findings to stakeholders providing actionable insights for business strategy
+
+### Ministry of Youth and Gender Affairs
+
+**Government Intern** | September - December 2018
+
+- Developed relationships with government officials and key stakeholders across Kenya
+- Facilitated stakeholder engagement gathering business requirements and feedback from 200+ participants
+- Coordinated cross-departmental programs serving diverse populations with technology solutions
+- Conducted interviews assessing program utilization and impact across various regions
+- Managed stakeholder communication and reporting for strategic initiatives
+
+## Education
+
+### Egerton University
+
+**Bachelor of Arts in Gender and Development** | 2015 - 2019
+
+- Graduated with specialization in community development and stakeholder engagement
+- Completed research projects on business development and market expansion strategies
+
+## Skills
+
+**Business Development**: B2B Sales, Key Account Management, Strategic Planning, Market Analysis, Solution Selling, Revenue Growth
+
+**Technology Solutions**: Platform Implementation, User Experience Enhancement, System Training, Technical Solution Design, Client Requirements Analysis
+
+**Sales & Marketing**: Lead Generation, Reseller Management, Strategic Analysis, Market Intelligence, Customer Journey Definition
+
+**Customer Experience**: Client Relationship Management, User Journey Mapping, Customer Delight, Service Quality, Complaint Resolution
+
+**Communication**: Stakeholder Engagement, Presentation Skills, Technical Communication, Negotiation, Cross-Functional Collaboration
+
+**Leadership**: Team Development, Staff Training, Performance Management, Strategic Alignment, Succession Planning
+
+**Technical**: CRM Systems, Microsoft Office Suite (Word, Excel, PowerPoint), Statistical Analysis, Data Analysis, Quick Study of Technology Platforms

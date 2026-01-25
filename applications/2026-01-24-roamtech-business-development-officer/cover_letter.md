@@ -1,0 +1,20 @@
+---
+company: Roamtech Solutions Limited
+role: Business Development Officer
+date: 2026-01-24
+---
+
+Dear Hiring Team,
+
+As a Business Development professional with 5+ years of experience driving B2B sales growth and implementing platform solutions, I was excited to discover the Business Development Officer position at Roamtech Solutions Limited. My proven track record of exceeding revenue targets, developing key accounts, and enhancing customer experience aligns perfectly with your requirements for driving sales growth in a highly commercial ICT environment.
+
+At Tenakata Enterprise, I led key account development initiatives that grew our high-value client portfolio by 35% within three months while enhancing customer experience through user journey improvements. This experience directly mirrors your requirements for driving key account growth and proposing improvements to user experience within company platforms. My systematic approach to solution selling increased conversion rates by 15%, demonstrating the same capability needed to interpret client needs and propose value-adding solutions.
+
+My extensive experience with market research and strategic analysis has consistently informed business development strategies, improving targeting efficiency by 35% across multiple organizations. This analytical approach to market intelligence would serve Roamtech well in identifying new market opportunities and maintaining competitive advantage. Additionally, my background in staff training and team development, having improved team performance by 30%, positions me to lead high-performance teams and ensure alignment with company vision.
+
+What particularly draws me to Roamtech is the opportunity to apply my solution-selling expertise to ICT platform solutions. Your emphasis on technology platforms and B2B sales resonates with my experience in implementing complex solutions and managing client relationships. I'm confident in my ability to quickly understand technical products and translate them into compelling value propositions for clients.
+
+I would welcome the opportunity to discuss how my experience in B2B sales, key account management, and solution development can contribute to Roamtech's revenue growth and market expansion objectives. Thank you for considering my application.
+
+Sincerely,
+Getrude Kasinga Ohanga
