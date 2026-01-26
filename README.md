@@ -465,4 +465,49 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 ---
 
+## 📋 Applications Dashboard
+
+### Current Applications (Status: In Progress)
+
+| Date | Company | Position | Status | Match Score | Application Type |
+|------|---------|----------|---------|-------------|------------------|
+| 2026-01-26 | Zeno | Head of Customer Success | 🔄 In Progress | TBD | Career Architect |
+| 2026-01-26 | Oasis Outsourcing | Home Care Recruiter | 🔄 In Progress | TBD | Career Architect |
+| 2026-01-26 | The Action Foundation | People & Culture Associate | 🔄 In Progress | 70/100 | Career Architect |
+| 2026-01-26 | [Company] | SDR/BDR Sales Development | 🔄 In Progress | 85/100 | Career Architect |
+| 2026-01-26 | Enduring Technologies | iPOS Field Sales Agent | 🔄 In Progress | 90/100 | Career Architect |
+| 2026-01-26 | Finik Enterprises | Electric Bikes Salesperson | 🔄 In Progress | 85/100 | Career Architect |
+| 2026-01-24 | EBRD | Assistant Banking | 🔄 In Progress | TBD | Career Architect |
+| 2026-01-24 | Jobgether | Business Capture Manager | 🔄 In Progress | TBD | Career Architect |
+| 2026-01-24 | Justmarkets | Partner Relationship Manager | 🔄 In Progress | TBD | Career Architect |
+| 2026-01-24 | LED Power Technologies | Business Development Officer | 🔄 In Progress | TBD | Career Architect |
+| 2026-01-24 | Ratehawk | Business Development Manager | 🔄 In Progress | TBD | Career Architect |
+| 2026-01-24 | Roamtech | Business Development Officer | 🔄 In Progress | TBD | Career Architect |
+| 2026-01-24 | Snibe | Business Development Manager | 🔄 In Progress | TBD | Career Architect |
+
+### Application Materials Generated
+
+Each application includes:
+- ✅ **Job Description Analysis** - Complete role requirements breakdown
+- ✅ **Strategic Match Report** - Alignment analysis with match scores
+- ✅ **Tailored Resume** - Role-specific highlighting and optimization
+- ✅ **Cover Letter** - Professional application correspondence
+- ✅ **Interview Preparation** - Comprehensive interview guide
+- ✅ **Email Templates** - Application submission formats (where applicable)
+
+### Application Status Legend
+- 🔄 **In Progress** - Materials generated, ready for submission
+- ✅ **Submitted** - Application sent to employer
+- 📞 **Interview Scheduled** - Interview confirmed
+- ⏳ **Under Review** - Application being reviewed
+- 🎉 **Offer Received** - Job offer received
+- ❌ **Rejected** - Application not successful
+
+### Quick Actions
+- **Apply Now**: Check individual application folders for submission instructions
+- **Update Status**: Edit this README to track application progress
+- **Build PDFs**: Run `python scripts/compile_all.py` to generate PDF versions
+
+---
+
 **Built for engineers who treat job applications as a system to be optimized.** 🎯
