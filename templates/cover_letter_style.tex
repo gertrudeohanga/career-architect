@@ -20,11 +20,18 @@
 \hypersetup{colorlinks=true, urlcolor=accentcolor}
 
 % Contact header similar to resume but appropriate for cover letters
+% Only shows profile links (LinkedIn, GitHub, Portfolio) if they are provided
+\usepackage{ifthen}
 \newcommand{\letterheader}[7]{
     \begin{center}
         \textbf{\Large #1} \\ \vspace{6pt}
-        \small #2 \ $|$ \ #3 \ $|$ \ \href{mailto:#4}{#4} \\ \vspace{2pt}
-        \href{#5}{\faIcon{linkedin} LinkedIn} \ $|$ \ \href{#6}{\faIcon{github} GitHub} \ $|$ \ \href{#7}{\faIcon{globe} Portfolio}
+        \small #2 \ $|$ \ #3 \ $|$ \ \href{mailto:#4}{#4}
+        \ifthenelse{\equal{#5}{}}{}{%
+            \\ \vspace{2pt}
+            \ifthenelse{\equal{#5}{}}{}{\href{#5}{\faIcon{linkedin} LinkedIn}}%
+            \ifthenelse{\equal{#6}{}}{}{ \ $|$ \ \href{#6}{\faIcon{github} GitHub}}%
+            \ifthenelse{\equal{#7}{}}{}{ \ $|$ \ \href{#7}{\faIcon{globe} Portfolio}}%
+        }
     \end{center}
     \vspace{10pt}
 }
@@ -33,8 +40,13 @@
 \newcommand{\contactline}[7]{
     \begin{center}
         \textbf{\Large #1} \\ \vspace{6pt}
-        \small #2 \ $|$ \ #3 \ $|$ \ \href{mailto:#4}{#4} \\ \vspace{2pt}
-        \href{#5}{\faIcon{linkedin} LinkedIn} \ $|$ \ \href{#6}{\faIcon{github} GitHub} \ $|$ \ \href{#7}{\faIcon{globe} Portfolio}
+        \small #2 \ $|$ \ #3 \ $|$ \ \href{mailto:#4}{#4}
+        \ifthenelse{\equal{#5}{}}{}{%
+            \\ \vspace{2pt}
+            \ifthenelse{\equal{#5}{}}{}{\href{#5}{\faIcon{linkedin} LinkedIn}}%
+            \ifthenelse{\equal{#6}{}}{}{ \ $|$ \ \href{#6}{\faIcon{github} GitHub}}%
+            \ifthenelse{\equal{#7}{}}{}{ \ $|$ \ \href{#7}{\faIcon{globe} Portfolio}}%
+        }
     \end{center}
     \vspace{10pt}
 }

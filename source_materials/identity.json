@@ -27,7 +27,8 @@
   },
 
   "logistics": {
-    "salary_expectation": "40000-150000 KES",
+    "salary_current": "88000",
+    "salary_expectation": "90000-200000",
     "salary_currency": "KES",
     "salary_notes": "Flexible, negotiable based on benefits and opportunities",
     "notice_period": "30 days",

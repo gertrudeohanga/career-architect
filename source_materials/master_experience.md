@@ -139,7 +139,7 @@
 
 ---
 
-## Schmsoft Ventures | Business Development / Relationship Officer | January 2021 - December 2023
+## Schmsoft Ventures | Business Development / Relationship Officer | January 2021 - April 2022
 
 - **Core Technologies**: CRM Systems, Customer Service Platforms, Financial Products Suite, Training Management Systems, Communication Tools
 
@@ -171,7 +171,7 @@
 
 ---
 
-## Code Particles | Help Desk Support | 2021 - 2022
+## Code Particles | Help Desk Support (Part-Time) | January 2021 - April 2022
 
 - **Core Technologies**: Help Desk Software, Remote Troubleshooting Tools, Diagnostic Platforms, IT Service Management Systems, Issue Tracking Systems, Customer Communication Platforms
 
