@@ -1,0 +1,21 @@
+---
+company: I&M Bank
+role: Direct Sales Executive
+date: 2026-01-31
+---
+
+\letterheader{Getrude Kasinga Ohanga}{Nairobi, Kenya}{+254 706 573 273}{ohanga.gertrude@gmail.com}{https://www.linkedin.com/in/getrude-ohanga/}{}{}
+
+Dear Hiring Manager,
+
+With over five years of experience in financial services sales, field marketing, and customer relationship management, I am excited to apply for the Direct Sales Executive position at I&M Bank. Your focus on building customer relationships through personal engagement and delivering excellent sales results aligns perfectly with my proven track record of exceeding targets, conducting successful activations, and generating referral business through exceptional customer service.
+
+In my current role as Business Development Manager at Kwendo, I have acquired over 100 business clients through targeted prospecting, product demonstrations, and consistent follow-up. At My-Credit Limited, I achieved 120% of my annual sales targets by conducting door-to-door marketing, field activations, and promotional campaigns while cross-selling products to existing clients. At Ngao Credit, my focus on customer satisfaction generated 30% of my sales through referrals and repeat business.
+
+What particularly excites me about this opportunity is the chance to apply my field sales expertise within Kenya's banking sector. My experience includes exactly what this role requires: marketing products to potential customers, setting appointments, assisting with form completion, attending activations, and compiling comprehensive sales reports. I am highly motivated, target-driven, and committed to delivering excellent customer experiences that drive sustainable organic growth.
+
+I would welcome the opportunity to discuss how my proven sales record can contribute to I&M Bank's Personal Banking team. I am available for an interview at your convenience.
+
+Sincerely,
+
+Getrude Kasinga Ohanga

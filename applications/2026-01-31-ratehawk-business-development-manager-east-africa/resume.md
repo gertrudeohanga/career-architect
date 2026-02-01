@@ -1,0 +1,69 @@
+---
+company: RateHawk
+role: Business Development Manager, East Africa
+date: 2026-01-31
+version: 1.0
+---
+
+\contactline{Getrude Kasinga Ohanga}{Nairobi, Kenya}{+254 706 573 273}{ohanga.gertrude@gmail.com}{}{}{}
+
+## Summary
+
+Results-driven B2B Business Development professional with over 5 years of experience driving partner acquisition, revenue growth, and account management across East Africa. Proven track record of exceeding sales targets (120%+), onboarding and training partners on digital platforms, and managing diverse client portfolios. Seeking to leverage strong B2B sales expertise and partner relationship skills in the travel-tech industry with RateHawk.
+
+## Professional Experience
+
+### Business Development Manager | Kwendo (kwendo.io) | August 2025 - Present
+
+- Acquire and onboard 100+ business partners across Kenya through strategic prospecting and relationship building
+- Develop and implement sales strategies to expand platform presence and achieve territory growth targets
+- Train partners on digital platform features, ensuring high adoption rates and system utilization
+- Build and maintain long-lasting relationships with key decision-makers across diverse industries
+- Provide first-level support to partner portfolio, managing issues and improving cooperation
+- Manage commercial deals including documentation, technical setup, and compliance monitoring
+- Deliver regular performance reporting through CRM systems to inform strategic decisions
+
+### Business Development Officer | Tenakata Enterprise | June 2025 - August 2025
+
+- Managed full sales lifecycle from prospecting to deal closure across assigned territory
+- Built and maintained strong partner relationships supporting portfolio growth
+- Prepared and executed commercial deals with proper documentation flow
+- Achieved 100% compliance with reporting requirements and internal processes
+
+### Sales Agent | Ngao Credit Limited | June 2024 - June 2025
+
+- Exceeded monthly sales targets through systematic prospecting, negotiation, and closure
+- Managed assigned client portfolio providing support and identifying upsell opportunities
+- Built strong relationships generating 30% repeat business and referrals
+- Maintained comprehensive CRM records for data-driven decision-making
+
+### Sales and Marketing Specialist | My-Credit Limited | May 2022 - May 2024
+
+- Achieved 120% of annual sales targets through strategic B2B partner development
+- Signed up and trained 50+ new partner groups on product features and systems
+- Conducted market and competitive environment analysis informing sales strategy
+- Managed commercial relationships including payment flow and compliance
+
+### Business Development / Relationship Officer | Schmsoft Ventures | January 2021 - December 2023
+
+- Built and maintained B2B client portfolio with focus on long-term partnerships
+- Trained partners on system usage and best practices for cooperation
+- Managed account support and relationship development across diverse sectors
+
+## Education
+
+**Bachelor of Arts in Gender and Development**  
+Egerton University | 2015 - 2019
+
+## Skills
+
+- **B2B Sales**: Full lifecycle from prospecting to closure, account management
+- **Partner Development**: Acquisition, onboarding, training, retention
+- **Relationship Management**: Long-term partnerships, stakeholder engagement
+- **CRM & Reporting**: Data-driven decision-making, performance tracking
+- **Commercial Operations**: Deal documentation, compliance, payment flow
+- **Languages**: English (Fluent), Swahili (Native)
+
+## Why Travel-Tech
+
+Passionate about leveraging technology to transform industries. Eager to apply proven B2B sales and partner management expertise to the travel sector, combining strong relationship-building skills with RateHawk's innovative platform to drive East African market expansion.
