@@ -3,6 +3,7 @@ company: Dual & All
 role: Business Development Manager
 location: Nairobi, Kenya
 job_type: Permanent, Full-time
+salary: Not specified
 source: Job Posting (4 hours ago)
 apply_method: email
 apply_email: dual@dualandall.co.ke

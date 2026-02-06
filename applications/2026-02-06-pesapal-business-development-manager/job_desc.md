@@ -3,6 +3,7 @@ company: Pesapal
 role: Business Development Manager (Oracle Hospitality)
 location: Nairobi, Kenya
 job_type: Permanent, Full-time
+salary: Not specified
 source: Job Posting (13 mins ago)
 apply_method: email
 apply_email: kazi@pesapal.com

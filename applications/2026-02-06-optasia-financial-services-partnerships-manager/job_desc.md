@@ -3,6 +3,7 @@ company: Optasia
 role: Financial Services Partnerships Manager, Fintech
 location: Nairobi, Kenya (East Africa Region)
 job_type: Permanent, Full-time
+salary: Competitive remuneration package + Performance bonus
 source: Job Posting (2 months ago)
 apply_method: online_easy_apply
 ---

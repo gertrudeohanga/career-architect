@@ -1,0 +1,23 @@
+---
+company: CFAO Mobility (BYD)
+role: Director / Head of Sales
+date: 2026-02-06
+---
+
+\letterheader{Getrude Kasinga Ohanga}{Nairobi, Kenya}{+254 706 573 273}{ohanga.gertrude@gmail.com}{https://www.linkedin.com/in/getrude-ohanga/}{}{}
+
+Dear Hiring Committee,
+
+The introduction of BYD to the Kenyan market represents a pivotal moment in the automotive industry, and establishing it as the market leader requires more than just industry experience—it demands energy, strategic agility, and a relentless focus on sales execution. I am writing to apply for the Director / Head of Sales position with the confidence that my background in high-growth sales leadership and asset finance positions me to drive this revolution.
+
+While my career has been rooted in the financial services sector, the parallels to the automotive industry—specifically within asset-backed sales—are significant. At My-Credit Limited and Ngao Credit, I did not just sell "loans"; I sold the capability for assets to transform businesses and lives. I managed networks of over 50 dealer groups, understanding the intricacies of credit management, inventory turnover, and the critical importance of minimizing bad debt. These are the same commercial pillars required to manage a successful vehicle sales operation.
+
+In my current role as Business Development Manager at Kwendo, I successfully entered a competitive B2B market and acquired over 100 corporate clients in under six months. This demonstrates my ability to take a new value proposition, identify the "early adopters," and close deals rapidly. I bring a "hunter" mentality to sales leadership—I don't just manage dashboards; I accompany my teams to the field, coach on live deals, and lead by example.
+
+I possess the strong leadership and strategic agility required to build the BYD brand from the ground up. I understand that selling EVs in Kenya is an educational sale as much as a commercial one. My experience in consultative selling and market education ensures I can articulate the Total Cost of Ownership (TCO) benefits of BYD to skeptical fleet managers and individual buyers alike.
+
+I am ready to bring my discipline, sales rigor, and fresh perspective to CFAO Mobility. I welcome the challenge of exceeding your sales targets and establishing BYD as the premier EV brand in the region.
+
+Sincerely,
+
+Getrude Kasinga Ohanga
