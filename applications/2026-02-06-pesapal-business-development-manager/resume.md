@@ -1,0 +1,58 @@
+---
+company: Pesapal
+role: Business Development Manager (Oracle Hospitality)
+date: 2026-02-06
+version: 1.0 - Fintech/Solution Sales Tailored
+---
+
+\contactline{Getrude Kasinga Ohanga}{Nairobi, Kenya}{+254 706 573 273}{ohanga.gertrude@gmail.com}{https://www.linkedin.com/in/getrude-ohanga/}{}{}
+
+## Summary
+
+Results-driven Business Development Manager with over 5 years of experience in solution selling and enterprise client acquisition within the fintech and financial services sectors. Proven success in identifying business opportunities, managing complex sales cycles, and building long-term relationships with key decision-makers. Expertise in consultative selling, CRM pipeline management, and bridging the gap between technical solutions and business needs. Eager to leverage strong B2B sales track record to drive adoption of Oracle Hospitality solutions for Pesapal.
+
+## Professional Experience
+
+### Business Development Manager | Kwendo (kwendo.io) | August 2025 - Present
+
+- **Enterprise Sales & Opportunity Development:** Identify and develop new business opportunities for financial technology solutions.
+- **Solution Selling:** Engage mid-sized and enterprise businesses to understand operational challenges and map them to appropriate tech solutions.
+- **Pipeline Management:** Build and manage a strong pipeline of qualified opportunities, maintaining accurate CRM records.
+- **Stakeholder Engagement:** Lead consultative sales conversations with executive stakeholders to negotiate commercial terms and close deals.
+- **Achievement:** Acquired 100+ corporate clients through strategic prospecting and value-based selling.
+
+### Sales and Marketing Specialist | My-Credit Limited | May 2022 - May 2024
+
+- **Strategic Sales:** Achieved 120% of annual revenue targets by implementing effective sales strategies for financial products.
+- **Client Relationship Management:** Built long-term relationships with 50+ key partners/decision-makers, ensuring high retention and satisfaction.
+- **Market Intelligence:** Gathered market feedback and competitor insights to inform product positioning and sales tactics.
+- **Reporting:** Submitted weekly and monthly performance reports to management, utilizing data to identify improvement areas.
+
+### Sales Agent | Ngao Credit Limited | June 2024 - June 2025
+
+- **Direct Sales:** Executed direct sales strategies, consistently meeting rigorous monthly quotas.
+- **Referral Generation:** Generated 30% of new business through strong client referrals and networking.
+- **Needs Analysis:** Conducted thorough needs assessments to provide tailored financial solutions to clients.
+
+### Business Development Officer | Tenakata Enterprise | June 2025 - August 2025
+
+- Engaged potential clients to understand business needs and recommend suitable financial solutions.
+- Managed client relationships and coordinated service delivery to ensure customer success.
+
+## Education
+
+**Bachelor of Arts in Gender and Development**  
+Egerton University | 2015 - 2019
+
+## Core Competencies
+
+- **Solution Selling:** Consultative approach to mapping client needs to technical products.
+- **Enterprise Sales:** Experience managing B2B sales cycles and closing complex deals.
+- **CRM Proficiency:** Skilled in using CRM tools for pipeline tracking and reporting.
+- **Stakeholder Management:** Ability to engage IT, Finance, and Operations stakeholders.
+- **Fintech Experience:** Understanding of digital transformation and business systems.
+- **Languages:** English (Fluent), Swahili (Native).
+
+## References
+
+Available upon request.
