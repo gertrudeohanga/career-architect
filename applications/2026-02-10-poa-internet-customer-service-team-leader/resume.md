@@ -1,0 +1,55 @@
+---
+company: Poa! Internet
+role: Customer Service Team Leader
+date: 2026-02-10
+version: 1.0 - CS Leadership Pivot
+---
+
+\contactline{Getrude Kasinga Ohanga}{Nairobi, Kenya}{+254 706 573 273}{ohanga.gertrude@gmail.com}{https://www.linkedin.com/in/getrude-ohanga/}{}{}
+
+## Summary
+
+Dynamic Team Leader with over 5 years of experience managing high-performing teams in the Fintech and Financial Services sectors. Proven track record of enhancing customer experience, driving operational efficiency, and leading field-based teams of up to 50 agents. Expert in coaching, performance monitoring, and resolving complex escalations. Passionate about digital inclusion and eager to leverage strong leadership skills to drive service excellence at Poa! Internet.
+
+## Professional Experience
+
+### Business Development Manager (Team Lead) | Kwendo | August 2025 - Present
+
+- **Team Leadership:** Lead a cross-functional team to drive the adoption of HR-tech solutions, ensuring consistent service delivery and client satisfaction.
+- **Process Improvement:** optimize client onboarding workflows, reducing friction points and improving "First Time Right" metrics for new accounts.
+- **Escalation Management:** Serve as the final point of escalation for key corporate accounts, resolving complex billing and effective service issues.
+- **Performance Coaching:** Conduct weekly performance reviews and coaching sessions to ensure the team meets acquisition and retention targets.
+
+### Sales and Marketing Specialist (Team Lead) | My-Credit Limited | May 2022 - May 2024
+
+- **Large Team Management:** Managed a diverse team of agents serving a portfolio of **50+ partner groups**, overseeing daily operations and shift planning for field activations.
+- **Training & QA:** Developed and delivered training modules on product knowledge and customer interaction standards, significantly improving team confidence and service quality.
+- **Data-Driven Leadership:** Monitored daily performance dashboards to track KPIs (Portfolio at Risk, Repayment Rates) and adjusted team focus in real-time.
+- **Customer Resolution:** Handled sensitive credit-related disputes, employing empathy and problem-solving skills to retain clients while ensuring compliance.
+
+### Sales Agent | Ngao Credit Limited | June 2024 - June 2025
+
+- **Customer Advocacy:** Acted as the primary liaison between clients and the credit department, ensuring clear communication of loan terms and conditions.
+- **Relationship Management:** Built long-term trust with clients, resulting in a 30% referral rate driven by high customer satisfaction scores (CSAT).
+
+### Business Development Officer | Schmsoft Ventures | Jan 2021 - April 2022
+
+- **Support Operations:** Provided frontline support for SME clients, troubleshooting system issues and guiding them through digital tools.
+- **Feedback Loop:** Gathered and analyzed customer feedback to recommend product improvements to the technical team.
+
+## Education
+
+**Bachelor of Arts in Gender and Development**  
+Egerton University | 2015 - 2019
+
+## Key Skills
+
+- **Team Leadership & Coaching:** Experienced in motivating & managing diverse teams (5-50 people).
+- **Conflict Resolution:** Skilled in de-escalating tense customer situations with empathy.
+- **Digital Literacy:** Proficient in CRM systems, MS Office, and mobile data tools.
+- **Operational Agility:** Adaptable to shift-based work and high-pressure environments.
+- **Languages:** Fluent in English and Kiswahili.
+
+## References
+
+Available upon request.
