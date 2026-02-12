@@ -1,0 +1,28 @@
+---
+company: Unilever
+role: Area Sales Manager Central
+date: 2026-02-12
+---
+
+\letterheader{Getrude Kasinga Ohanga}{Nairobi, Kenya}{+254 706 573 273}{ohanga.gertrude@gmail.com}{https://www.linkedin.com/in/getrude-ohanga/}{}{}
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the **Area Sales Manager Central** position at Unilever. As a sales leader who has successfully managed high-volume territories, led field teams of over 50 people, and consistently exceeded revenue targets (120%), I am confident in my ability to drive sustainable growth for Unilever’s professional category.
+
+I understand that the ASM role is not just about "selling"—it is about building the **infrastructure** for sales. It requires a leader who can manage distributor health, optimize routes, and ensure financial control, all while motivating a field force. Here is how my experience aligns:
+
+**1. Territory & Partner Management:**
+At My-Credit Limited, I managed a network of over **50 partner groups**, which functioned similarly to a distributor network. My role was to ensure they were "active," financially healthy, and compliant with our service standards. I successfully expanded our footprint by identifying under-served zones and on-boarding new partners, directly mirroring the "Establish Distributor Networks" responsibility in your JD.
+
+**2. Financial Hygiene & Operations:**
+I have a deep respect for the "boring" but critical side of sales—controls. I have extensive experience managing credit limits, reconciling partner accounts, and recovering outstanding dues. I understand that a sale is not complete until the money is in the bank and the stock is accounted for. I have a proven track record of maintaining system hygiene and minimizing losses.
+
+**3. Field Leadership:**
+"Leading field sales force" is where I thrive. I don't lead from behind a desk; I lead from the front. I have recruited, trained, and coached teams of up to 30 territory officers, instilling a culture of performance and resilience. I believe in co-developing strategies with my team and then holding us all accountable to the execution.
+
+I am energized by the opportunity to work for a purpose-driven company like Unilever. I bring the grit, the strategic thinking, and the "Seizing the Future" mindset required to lead the Central Region to new heights.
+
+Sincerely,
+
+Getrude Kasinga Ohanga
