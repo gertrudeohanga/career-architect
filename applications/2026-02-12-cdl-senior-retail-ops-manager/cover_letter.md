@@ -1,0 +1,31 @@
+---
+company: CDL (Fashion Retail Client)
+role: Senior Retail Operations Manager
+date: 2026-02-12
+---
+
+\letterheader{Getrude Kasinga Ohanga}{Nairobi, Kenya}{+254 706 573 273}{ohanga.gertrude@gmail.com}{https://www.linkedin.com/in/getrude-ohanga/}{}{}
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the **Senior Retail Operations Manager** position. While my background is rooted in the operational scaling of Fintech and Financial Services networks, the core challenges of your role—managing distributed clusters, driving unit-level performance, and enforcing standard operating procedures—are unparalleled in my experience managing **50+ partner outlets** and optimizing regional field operations.
+
+I am an Operations Manager who looks at a territory map and sees a P&L. Here is how my experience translates to Fashion Retail Operations:
+
+**1. Multi-Unit Performance Management:**
+At My-Credit Limited, I acted as the "Cluster Manager" for a network of over 50 independent partner units. My role was not just sales; it was **Operational Viability**. I monitored daily activity, managed liquidity (stock equivalent), and ensured every unit met its revenue targets. This rigour in managing a distributed network is directly transferable to managing a cluster of retail stores.
+
+**2. SOPs and Brand Consistency:**
+In financial services, compliance is non-negotiable. I have spent the last 5 years enforcing Standard Operating Procedures (SOPs) across field teams to ensure that every client interaction meets the brand's quality and legal standards. I bring this same discipline to ensuring visual merchandising and service standards are upheld across a retail footprint.
+
+**3. People Leadership & Succession:**
+I have built and led teams of up to 30 staff. My leadership style is coaching-centric. I believe in spending time in the field (on the "shop floor") to observe behaviors, correct issues in real-time, and identify the next generation of leaders. I don't manage from a spreadsheet; I manage from the front line.
+
+**4. Operational Efficiency:**
+I am obsessed with efficiency. Whether it is optimizing route plans to save fuel costs or managing credit portfolios to reduce "shrinkage" (risk), I effectively manage the bottom line. I understand that Retail Operations is a game of margins, and I know how to protect them.
+
+I am eager to bring my operational grit, commercial acumen, and fresh perspective to your Retail Operations team.
+
+Sincerely,
+
+Getrude Kasinga Ohanga
