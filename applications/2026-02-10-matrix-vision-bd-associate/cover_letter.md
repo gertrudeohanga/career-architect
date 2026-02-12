@@ -1,0 +1,28 @@
+---
+company: Matrix Vision Systems
+role: Business Development Associate – Corporate Software Sales
+date: 2026-02-10
+---
+
+\letterheader{Getrude Kasinga Ohanga}{Nairobi, Kenya}{+254 706 573 273}{ohanga.gertrude@gmail.com}{https://www.linkedin.com/in/getrude-ohanga/}{}{}
+
+Dear Hiring Manager,
+
+I am writing to express my enthusiasm for the **Business Development Associate – Corporate Software Sales** position at Matrix Vision Systems. As a business development professional who has spent the last year driving the adoption of Fintech and HR-Tech solutions at Kwendo, I am excited about the opportunity to bring my consultative sales approach to your team.
+
+At Matrix Vision, you need more than just a salesperson; you need a partner who can bridge the gap between technical innovation and business value. Here is why I am the right fit:
+
+**1. Enterprise Software Sales Experience:**
+At Kwendo, I am currently leading B2B sales for a payroll digitization platform. I deal daily with the challenges of introducing new software to corporate clients—overcoming resistance to change, demonstrating ROI, and navigating multi-stakeholder decision-making processes. I don't just sell a product; I sell a solution to operational inefficiencies.
+
+**2. Consultative & Relationship-Driven:**
+My background in financial services (My-Credit, Ngao) honed my ability to build trust with C-level executives and business owners. I approach every sale with a "Needs Assessment" mindset—diagnosing the client's pain points before offering a solution. This approach has consistently helped me exceed targets, including achieving 120% of my revenue goals at My-Credit.
+
+**3. Strategic Market Development:**
+I understand the Kenyan corporate landscape. I have built pipelines from scratch, identifying opportunities not just through traditional channels but by understanding emerging industry trends. I am eager to apply this proactive mindset to mining opportunities on platforms like EGP and expanding Matrix Vision’s footprint.
+
+I am passionate about technology’s role in driving business efficiency. I am ready to hit the ground running, leverage my existing corporate network, and drive revenue growth for your software division.
+
+Sincerely,
+
+Getrude Kasinga Ohanga
