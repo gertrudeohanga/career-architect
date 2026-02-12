@@ -1,0 +1,56 @@
+---
+company: Inkomoko
+role: Senior Business Development Advisor
+date: 2026-02-12
+version: 1.0 - SME & Development Profile
+---
+
+\contactline{Getrude Kasinga Ohanga}{Nairobi, Kenya}{+254 706 573 273}{ohanga.gertrude@gmail.com}{https://www.linkedin.com/in/getrude-ohanga/}{}{}
+
+## Summary
+
+Passionate Business Growth Specialist with over 5 years of experience supporting MSME resilience, financial inclusion, and market access in Kenya. Uniquely qualified with a **B.A. in Gender and Development** and practical experience in Fintech/Business Advisory (Tenakata, Kwendo), I bridge the gap between social impact and commercial sustainability. Proven track record of training over 300 entrepreneurs, managing field teams in resource-constrained environments, and driving business growth for underserved communities. Eager to apply my coaching, training, and strategic advising skills to support refugee entrepreneurs in Dadaab.
+
+## Professional Experience
+
+### Business Development Manager (SME Growth Lead) | Kwendo | August 2025 - Present
+
+-   **Business Advisory:** Coach a portfolio of SME clients on business formalization, process digitization, and financial record-keeping to improve creditworthiness.
+-   **Capacity Building:** Developed and delivered training modules on "Digital Literacy for Business," empowering entrepreneurs to use mobile tools for growth.
+-   **Team Supervision:** Manage a team of Business Associates, providing mentorship and quality assurance on their client consultation work.
+-   **Stakeholder Engagement:** Represent the organization in meetings with county-level partners and industry associations to advocate for SME support.
+
+### Business Development Officer (MSME Trainer) | Tenakata Enterprise | June 2025 - August 2025
+
+-   **Financial Literacy Training:** Conducted on-site training for micro-entrepreneurs on separating personal/business finances and maintaining profit/loss records.
+-   **Client Onboarding:** guided business owners through the adoption of digital ledgers, ensuring 90% retention rate through hands-on troubleshooting.
+-   **Impact Reporting:** Gathered success stories and qualitative data from the field to report on the social impact of the Tenakata solution.
+
+### Sales Agent | Ngao Credit Limited | June 2024 - June 2025
+
+-   **Field Engagement:** Worked directly with clients in informal settlements and peri-urban areas, understanding the unique challenges of "unbanked" populations.
+-   **Needs Assessment:** Conducted financial health checks for potential clients to recommend appropriate credit products for asset acquisition.
+
+### Sales and Marketing Specialist | My-Credit Limited | May 2022 - May 2024
+
+-   **SME Lending:** Managed a portfolio of 50+ partner groups (Chamas and Micro-enterprises), advising them on credit utilization for business expansion.
+-   **Risk Management:** Coached clients on repayment planning and cash flow management to minimize default risks.
+-   **Community Relations:** Built strong community ties to facilitate group lending models, fostering a culture of collective responsibility.
+
+## Education
+
+**Bachelor of Arts in Gender and Development**  
+Egerton University | 2015 - 2019
+*Relavant Modules: Community Development, project Management, Social Research Methods.*
+
+## Key Skills
+
+-   **Business Coaching & Training:** Experience mentoring MSMEs on growth strategies.
+-   **Community Development:** Strong understanding of working with vulnerable/underserved populations.
+-   **Financial Inclusion:** Expert in digital tools for financial access (Fintech).
+-   **Team Leadership:** Skilled in supervising and mentoring field staff.
+-   **Reporting:** Competent in M&E data collection and narrative reporting.
+
+## References
+
+Available upon request.
