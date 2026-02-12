@@ -1,0 +1,62 @@
+---
+company: DIB Bank Kenya (Dubai Islamic Bank)
+role: Branch Manager
+date: 2026-02-12
+version: 1.0 - Sales-Led Branch Leadership
+---
+
+\contactline{Getrude Kasinga Ohanga}{Nairobi, Kenya}{+254 706 573 273}{ohanga.gertrude@gmail.com}{https://www.linkedin.com/in/getrude-ohanga/}{}{}
+
+## Summary
+
+Performance-driven Business Manager with over 5 years of experience in **Portfolio Management**, **Asset Growth**, and **Team Leadership** within the Financial Services sector. Expert in mobilizing deposits and driving asset book growth through strategic relationship management and high-net-worth (HNW) client acquisition. Proven track record of managing profit centers (50+ partner groups), ensuring rigorous audit compliance, and leading high-performing sales teams in **Nairobi CBD**. Strong understanding of asset-backed financing principals, aligned with Sharia-compliant banking values.
+
+## Professional Experience
+
+### Business Development Manager (Portfolio Lead) | Kwendo | August 2025 - Present
+
+-   **Business Growth:** Lead the expansion of the Nairobi portfolio, consistently exceeding monthly targets for new account acquisition and revenue generation.
+-   **Relationship Management:** Manage high-value relationships with commercial clients, acting as the primary point of contact for financial advisory and service escalation.
+-   **Profitability:** Monitor the profitability of the assigned cluster, balancing operational costs against revenue growth to maximize ROI.
+-   **Staff Leadership:** Mentor a team of associates, setting clear performance KPIs and conducting weekly reviews to ensure target adherence.
+
+### Business Development Officer | Tenakata Enterprise | June 2025 - August 2025
+
+-   **Client Onboarding:** Drove the adoption of financial management tools among MSME clients, facilitating better financial transparency and credit readiness.
+-   **Training:** Conducted capacity-building sessions for business owners, enhancing their ability to manage cash flows and repayments.
+
+### Sales Agent | Ngao Credit Limited | June 2024 - June 2025
+
+-   **Asset-Backed Sales:** Specialized in secured lending products (Logbook Loans), demonstrating strong adherence to credit policies and asset valuation protocols.
+-   **Compliance:** Maintained a 0% error rate in loan documentation and KYC procedures, ensuring seamless audit trails for all transactions.
+-   **Market Intelligence:** Operated within Nairobi markets, gathering intelligence on competitor rates and customer preferences to refine sales pitches.
+
+### Sales and Marketing Specialist (Area Lead) | My-Credit Limited | May 2022 - May 2024
+
+-   **Portfolio Management:** Managed a diverse portfolio of **50+ partner groups (Chamas)**, effectively acting as a "Branch Manager" for this cluster. Responsible for portfolio health, growth, and retention.
+-   **Service Quality:** Enforced strict service level agreements (SLAs) with partners to ensure customer satisfaction and repeat business.
+-   **Risk & Audit:** Minimized Portfolio at Risk (PAR) to <5% through rigorous credit assessment and proactive collections management.
+-   **Customer Service:** Spearheaded initiatives to reduce turnaround time for loan processing, resulting in a 20% increase in customer satisfaction scores.
+
+### Business Development / Relationship Officer | Schmsoft Ventures | Jan 2021 - April 2022
+
+-   **Client Relations:** Managed client relationships across Nairobi CBD, ensuring high retention rates and cross-selling additional software modules.
+-   **Reporting:** Maintained accurate records of client interactions and sales activities for management review.
+
+## Education
+
+**Bachelor of Arts in Gender and Development**  
+Egerton University | 2015 - 2019
+*Focus: Community Development, Financial Inclusion strategies.*
+
+## Key Skills
+
+-   **Branch/Portfolio Management:** Proven ability to manage a P&L and drive growth.
+-   **Deposit & Asset Mobilization:** Strong sales track record in financial products.
+-   **Relationship Management:** Experience with HNW and Corporate clients.
+-   **Operational Compliance:** Strict adherence to KYC, AML, and Audit policies.
+-   **Leadership:** Skilled in coaching and motivating sales teams.
+
+## References
+
+Available upon request.
