@@ -2,7 +2,7 @@
 company: Unilever
 role: Area Sales Manager Central
 date: 2026-02-12
-version: 1.0 - Territory & Channel Management Focus
+version: 1.1 - Chronology Fixed
 ---
 
 \contactline{Getrude Kasinga Ohanga}{Nairobi, Kenya}{+254 706 573 273}{ohanga.gertrude@gmail.com}{https://www.linkedin.com/in/getrude-ohanga/}{}{}
@@ -20,17 +20,22 @@ High-impact Sales Leader with over 5 years of experience managing regional sales
 - **Channel Partnerships:** Built a network of strategic partners to accelerate market penetration, ensuring alignment with national sales objectives.
 - **Team Leadership:** Manage a cross-functional sales team, conducting weekly performance reviews and field coaching to ensure KPI adherence.
 
+### Business Development Officer | Tenakata Enterprise | June 2025 - August 2025
+
+- **Market Activation:** Executed field activation strategies to onboard MSMEs onto financial tracking platforms.
+- **Client Training:** Conducted training sessions for business owners on financial literacy and tool usage to improve repayment capability.
+
+### Sales Agent | Ngao Credit Limited | June 2024 - June 2025
+
+- **Field Execution:** Executed aggressive territory sales plans for secured financial products, consistently ranking as a top performer.
+- **Market Intelligence:** Gathered and reported on competitor activity and pricing strategies, enabling the head office to adjust tactical offers.
+
 ### Sales and Marketing Specialist (Area Lead) | My-Credit Limited | May 2022 - May 2024
 
 - **Distributor/Partner Management:** Managed a network of **50+ partner groups** (acting as de facto distributors), ensuring checking stock/credit availability and adherence to service level agreements.
 - **Financial Hygiene:** Monitored the financial health of partners, managing credit limits, reconciliations, and minimizing Portfolio at Risk (PAR) to <5%.
 - **Route-to-Market:** Optimized field sales routes for a team of 30+ agents, ensuring 100% territory coverage and efficient service delivery.
 - **Growth:** Achieved 120% of annual sales targets by identifying under-served zones and deploying targeted activation campaigns.
-
-### Sales Agent | Ngao Credit Limited | June 2024 - June 2025
-
-- **Field Execution:** Executed aggressive territory sales plans for secured financial products, consistently ranking as a top performer.
-- **Market Intelligence:** Gathered and reported on competitor activity and pricing strategies, enabling the head office to adjust tactical offers.
 
 ### Business Development / Relationship Officer | Schmsoft Ventures | Jan 2021 - April 2022
 
