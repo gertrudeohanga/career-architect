@@ -32,3 +32,8 @@ date: 2026-02-16
 **Question:** Are you or an affiliate (including relatives) currently or previously been employed by the US, UK (e.g. DFID and/or The Crown), or any other donor or donor government entity?
 **Answer:** **No**
 *(Unless you have a close relative working for USAID/DFID, the answer is No).*
+
+## 7. Education Details
+**Average Grade / GPA:** **Second Class Honors (Upper Division)** (Or 3.0/4.0 if forced to use numbers)
+**Graduated Comments:**
+> "Graduated with a focus on Gender Mainstreaming and Community Development. Completed rigorous coursework in Social Research Methods, Project Management, and Community Mobilization, which provided the theoretical framework for my career in development."
