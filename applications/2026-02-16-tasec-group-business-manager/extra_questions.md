@@ -141,6 +141,25 @@ platform: Fuzu
 **Selected Answer:**
 > "$10,000,000"
 
+### Question 10: Ann's Efficiency
+**Scenario:** Chart shows "Sales" and "Days Worked" for Jan-Jun.
+**Question:** Which of the following was Ann’s most efficient month?
+**Definition:** Efficiency = Sales generated per day worked.
+
+**Calculations:**
+*   **Jan:** 55,000 / 17 ≈ **3,235**
+*   **Feb:** 20,000 / 8 = 2,500
+*   **Mar:** 60,000 / 21 ≈ 2,857
+*   **Apr:** 55,000 / 20 = 2,750
+*   **May:** 60,000 / 22 ≈ 2,727
+*   **Jun:** 50,000 / 20 = 2,500
+
+**Selected Answer:**
+> "January"
+
+**Reasoning:**
+*   January has the highest Sales-to-Days-Worked ratio (3,235 per day), making it the most efficient month despite not having the highest total sales.
+
 ---
 
 ## Standard Fuzu Questions (Anticipated)
