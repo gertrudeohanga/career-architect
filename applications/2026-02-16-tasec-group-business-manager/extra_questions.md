@@ -195,6 +195,22 @@ platform: Fuzu
 **Reasoning:**
 *   **Porter's Five Forces:** When suppliers can dictate terms and prices without fear of losing business (or when the buyer has no alternative sources), they possess high bargaining power. This is exactly what is described (farmers won't budge).
 
+### Question 13: Nairobi and Mombasa Market Growth
+**Scenario:** Booksmart bookstore presence.
+**Data:**
+*   Nairobi and Mombasa Market Size (2 years ago): **5** (Million KES)
+*   Nairobi and Mombasa Market Size (Today): **9** (Million KES)
+**Question:** By what percentage has the market size in Nairobi and Mombasa grown in the last two years?
+
+**Calculation:**
+*   Growth = Today - Previous
+*   Growth = 9 - 5 = 4
+*   Percentage Growth = (Growth / Previous) * 100
+*   (4 / 5) * 100 = 0.8 * 100 = **80%**
+
+**Selected Answer:**
+> "80%"
+
 ---
 
 ## Standard Fuzu Questions (Anticipated)
