@@ -15,3 +15,4 @@ date: 2026-02-16
 -   **Expected Salary:** 80,000 - 100,000 (Flexible)
 -   **Notice Period:** 1 Month
 -   **Relevant Experience:** 5 Years (Microfinance & Collections)
+-   **Function:** Customer Service & Support
