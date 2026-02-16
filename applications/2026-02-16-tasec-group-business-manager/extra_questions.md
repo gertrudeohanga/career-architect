@@ -203,13 +203,28 @@ platform: Fuzu
 **Question:** By what percentage has the market size in Nairobi and Mombasa grown in the last two years?
 
 **Calculation:**
-*   Growth = Today - Previous
 *   Growth = 9 - 5 = 4
-*   Percentage Growth = (Growth / Previous) * 100
-*   (4 / 5) * 100 = 0.8 * 100 = **80%**
+*   Percentage = (4 / 5) * 100 = **80%**
 
 **Selected Answer:**
 > "80%"
+
+### Question 14: Campaign Effectiveness Ranking
+**Scenario:** Rank streams by effectiveness (Amount Donated / Cost) from highest to lowest.
+**Data (From Table):**
+*   Social Media: 282 / 22
+*   Private Sector: 201 / 18
+*   Religious Org: 153 / 8
+*   Institutional: 154 / 9
+
+**Calculations:**
+1.  **Religious:** 153 / 8 = **19.125**
+2.  **Institutional:** 154 / 9 = **17.11**
+3.  **Social Media:** 282 / 22 = **12.82**
+4.  **Private Sector:** 201 / 18 = **11.17**
+
+**Selected Answer:**
+> "Religious organization campaigns, Institutional campaigns, Social media campaign, Private sector campaigns"
 
 ---
 
