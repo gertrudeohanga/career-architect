@@ -1,0 +1,52 @@
+---
+company: Moja EV Kenya
+role: Business Development Executive
+date: 2026-02-16
+version: 1.0 - Automotive & High-Ticket Sales Focus
+---
+
+\contactline{Getrude Kasinga Ohanga}{Nairobi, Kenya}{+254 706 573 273}{ohanga.gertrude@gmail.com}{https://www.linkedin.com/in/getrude-ohanga/}{}{}
+
+## Summary
+
+High-performing Sales Executive with over 5 years of experience in **Asset Finance** and **Business Development**. Proven track record of selling high-value financial products backed by motor vehicles (Logbook Loans). Deep understanding of the Kenyan automotive market, vehicle valuation, and the financing process that drives car sales. Eager to leverage this expertise to drive the adoption of Green Energy Vehicles at Moja EV.
+
+## Professional Experience
+
+### Business Development Executive | Ngao Credit Limited | June 2024 - June 2025
+
+-   **Automotive Finance Sales:** Sold "Logbook Loans" to vehicle owners, requiring in-depth knowledge of car makes, models, and market values.
+-   **High-Value Closing:** Consistently met monthly targets of KSh 3M+ in disbursement by converting leads into closed deals through consultative selling.
+-   **Client Advisory:** Advised clients on asset value and financing options, a skill directly transferable to guiding customers through an EV purchase decision.
+-   **Partnerships:** Built a network of car dealers and insurance agents to generate referral business.
+
+### Field Sales Lead | Kwendo | August 2025 - Present
+
+-   **Territory Management:** Mapped and penetrated new market territories to introduce digital products to SME clients.
+-   **Pipeline Management:** Managed a sales pipeline of 50+ prospects at any given time, ensuring consistent follow-up and conversion.
+
+### Business Development Officer | Tenakata Enterprise | June 2025 - August 2025
+
+-   **Product Presentation:** Conducted demonstrations of digital solutions to business owners, highlighting ROI and efficiency—similar to explaining the cost-saving benefits of EVs.
+
+### Relationship Officer | My-Credit Limited | May 2022 - May 2024
+
+-   **Customer Retention:** Maintained relationships with a portfolio of 50+ high-net-worth clients, ensuring repeat business and referrals.
+-   **Negotiation:** Successfully negotiated repayment terms and contract details to close deals while maintaining company profitability.
+
+## Education
+
+**Bachelor of Arts in Gender and Development**  
+Egerton University | 2015 - 2019
+
+## Key Skills
+
+-   **Automotive Market Knowledge:** Familiar with popular car models, logbook processing, and asset valuation.
+-   **Consultative Selling:** Ability to explain complex value propositions (Cost of Ownership vs. Upfront Price).
+-   **Driving:** Valid Driver’s License (2+ Years Experience).
+-   **CRM & Reporting:** Proficient in using CRM tools to track leads and sales performance.
+-   **Communication:** Fluent in English & Kiswahili.
+
+## References
+
+Available upon request.
