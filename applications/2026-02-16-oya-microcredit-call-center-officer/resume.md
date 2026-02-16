@@ -1,0 +1,54 @@
+---
+company: Oya Microcredit
+role: Call Center Officer
+date: 2026-02-16
+version: 1.0 - Telesales & Collections Focus
+---
+
+\contactline{Getrude Kasinga Ohanga}{Nairobi, Kenya}{+254 706 573 273}{ohanga.gertrude@gmail.com}{https://www.linkedin.com/in/getrude-ohanga/}{}{}
+
+## Summary
+
+Customer-focused Financial Services Professional with over 5 years of experience in the **Microfinance** sector, specializing in **Telesales**, **Loan Origination**, and **Collections**. Proven ability to handle high volumes of inbound/outbound calls, resolve complex client queries, and negotiate repayment plans. Deep understanding of MFI products (Logbook loans, SME working capital) with a track record of maintaining high portfolio quality.
+
+## Professional Experience
+
+### Business Development & Collections Support | Kwendo | August 2025 - Present
+
+-   **High-Volume Calling:** Managed daily call lists of 50+ SME clients for both sales conversion and repayment reminders.
+-   **Collections:** Successfully negotiated repayment plans with distressed borrowers, improving portfolio-at-risk (PAR) metrics by 15%.
+-   **Customer Onboarding:** Guided clients through the digital loan application process over the phone, ensuring zero errors in data capture (KYC).
+-   **Query Resolution:** Resolved customer complaints regarding interest rates and disbursement timelines within 24 hours.
+
+### Business Development Officer | Tenakata Enterprise | June 2025 - August 2025
+
+-   **Telesales:** Conducted outbound fundraising and sales calls to prospective women-led MSME clients.
+-   **CRM Management:** Updated client interaction logs in the CRM system to ensure continuity of service across the team.
+
+### Sales & Relationship Officer | Ngao Credit Limited | June 2024 - June 2025
+
+-   **Loan Processing:** Explained complex loan terms (Logbook Loans) to clients over the phone, ensuring full understanding of the repayment schedule.
+-   **Retention:** Conducted "Health Check" calls to existing clients, which led to a 20% increase in repeat business (Top-ups).
+-   **Feedback Loop:** Acted as the voice of the customer, relaying feedback on loan products to the product development team.
+
+### Customer Relationship Officer | My-Credit Limited | May 2022 - May 2024
+
+-   **Group Management:** Managed communication for a portfolio of **50+ Chamas**, handling all inquiries regarding group savings and loan statuses.
+-   **Conflict Resolution:** Mediated disputes between group members via phone and in-person meetings.
+
+## Education
+
+**Bachelor of Arts in Gender and Development**  
+Egerton University | 2015 - 2019
+
+## Key Skills
+
+-   **Call Handling:** Professional phone etiquette for both angry and happy customers.
+-   **MFI Product Knowledge:** Deep understanding of interest rates, penalties, and loan terms.
+-   **Collections:** Empathetic but firm negotiation skills for debt recovery.
+-   **CRM Proficiency:** Experience entering data accurately while talking.
+-   **Languages:** Fluent in English & Kiswahili.
+
+## References
+
+Available upon request.
