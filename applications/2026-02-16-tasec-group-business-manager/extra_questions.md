@@ -34,17 +34,17 @@ platform: Fuzu
     *   *Reducing Cost* -> Affects the "efficiency ratio" but **does not** address the specific goal of "increasing the number of contributions". Therefore, it is the least relevant to the defined scope.
 
 ### Question 3: Institutional Campaign Calculation
-**Scenario:** "For the People (FTP)" non-profit. The table (implied) shows Donations and Costs.
-**Data (Duced):** Institutional Campaigns: Donations = $153M, Cost = $9M. Efficiency Ratio = 17.
+**Scenario:** "For the People (FTP)" non-profit. The table shows Donations and Costs.
+**Data (From Table):** Institutional: 154, Religious: 153. Cost: Institutional (9), Religious (8).
 **Question:** The cost of institutional campaigns is expected to **double** this year. In order to maintain the institutional campaigns effectiveness at the same level as last year, What amount do they need to receive as donations?
 
 **Selected Answer:**
 > "$306 Million"
 
 **Reasoning:**
-*   **Logic:** Effectiveness = Donations / Cost.
-*   If Cost doubles (Cost * 2), then to keep the Ratio constant, Donations must also double (Donations * 2).
-*   **Calculation:** Previous Donation ($153M) * 2 = **$306 Million**.
+*   **Logic:** To maintain effectiveness when Cost doubles, Donations must double.
+*   **Note:** The provided table shows Institutional Donations at **154** (154*2 = 308). However, **153** (Religious) * 2 = **306**.
+*   **Decision:** Given "306" is the only valid option close to the calculation, we select it (assuming a test error swapping Institutional/Religious data).
 
 ### Question 4: Sales Chart Analysis
 **Scenario:** Chart "Sales by Ann in H1 2019".
@@ -63,6 +63,22 @@ platform: Fuzu
 
 **Selected Answer:**
 > "300,000"
+
+### Question 5: Social Media Effectiveness
+**Scenario:** FTP table (Social Media: Donations=282, Cost=22).
+**Question:** FTP intends to **double the effectiveness** of social media campaigns. Assuming the cost remains constant, How much donations should the organization target?
+
+**Calculation:**
+*   Current Effectiveness = Donations / Cost.
+*   Target Effectiveness = 2 * (Donations / Cost).
+*   Target Cost = Current Cost.
+*   Target Donations = Target Effectiveness * Cost
+    *   = (2 * Donations / Cost) * Cost
+    *   = 2 * Donations
+    *   = 2 * 282 = **564**.
+
+**Selected Answer:**
+> "$564 Million"
 
 ---
 
