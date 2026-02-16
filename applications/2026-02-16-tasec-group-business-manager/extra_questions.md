@@ -121,6 +121,26 @@ platform: Fuzu
 **Reasoning:**
 *   **Data Driven:** The chart explicitly shows she only worked 8 days in February, compared to an average of ~20 days in other months. Being "sick" is a logical explanation for missing work days, which directly explains the low sales volume.
 
+### Question 9: Project Stage 2 Budget
+**Scenario:**
+*   Actual Cost Stage 1 = $25,000,000.
+*   This specific cost was **25% over-budget**.
+*   Total Budget for Project (Stage 1 & 2) = $30,000,000.
+**Question:** What was the original budget for stage 2?
+
+**Calculation:**
+1.  **Original Budget for Stage 1:**
+    *   Actual = Original * (1 + 25%)
+    *   25,000,000 = Original_S1 * 1.25
+    *   Original_S1 = 25,000,000 / 1.25 = **$20,000,000**.
+2.  **Original Budget for Stage 2:**
+    *   Total Budget = Original_S1 + Original_S2
+    *   30,000,000 = 20,000,000 + Original_S2
+    *   Original_S2 = 30,000,000 - 20,000,000 = **$10,000,000**.
+
+**Selected Answer:**
+> "$10,000,000"
+
 ---
 
 ## Standard Fuzu Questions (Anticipated)
