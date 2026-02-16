@@ -45,7 +45,24 @@ platform: Fuzu
 *   **Logic:** Effectiveness = Donations / Cost.
 *   If Cost doubles (Cost * 2), then to keep the Ratio constant, Donations must also double (Donations * 2).
 *   **Calculation:** Previous Donation ($153M) * 2 = **$306 Million**.
-*   *(Note: This fits the option perfectly, while other options like 396/455/528 do not correspond to a clean doubling of likely inputs).*
+
+### Question 4: Sales Chart Analysis
+**Scenario:** Chart "Sales by Ann in H1 2019".
+**Question:** How much sales did Ann close in the first half of 2019 (H1)?
+
+**Data Extraction:**
+*   Jan: 55
+*   Feb: 20
+*   Mar: 60
+*   Apr: 55
+*   May: 60
+*   Jun: 50
+
+**Calculation:**
+55 + 20 + 60 + 55 + 60 + 50 = 300 (Thousands)
+
+**Selected Answer:**
+> "300,000"
 
 ---
 
