@@ -110,6 +110,17 @@ platform: Fuzu
 **Selected Answer:**
 > "20%"
 
+### Question 8: Explanation for Low Sales (Feb)
+**Scenario:** Chart shows Jan-Jun sales. Feb is significantly lower (20k vs >50k avg).
+**Key Data Point:** Beside the bar chart, the "# of days Ann worked" column shows Feb = **8 days** (others are 17, 21, 20, 22, 20).
+**Question:** Using the chart, which of the following might best explain why Ann had a bad month in February?
+
+**Selected Answer:**
+> "Ann got sick and couldn’t work for most of the month"
+
+**Reasoning:**
+*   **Data Driven:** The chart explicitly shows she only worked 8 days in February, compared to an average of ~20 days in other months. Being "sick" is a logical explanation for missing work days, which directly explains the low sales volume.
+
 ---
 
 ## Standard Fuzu Questions (Anticipated)
