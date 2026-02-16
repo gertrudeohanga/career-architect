@@ -1,0 +1,55 @@
+---
+company: TASEC Group
+role: Business Manager
+date: 2026-02-16
+version: 1.0 - Revenue & Operations Focus
+---
+
+\contactline{Getrude Kasinga Ohanga}{Nairobi, Kenya}{+254 706 573 273}{ohanga.gertrude@gmail.com}{https://www.linkedin.com/in/getrude-ohanga/}{}{}
+
+## Summary
+
+Results-oriented Business Manager with over 5 years of experience driving **Revenue Growth**, **Operational Efficiency**, and **Strategic Partnerships** in the Financial Services and Technology sectors. Proven ability to oversee day-to-day operations, manage cross-functional teams, and execute business strategies that deliver profitability. Adept at client relationship management and identifying new business opportunities in competitive markets.
+
+## Professional Experience
+
+### Business Development & Operations Lead | Kwendo | August 2025 - Present
+
+-   **Business Growth:** Spearheaded the expansion of digital services into the Central Region, resulting in a 20% increase in monthly revenue within the first quarter.
+-   **Operational Management:** Oversaw daily operations for a distributed field team, ensuring logistics, budgets, and resource allocation aligned with strategic objectives.
+-   **KPI Monitoring:** Developed and monitored key performance indicators (KPIs) for the sales team, conducting weekly performance reviews to ensure targets were met.
+-   **Process Improvement:** Streamlined the client onboarding process, reducing turnaround time by 30% and improving customer satisfaction scores.
+
+### Business Development Officer | Tenakata Enterprise | June 2025 - August 2025
+
+-   **Strategic Partnerships:** Identified and negotiated partnerships with local SME associations to drive bulk user acquisition for the platform.
+-   **Revenue Strategy:** Collaborated with leadership to implement a new tier-based pricing strategy that increased average revenue per user (ARPU).
+
+### Business Manager (Portfolio & Sales) | Ngao Credit Limited | June 2024 - June 2025
+
+-   **Revenue Performance:** Managed a personal lending portfolio of over KSh 50M, consistently exceeding monthly disbursement and collection targets.
+-   **Client Management:** Acted as the primary relationship manager for high-value corporate clients, ensuring retention and cross-selling of new products.
+-   **Compliance:** Ensured all business activities complied with company credit policies and regulatory requirements.
+
+### Senior Relationship Officer | My-Credit Limited | May 2022 - May 2024
+
+-   **Team Coordination:** Coordinated a unit of 5 junior officers, providing coaching and support to help them achieve their individual targets.
+-   **Reporting:** Prepared weekly management reports on portfolio health, sales trends, and market intelligence to support decision-making.
+
+## Education
+
+**Bachelor of Arts in Gender and Development**  
+Egerton University | 2015 - 2019
+*Relevant Coursework: Project Management, Organizational Behavior, Strategic Planning.*
+
+## Key Skills
+
+-   **Revenue Generation:** Track record of meeting and exceeding sales/revenue targets.
+-   **Operations Management:** Experience managing teams, logistics, and workflows.
+-   **Budgeting & Forecasting:** Ability to manage operational budgets and forecast sales trends.
+-   **Client Relations:** Strong negotiation and stakeholder management skills.
+-   **Strategy Implementation:** Converting high-level strategy into actionable field plans.
+
+## References
+
+Available upon request.
