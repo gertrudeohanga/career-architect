@@ -90,6 +90,26 @@ platform: Fuzu
 **Reasoning:**
 *   **Strategic Priority:** A merger of larger competitors creates "Economies of Scale" for them, likely allowing them to lower prices. If they lower prices, you lose **Pricing Power** and subsequently **Market Share**. This is the fundamental strategic threat to your business model. Other factors (Employee count, specific regions) are secondary to this core commercial threat.
 
+### Question 7: Bottled Water Profit Margin
+**Scenario:**
+*   **My Company:** Price = 100. Margin = 10%.
+*   **Competitor:** Price is 10% Lower. Cost is 20% Lower.
+**Question:** What is your competitors’ profit margin?
+
+**Calculation:**
+1.  **My Cost:**
+    *   Margin (10%) = (Price - Cost) / Price
+    *   0.10 = (100 - Cost) / 100  -> Cost = **90**.
+2.  **Competitor Stats:**
+    *   Price = 100 - 10% = **90**.
+    *   Cost = 90 - 20% = **72**.
+3.  **Competitor Margin:**
+    *   Profit = 90 - 72 = 18.
+    *   Margin = 18 / 90 = 0.20 = **20%**.
+
+**Selected Answer:**
+> "20%"
+
 ---
 
 ## Standard Fuzu Questions (Anticipated)
