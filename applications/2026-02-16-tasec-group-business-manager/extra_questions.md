@@ -185,6 +185,16 @@ platform: Fuzu
 **Selected Answer:**
 > "15.9%" (or approx 16%)
 
+### Question 12: Fast Food Suppliers
+**Scenario:** Fast-food chain manager. Suppliers (Farmers) have fixed the price and won't budge.
+**Question:** Which problem do you have?
+
+**Selected Answer:**
+> "High Bargaining Power of Suppliers"
+
+**Reasoning:**
+*   **Porter's Five Forces:** When suppliers can dictate terms and prices without fear of losing business (or when the buyer has no alternative sources), they possess high bargaining power. This is exactly what is described (farmers won't budge).
+
 ---
 
 ## Standard Fuzu Questions (Anticipated)
