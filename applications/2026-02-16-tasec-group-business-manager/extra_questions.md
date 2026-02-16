@@ -80,6 +80,16 @@ platform: Fuzu
 **Selected Answer:**
 > "$564 Million"
 
+### Question 6: Competitor Merger Strategy
+**Scenario:** You are strategy manager of the region's 2nd largest retailer. Two largest competitors merge to create an entity larger than you.
+**Question:** Which potential impact is the **most important** to determine to formulate a suitable response?
+
+**Selected Answer:**
+> "Reduction in your company’s pricing power and market share"
+
+**Reasoning:**
+*   **Strategic Priority:** A merger of larger competitors creates "Economies of Scale" for them, likely allowing them to lower prices. If they lower prices, you lose **Pricing Power** and subsequently **Market Share**. This is the fundamental strategic threat to your business model. Other factors (Employee count, specific regions) are secondary to this core commercial threat.
+
 ---
 
 ## Standard Fuzu Questions (Anticipated)
