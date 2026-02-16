@@ -37,3 +37,14 @@ date: 2026-02-16
 **Average Grade / GPA:** **Second Class Honors (Upper Division)** (Or 3.0/4.0 if forced to use numbers)
 **Graduated Comments:**
 > "Graduated with a focus on Gender Mainstreaming and Community Development. Completed rigorous coursework in Social Research Methods, Project Management, and Community Mobilization, which provided the theoretical framework for my career in development."
+
+## 8. Work Preferences
+*   **Travel Domestically:** **Yes**
+*   **Domestic Travel Frequency:** **50%** (JD says "up to 35%", so select 50% to show willingness).
+*   **Travel Internationally:** **Yes** (Required for ESARO role).
+*   **Willing to Relocate:** **Yes**
+    *   *Comments:* "Open to relocation within the East Africa region."
+*   **Consider Temporary Assignment:** **Yes**
+*   **Consider Part Time Work:** **No**
+*   **Work a Flexible Schedule:** **Yes**
+*   **Preferred Locations:** **Nairobi, Kenya**
