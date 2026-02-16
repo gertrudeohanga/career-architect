@@ -190,7 +190,7 @@ platform: Fuzu
 **Question:** Which problem do you have?
 
 **Selected Answer:**
-> "High Bargaining Power of Suppliers"
+> "A supplier power problem"
 
 **Reasoning:**
 *   **Porter's Five Forces:** When suppliers can dictate terms and prices without fear of losing business (or when the buyer has no alternative sources), they possess high bargaining power. This is exactly what is described (farmers won't budge).
