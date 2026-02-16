@@ -157,8 +157,33 @@ platform: Fuzu
 **Selected Answer:**
 > "January"
 
-**Reasoning:**
-*   January has the highest Sales-to-Days-Worked ratio (3,235 per day), making it the most efficient month despite not having the highest total sales.
+### Question 11: Raw Material Cost Reduction
+**Scenario:**
+*   My Price = 100. My Margin = 10% (So Cost = 90).
+*   Competitor Margin = **20%** (Calculated in Q7).
+*   Structure: Raw Materials = **70%** of Total Costs.
+*   Goal: Match Competitors' Profit Margin (20%).
+**Question:** What percentage would raw materials cost have to be decreased by?
+
+**Calculation:**
+1.  **Current Cost Breakdown:**
+    *   Total Cost = 90.
+    *   Raw Materials = 0.70 * 90 = **63**.
+    *   Other Costs = 27.
+2.  **Target Cost Profile:**
+    *   Price = 100 (Assumed constant unless price drop is specified).
+    *   Target Margin = 20%.
+    *   Target Profit = 20.
+    *   Target Total Cost = 100 - 20 = **80**.
+3.  **Required Reduction:**
+    *   Reduction Needed = Current Cost (90) - Target Cost (80) = **10**.
+    *   This reduction must come from Raw Materials.
+4.  **Percentage Decrease:**
+    *   Raw Mat Decrease = 10 / 63
+    *   = 0.1587... ≈ **15.9%**.
+
+**Selected Answer:**
+> "15.9%" (or approx 16%)
 
 ---
 
