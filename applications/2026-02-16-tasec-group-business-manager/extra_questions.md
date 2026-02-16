@@ -33,6 +33,20 @@ platform: Fuzu
     *   Improving execution -> Increases donations.
     *   *Reducing Cost* -> Affects the "efficiency ratio" but **does not** address the specific goal of "increasing the number of contributions". Therefore, it is the least relevant to the defined scope.
 
+### Question 3: Institutional Campaign Calculation
+**Scenario:** "For the People (FTP)" non-profit. The table (implied) shows Donations and Costs.
+**Data (Duced):** Institutional Campaigns: Donations = $153M, Cost = $9M. Efficiency Ratio = 17.
+**Question:** The cost of institutional campaigns is expected to **double** this year. In order to maintain the institutional campaigns effectiveness at the same level as last year, What amount do they need to receive as donations?
+
+**Selected Answer:**
+> "$306 Million"
+
+**Reasoning:**
+*   **Logic:** Effectiveness = Donations / Cost.
+*   If Cost doubles (Cost * 2), then to keep the Ratio constant, Donations must also double (Donations * 2).
+*   **Calculation:** Previous Donation ($153M) * 2 = **$306 Million**.
+*   *(Note: This fits the option perfectly, while other options like 396/455/528 do not correspond to a clean doubling of likely inputs).*
+
 ---
 
 ## Standard Fuzu Questions (Anticipated)
