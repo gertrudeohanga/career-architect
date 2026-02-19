@@ -1,0 +1,19 @@
+---
+company: Autocom Japan Kenya
+role: Sales Representative
+date: 2026-02-19
+---
+
+Dear Hiring Manager,
+
+I am excited to apply for the Sales Representative position at Autocom Japan Kenya Ltd. With over five years of proven success in high-value asset sales and client relationship management, I have consistently exceeded monthly sales targets through systematic lead generation and relationship-building strategies. My experience selling logbook loans at Ngao Credit Limited directly parallels vehicle sales—both require trust-building with clients making major purchases, technical product knowledge, needs assessment, and long-term relationship management. I am confident I can drive revenue growth for Autocom's Japanese vehicle import business while delivering the transparent, customer-focused service your company is known for.
+
+At Ngao Credit Limited, I consistently exceeded monthly sales targets by implementing effective lead generation strategies and maintaining a robust sales pipeline. I guided over 100 clients through the complete loan application process, from prospecting to disbursement, achieving a 30% repeat business rate through hands-on support and relationship management. This experience taught me how to assess client needs, explain complex financial products, negotiate terms professionally, and build trust with customers making significant financial commitments—skills that translate directly to selling quality vehicles from Japan. Additionally, my current role at Kwendo has strengthened my ability to work independently, master new platforms quickly, and provide exceptional after-sales support that ensures customer satisfaction and generates referrals.
+
+What excites me most about Autocom Japan Kenya is your commitment to delivering reliable vehicles through transparent processes and excellent customer service. I share your belief that trust and integrity are the foundation of successful sales relationships, particularly in markets where customers are making major purchasing decisions. My background in financial inclusion and community-focused service aligns perfectly with your mission to serve both individual and corporate clients across Kenya. I am eager to learn about vehicle specifications and the import process, and I am confident my proven track record of quickly mastering new products—from microfinance to digital payroll platforms—will enable me to become a knowledgeable advocate for your inventory.
+
+I am immediately available to start and excited about the opportunity to contribute to Autocom's growth trajectory. I would welcome the chance to discuss how my sales expertise, relationship management skills, and target-driven approach can help expand your client base in Nairobi. Thank you for considering my application, and I look forward to speaking with you soon.
+
+Sincerely,
+
+Getrude Kasinga Ohanga

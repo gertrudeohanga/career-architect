@@ -471,6 +471,8 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 | Date | Company | Position | Status | Match Score | Application Type |
 |------|---------|----------|---------|-------------|------------------|
+| 2026-02-19 | Kaziweza Limited | Regional Manager - Fashion Retail | 🔄 In Progress | 60/100 | Career Architect |
+| 2026-02-19 | Autocom Japan Kenya | Sales Representative | 🔄 In Progress | 80/100 | Career Architect |
 | 2026-02-19 | Lubricants Company | Business Development Manager | 🔄 In Progress | 70/100 | Career Architect |
 | 2026-02-15 | Moja EV Kenya LTD | Business Development Executive | 🔄 In Progress | 80/100 | Career Architect |
 | 2026-02-02 | Sanara Program | Gender, Inclusion and Data Quality Audit | 🔄 In Progress | 80/100 | Career Architect |
