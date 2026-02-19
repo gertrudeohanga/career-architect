@@ -471,6 +471,9 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 | Date | Company | Position | Status | Match Score | Application Type |
 |------|---------|----------|---------|-------------|------------------|
+| 2026-02-19 | Lubricants Company | Business Development Manager | 🔄 In Progress | 70/100 | Career Architect |
+| 2026-02-15 | Moja EV Kenya LTD | Business Development Executive | 🔄 In Progress | 80/100 | Career Architect |
+| 2026-02-02 | Sanara Program | Gender, Inclusion and Data Quality Audit | 🔄 In Progress | 80/100 | Career Architect |
 | 2026-01-26 | Zeno | Head of Customer Success | 🔄 In Progress | TBD | Career Architect |
 | 2026-01-26 | Oasis Outsourcing | Home Care Recruiter | 🔄 In Progress | TBD | Career Architect |
 | 2026-01-26 | The Action Foundation | People & Culture Associate | 🔄 In Progress | 70/100 | Career Architect |

@@ -36,8 +36,17 @@
     \vspace{10pt}
 }
 
-% Alternative contact line command (same as resume template)
-\newcommand{\contactline}[7]{
+% Simplified contact line command (4 parameters) - Essential info only
+\newcommand{\contactline}[4]{
+    \begin{center}
+        \textbf{\Large #1} \\ \vspace{6pt}
+        \small #2 \ $|$ \ #3 \ $|$ \ \href{mailto:#4}{#4}
+    \end{center}
+    \vspace{10pt}
+}
+
+% Legacy 7-parameter version for backward compatibility
+\newcommand{\contactlinefull}[7]{
     \begin{center}
         \textbf{\Large #1} \\ \vspace{6pt}
         \small #2 \ $|$ \ #3 \ $|$ \ \href{mailto:#4}{#4}

@@ -25,19 +25,21 @@
 % Link styling
 \hypersetup{colorlinks=true, urlcolor=accentcolor}
 
-% Custom command for the contact line (7 parameters) - Improved readability
-% Only shows profile links (LinkedIn, GitHub, Portfolio) if they are provided
-\usepackage{ifthen}
-\newcommand{\contactline}[7]{
+% Custom command for the contact line (4 parameters) - Essential info only
+\newcommand{\contactline}[4]{
     \begin{center}
         \textbf{\Huge #1} \\ \vspace{8pt}
         \small #2 \ $|$ \ #3 \ $|$ \ \href{mailto:#4}{#4}
-        \ifthenelse{\equal{#5}{}}{}{%
-            \\ \vspace{2pt}
-            \ifthenelse{\equal{#5}{}}{}{\href{#5}{\faIcon{linkedin} LinkedIn}}%
-            \ifthenelse{\equal{#6}{}}{}{ \ $|$ \ \href{#6}{\faIcon{github} GitHub}}%
-            \ifthenelse{\equal{#7}{}}{}{ \ $|$ \ \href{#7}{\faIcon{globe} Portfolio}}%
-        }
+    \end{center}
+    \vspace{12pt}
+}
+
+% Legacy 7-parameter version for backward compatibility
+\newcommand{\contactlinefull}[7]{
+    \begin{center}
+        \textbf{\Huge #1} \\ \vspace{8pt}
+        \small #2 \ $|$ \ #3 \ $|$ \ \href{mailto:#4}{#4} \\ \vspace{2pt}
+        \href{#5}{\faIcon{linkedin} LinkedIn} \ $|$ \ \href{#6}{\faIcon{github} GitHub} \ $|$ \ \href{#7}{\faIcon{globe} Portfolio}
     \end{center}
     \vspace{12pt}
 }
