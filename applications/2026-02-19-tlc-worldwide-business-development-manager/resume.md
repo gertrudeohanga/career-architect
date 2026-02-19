@@ -5,9 +5,43 @@ date: 2026-02-19
 version: 1.0
 ---
 
+\contactline{Getrude Kasinga Ohanga}{Nairobi, Kenya}{+254 706 573 273}{ohanga.gertrude@gmail.com}{https://www.linkedin.com/in/getrude-ohanga/}{}{}
+
 ## Summary
 
-Results-driven Business Development Manager with 5+ years building sales pipelines, closing high-value deals, and driving market expansion across fintech, HR-tech, and financial services. Proven track record of exceeding targets through consultative selling, strategic relationship management, and data-driven proposal development. Expert in converting prospects to long-term partners while thriving in fast-paced, scale-up environments. Passionate about driving customer engagement and behavioral change through innovative solutions.
+Business Development Manager with 5+ years driving revenue growth through strategic B2B partnerships, pipeline development, and high-value deal closure across fintech, HR-tech, and financial services. Proven track record of exceeding sales targets by 120-130%, building long-term client relationships, and delivering data-driven proposals to C-suite stakeholders. Expert in consultative selling, market expansion, and cross-functional collaboration in fast-paced scale-up environments. Passionate about driving customer engagement and behavioral change through innovative loyalty and rewards solutions.
+
+## Modern Builder Capabilities
+
+### Precise Problem Decomposition
+
+- Decomposed complex client acquisition challenges into systematic qualification frameworks, achieving 120% target achievement
+- Broke down market expansion requirements into actionable outreach strategies across 15+ African businesses
+- Analyzed diverse market segments to develop targeted partnership approaches for payroll digitization solutions
+
+### Systems Thinking
+
+- Connected client onboarding strategies to platform adoption, improving processing efficiency by 40%
+- Designed integrated sales pipeline spanning prospecting through close with CRM-driven forecasting
+- Mapped business development initiatives to technical product capabilities, enhancing solution-market fit
+
+### Ownership of Outcomes
+
+- Owned end-to-end client lifecycle from acquisition through retention, maintaining 35% repeat business rate
+- Delivered complete sales cycles achieving 100% regulatory compliance while exceeding growth targets
+- Managed partner programs serving 200+ clients with systematic onboarding and engagement protocols
+
+### Technical Taste
+
+- Made strategic decisions optimizing client engagement workflows and proposal development
+- Selected appropriate partnership methodologies for diverse markets and stakeholder contexts
+- Designed relationship management protocols balancing automation with personalized C-suite engagement
+
+### Decision Throughput
+
+- Improved client onboarding throughput by 40% through streamlined engagement protocols
+- Reduced deal cycle time by 25% through systematic needs assessment and qualification frameworks
+- Accelerated market expansion through efficient data-driven proposal development and delivery
 
 ## Experience
 
@@ -70,13 +104,6 @@ Results-driven Business Development Manager with 5+ years building sales pipelin
 
 - Expanded financial services access in underserved rural regions, processing 500+ monthly transactions on mobile platforms (Mpesa, KCB Mtaani)
 - Coordinated community development initiatives with local NGOs and stakeholders, conducting household surveys monitoring impact
-
-## Modern Builder Capabilities
-
-- **Systems Thinking**: Locked client onboarding strategies improving payroll processing efficiency and fraud prevention; established group formation protocols systematizing 200+ client recruitments
-- **Ownership of Outcomes**: Consistently exceeded sales targets (120-130% achievement); achieved 100% regulatory compliance while driving aggressive growth
-- **Consultative Problem-Solving**: Implemented comprehensive needs assessment frameworks converting prospects through tailored solutions; assessed business viability determining appropriate engagement strategies
-- **Cross-Functional Collaboration**: Aligned business development with technical teams on product-market fit; coordinated internal teams to expedite client processes and resolve blockers
 
 ## Education
 

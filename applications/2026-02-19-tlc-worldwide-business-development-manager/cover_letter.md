@@ -4,6 +4,8 @@ role: Business Development Manager
 date: 2026-02-19
 ---
 
+\letterheader{Getrude Kasinga Ohanga}{Nairobi, Kenya}{+254 706 573 273}{ohanga.gertrude@gmail.com}{https://www.linkedin.com/in/getrude-ohanga/}{}{}
+
 Dear Hiring Team,
 
 When I learned that TLC Worldwide is expanding its Nairobi hub to bring experience-led rewards to African markets, I immediately recognized the parallel with my work at Kwendo—where we're proving that the right engagement strategy can transform how businesses connect with their customers. Your 30-year track record of helping global brands shift customer behavior through emotionally engaging rewards, rather than costly discounting, aligns precisely with my approach to business development: building relationships that drive measurable ROI and genuine brand loyalty.
