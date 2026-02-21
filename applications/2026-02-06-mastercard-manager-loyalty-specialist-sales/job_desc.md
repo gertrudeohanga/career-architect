@@ -6,6 +6,9 @@ job_type: Full-time / Permanent
 posted_date: 2026-02-06 (approx)
 source: Mastercard Careers / LinkedIn
 apply_method: online
+status: rejected
+rejection_date: 2026-02-21
+rejection_reason: "Moving forward with other candidates whose expertise and experience more closely align with needs"
 ---
 
 # Manager, Loyalty Specialist Sales – Services Business Development

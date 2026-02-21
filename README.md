@@ -471,9 +471,12 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 | Date | Company | Position | Status | Match Score | Application Type |
 |------|---------|----------|---------|-------------|------------------|
+| 2026-02-20 | SGS Brightsight | Business Development Executive | 🔄 In Progress | 70/100 | Career Architect |
+| 2026-02-19 | InEvent | Business Development Representative | 🔄 In Progress | 80/100 | Career Architect |
 | 2026-02-19 | Decathlon | Business Developer Wholesale | 🔄 In Progress | 70/100 | Career Architect |
 | 2026-02-19 | Boresha Credit Services | Assistant Head of Operations | 🔄 In Progress | 50/100 | Career Architect |
 | 2026-02-19 | Primano Global Limited | Business Development Officer | 🔄 In Progress | 70/100 | Career Architect |
+| 2026-02-19 | TLC Worldwide | Business Development Manager | 🔄 In Progress | 75/100 | Career Architect |
 | 2026-02-19 | Kaziweza Limited | Regional Manager - Fashion Retail | 🔄 In Progress | 60/100 | Career Architect |
 | 2026-02-19 | Autocom Japan Kenya | Sales Representative | 🔄 In Progress | 80/100 | Career Architect |
 | 2026-02-19 | Lubricants Company | Business Development Manager | 🔄 In Progress | 70/100 | Career Architect |
@@ -502,6 +505,18 @@ Each application includes:
 - ✅ **Cover Letter** - Professional application correspondence
 - ✅ **Interview Preparation** - Comprehensive interview guide
 - ✅ **Email Templates** - Application submission formats (where applicable)
+
+### Rejected Applications
+
+| Date | Company | Position | Rejection Date | Reason |
+|------|---------|----------|----------------|--------|
+| 2026-02-06 | Mastercard | Manager, Loyalty Specialist Sales | 2026-02-21 | Moving forward with other candidates |
+
+### Interview Stage
+
+| Date | Company | Position | Status | Next Step |
+|------|---------|----------|--------|-----------|
+| 2026-02-16 | Kenyan Alliance Insurance | Business Development Manager - Kericho | 📞 Interview Scheduled | Virtual interview next week |
 
 ### Application Status Legend
 - 🔄 **In Progress** - Materials generated, ready for submission
