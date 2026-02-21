@@ -471,6 +471,8 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 | Date | Company | Position | Status | Match Score | Application Type |
 |------|---------|----------|---------|-------------|------------------|
+| 2026-02-21 | Kaziweza Limited | Branch Team Leader - Eldoret | 🔄 In Progress | 50/100 | Career Architect |
+| 2026-02-21 | SimplePay Capital Limited | Business Development Officer | 🔄 In Progress | 40/100 | Career Architect |
 | 2026-02-20 | SGS Brightsight | Business Development Executive | 🔄 In Progress | 70/100 | Career Architect |
 | 2026-02-19 | InEvent | Business Development Representative | 🔄 In Progress | 80/100 | Career Architect |
 | 2026-02-19 | Decathlon | Business Developer Wholesale | 🔄 In Progress | 70/100 | Career Architect |
