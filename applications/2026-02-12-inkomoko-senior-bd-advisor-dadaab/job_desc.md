@@ -6,6 +6,9 @@ job_type: Full time
 deadline: Feb 15, 2026
 source: Inkomoko Careers
 about: Supports refugee entrepreneurs to grow businesses.
+status: rejected
+rejection_date: 2026-02-18
+rejection_reason: "Experiences not closely aligned with the needs of the role"
 ---
 
 # Senior Business Development Advisor

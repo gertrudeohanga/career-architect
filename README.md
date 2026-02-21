@@ -510,6 +510,7 @@ Each application includes:
 
 | Date | Company | Position | Rejection Date | Reason |
 |------|---------|----------|----------------|--------|
+| 2026-02-12 | Inkomoko | Senior Business Development Advisor - Dadaab | 2026-02-18 | Experiences not closely aligned with role needs |
 | 2026-02-06 | Mastercard | Manager, Loyalty Specialist Sales | 2026-02-21 | Moving forward with other candidates |
 
 ### Interview Stage
