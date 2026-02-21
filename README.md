@@ -471,6 +471,9 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 | Date | Company | Position | Status | Match Score | Application Type |
 |------|---------|----------|---------|-------------|------------------|
+| 2026-02-19 | Decathlon | Business Developer Wholesale | 🔄 In Progress | 70/100 | Career Architect |
+| 2026-02-19 | Boresha Credit Services | Assistant Head of Operations | 🔄 In Progress | 50/100 | Career Architect |
+| 2026-02-19 | Primano Global Limited | Business Development Officer | 🔄 In Progress | 70/100 | Career Architect |
 | 2026-02-19 | Kaziweza Limited | Regional Manager - Fashion Retail | 🔄 In Progress | 60/100 | Career Architect |
 | 2026-02-19 | Autocom Japan Kenya | Sales Representative | 🔄 In Progress | 80/100 | Career Architect |
 | 2026-02-19 | Lubricants Company | Business Development Manager | 🔄 In Progress | 70/100 | Career Architect |

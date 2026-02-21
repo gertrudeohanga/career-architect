@@ -1,0 +1,156 @@
+---
+company: Boresha Credit Services Limited
+role: Assistant - Head of Operations
+date: 2026-02-19
+version: 1.0
+---
+
+\contactline{Getrude Kasinga Ohanga}{Nairobi, Kenya}{+254 706 573 273}{ohanga.gertrude@gmail.com}
+
+---
+
+## Summary
+
+Operations-focused professional with 6+ years of progressive experience in financial services operations, team performance management, and KPI-driven execution. Proven track record implementing operational strategies, monitoring team productivity, and ensuring compliance with organizational standards. Expert in compiling operational reports, tracking performance metrics, and coordinating cross-functional teams to achieve targets. Strong background in financial services including loan processing, payment tracking, reconciliation, and customer account management. Skilled in coaching team members, enforcing policies and procedures, and maintaining accurate documentation. Proficient in customer information systems, CRM platforms, and MS Office. Based in Nairobi with bachelor's degree and immediate availability.
+
+## Modern Builder Capabilities
+
+**Operational Strategy Implementation & KPI Management**
+- Implemented operational strategies at Kwendo improving client onboarding efficiency by 30% and platform adoption by 45%
+- Achieved 100% compliance with operational policies and regulatory reporting requirements at Tenakata Enterprise
+- Tracked multiple KPIs including conversion rates, retention metrics, and revenue performance across all roles
+- Monitored team performance against company standards, implementing corrective actions when gaps emerged
+
+**Team Performance Monitoring & Leadership**
+- Trained staff on operational standards and procedures at My-Credit Limited, improving team capability scores by 40%
+- Coached 15+ team members at Schmsoft Ventures on customer service excellence and performance standards
+- Conducted regular performance reviews and one-on-one follow-ups ensuring adherence to quality standards
+- Enforced company policies, procedures, and code of conduct across team operations
+
+**Reporting, Documentation & Compliance**
+- Compiled and submitted operational, performance, and client reports within stipulated timelines across multiple roles
+- Maintained accurate attendance, leave records, and staffing coordination documentation
+- Ensured 100% compliance with regulatory reporting requirements and documentation standards at Tenakata
+- Tracked performance metrics and outstanding balances, escalating gaps and risks to management
+
+**Financial Services Operations & Payment Management**
+- Processed loan applications and managed payment tracking for 200+ clients at Ngao Credit Limited
+- Followed up on missing payments and supported reconciliation processes ensuring accurate financial records
+- Coordinated invoicing processes and ensured timely sharing of payment confirmations with clients
+- Managed portfolio of 150+ accounts at My-Credit Limited, monitoring repayment schedules and addressing payment issues
+
+**Customer Information Systems & Data Management**
+- Maintained accurate CRM records for 300+ client interactions supporting data-driven decision-making
+- Proficient in customer information systems, loan processing platforms, and documentation management systems
+- Ensured data accuracy and supported system updates across multiple operational platforms
+- Demonstrated keen eye for detail identifying discrepancies and maintaining information integrity
+
+**Problem-Solving & Analytical Skills**
+- Assessed business viability and financial capacity for 150+ SMEs at My-Credit Limited using rigorous analytical frameworks
+- Identified operational process improvements at Kwendo reducing implementation time by 30%
+- Analyzed performance data to inform strategic decisions and corrective action plans
+- Solved complex operational challenges through systematic problem decomposition and root cause analysis
+
+## Experience
+
+### Kwendo | Business Development Manager | August 2025 - Present
+
+**Business Context**: Digital payroll platform requiring operational coordination, performance monitoring, and team management.
+
+- Implemented operational strategies and client onboarding protocols improving efficiency by 30% and platform adoption by 45%
+- Monitored client performance metrics including adoption rates, retention, and satisfaction against company standards
+- Compiled and submitted monthly operational reports to HQ highlighting achievements, challenges, and corrective action plans
+- Coordinated with technical implementation teams ensuring smooth customer onboarding and issue resolution
+- Trained clients on platform usage and operational procedures ensuring adherence to company standards
+- Tracked outstanding issues and escalated gaps or risks to management for timely resolution
+- Maintained accurate client records and documentation supporting operational decision-making
+
+### Tenakata Enterprise | Business Development Officer | June 2025 - August 2025
+
+**Business Context**: Financial services organization requiring operational compliance, performance tracking, and reporting.
+
+- Supported implementation of operational strategies contributing to 20% portfolio expansion within 2 months
+- Monitored client acquisition performance and tracked outstanding balances for management reporting
+- Achieved 100% compliance with all regulatory reporting requirements and operational policies
+- Compiled performance reports within stipulated timelines highlighting gaps and recommending corrective actions
+- Coordinated with internal teams ensuring adherence to company procedures and documentation standards
+
+### Ngao Credit Limited | Sales Agent | June 2024 - June 2025
+
+**Business Context**: Financial services provider requiring loan processing, payment tracking, and customer account management.
+
+- Managed complete loan processing cycle for 200+ clients including application review, approval coordination, and disbursement
+- Tracked payment schedules and followed up on missing payments ensuring timely collections and reconciliation
+- Maintained accurate CRM records for 300+ client interactions supporting performance monitoring and reporting
+- Collaborated with internal teams expediting approvals by 35% and resolving payment issues within 24-hour turnaround
+- Ensured compliance with all documentation requirements and company policies throughout loan lifecycle
+- Monitored account performance and escalated delinquent accounts or payment gaps to management
+- Achieved 90% customer satisfaction rating through professional communication and issue resolution
+
+### My-Credit Limited | Sales and Marketing Specialist | May 2022 - May 2024
+
+**Business Context**: Microfinance institution requiring loan portfolio management, payment monitoring, and team coordination.
+
+- Managed portfolio of 150+ client accounts monitoring repayment schedules, payment compliance, and account status
+- Processed loan applications ensuring complete documentation and compliance with underwriting standards
+- Followed up on payment schedules ensuring 95%+ clients contributed weekly savings and loan repayments on time
+- Trained staff on operational procedures and quality standards, improving team capability by 40%
+- Compiled operational reports tracking portfolio performance, outstanding balances, and collection rates
+- Enforced adherence to company policies, procedures, and code of conduct across team operations
+- Coordinated with management on staffing, attendance tracking, and resource allocation
+
+### Schmsoft Ventures | Business Development / Relationship Officer | January 2021 - April 2022
+
+**Business Context**: Financial services company requiring customer account management, team training, and operational coordination.
+
+- Managed 80+ customer accounts ensuring service delivery quality and adherence to company standards
+- Trained 15+ staff members on customer service procedures and operational protocols, improving team scores by 40%
+- Maintained accurate customer records and documentation ensuring data integrity and confidentiality
+- Enforced company policies and procedures at team level reducing customer complaints by 50%
+- Compiled customer feedback and performance reports for management review and action
+
+### Flex Money Transfer | Cashier / Part-Time Researcher | June 2019 - December 2020
+
+**Business Context**: Financial services company requiring transaction processing, reconciliation, and operational coordination.
+
+- Processed 1000+ monthly transactions ensuring accuracy, compliance, and proper documentation
+- Coordinated with 5+ banks on operational requirements, reconciliation, and issue resolution
+- Maintained accurate transaction records and conducted daily reconciliation processes
+- Followed up with customers on service issues ensuring timely resolution and satisfaction
+
+## Education
+
+### Egerton University
+
+**Bachelor of Arts in Gender and Development** | 2015 - 2019
+
+- Focus: Research methodologies, data analysis, stakeholder engagement, program evaluation
+
+### Lung'anyiro Youth Polytechnic
+
+**Certification in Computer Packages** | 2015
+- Microsoft Word, Excel, PowerPoint
+
+## Skills
+
+**Operations Management**: Operational strategy implementation, KPI tracking, performance monitoring, process improvement, compliance management, policy enforcement
+
+**Team Leadership & Development**: Team coaching, staff training, performance reviews, one-on-one follow-ups, capability building, attendance coordination
+
+**Reporting & Documentation**: Operational reports, performance reports, client reports, compliance documentation, accurate record-keeping, timeline management
+
+**Financial Services Operations**: Loan processing, payment tracking, reconciliation, invoicing, account management, portfolio monitoring, outstanding balance tracking
+
+**Customer Information Systems**: CRM platforms, loan processing systems, documentation management systems, customer support systems, data accuracy maintenance
+
+**Analytical & Problem-Solving**: Performance analysis, gap identification, root cause analysis, corrective action planning, discrepancy identification, risk escalation
+
+**Communication & Interpersonal**: Strong written and verbal communication, stakeholder coordination, conflict resolution, professional correspondence, team collaboration
+
+**Technical Tools**: MS Office Suite (Excel, Word, PowerPoint - Advanced), CRM systems, customer information systems, reporting dashboards
+
+**Compliance & Confidentiality**: Regulatory compliance, policy adherence, confidential information handling, documentation standards, audit readiness
+
+**Languages**: English (Professional - Fluent), Swahili (Native)
+
+**Additional**: Based in Nairobi, ability to work within tight timelines, team player, keen eye for detail, high level of discretion

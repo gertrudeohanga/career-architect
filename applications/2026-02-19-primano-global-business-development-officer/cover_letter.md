@@ -1,0 +1,21 @@
+---
+company: Primano Global Limited
+role: Business Development Officer
+date: 2026-02-19
+---
+
+Dear Hiring Manager,
+
+I am excited to apply for the Business Development Officer position at Primano Global Limited. With over six years of proven success in B2B software/SaaS sales, field sales across Kenya, and consultative selling, I bring a track record of consistently exceeding sales targets by 25%+ through systematic lead generation and complete sales cycle management. At Kwendo, I sold a digital payroll platform to 15+ African businesses—conducting tailored product demonstrations, explaining technical features and integrations, training clients on platform usage, and coordinating with implementation teams to ensure smooth customer onboarding. This experience directly translates to selling POS, Inventory Management, and Online store solutions, where the sales methodology is identical: understand business operational challenges, demonstrate how the software solves pain points, and ensure successful implementation. I am based in Nairobi with extensive field sales experience across 8+ Kenyan counties, proficient in CRM tools and MS Office, and immediately available to drive revenue growth for Primano RetailX.
+
+My software/SaaS sales experience at Kwendo mirrors the core requirements of this role. I managed the complete sales cycle from lead generation to deal closure, conducting product demonstrations tailored to each business's specific needs, explaining technical features and integrations in accessible language, and training clients on platform usage to optimize adoption. I achieved an 85% client retention rate by working closely with implementation teams to ensure smooth onboarding, identifying upsell and cross-sell opportunities within existing accounts, and maintaining proactive communication with key decision-makers. Additionally, my field sales experience across 8+ Kenyan counties at My-Credit Limited—where I drove 30% year-over-year growth by prospecting and onboarding 200+ SME clients including retail stores, restaurants, and service businesses—demonstrates my ability to succeed in field-based B2B sales with travel requirements. I understand retail and hospitality business workflows from assessing 150+ SMEs, identifying their operational challenges around inventory management, cash flow tracking, and operational efficiency—the exact pain points that POS and Inventory Management software addresses.
+
+What excites me most about Primano Global Limited is the opportunity to contribute to a fast-growing fintech/retail-tech company that's digitizing operations for retail and hospitality businesses across Kenya. I am passionate about technology solutions that improve business efficiency, and I bring strong market intelligence capabilities—at Kwendo, I conducted market research across 5 target segments, gathered competitive intelligence on pricing and features, and provided strategic insights to HQ that informed product development and identified $500K+ in new opportunities. I have also supported marketing initiatives by developing sales collateral, participating in partner events, and contributing to lead generation campaigns. My consultative selling approach, combined with my ability to build and maintain strong relationships with key decision-makers, positions me to not only meet but exceed monthly and quarterly sales targets while ensuring high customer satisfaction and long-term retention.
+
+I am immediately available and excited about the opportunity to join Primano RetailX. I am confident that my B2B software sales experience, field sales success across Kenya, consultative selling approach, and genuine enthusiasm for the fintech/retail-tech space will enable me to drive significant revenue growth for Primano Global Limited. I would welcome the opportunity to discuss how my proven track record and transferable skills can contribute to your sales objectives.
+
+Thank you for considering my application. I look forward to speaking with you soon.
+
+Sincerely,
+
+Getrude Kasinga Ohanga
