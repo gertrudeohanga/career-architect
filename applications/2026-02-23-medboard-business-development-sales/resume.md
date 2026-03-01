@@ -9,7 +9,7 @@ contact:
 document_title: "Resume - MedBoard BD Application"
 ---
 
-\contactline
+\contactline{Getrude Kasinga Ohanga}{Nairobi, Kenya}{+254 706 573 273}{ohanga.gertrude@gmail.com}
 
 ## Professional Summary
 
@@ -106,7 +106,7 @@ Microsoft Word, Excel, PowerPoint
 
 ## Logistics
 
-- **Salary Expectation**: KES 40,000 – 150,000 (flexible, negotiable)
+- **Salary Expectation**: KES 93,000 – 150,000 (flexible, negotiable)
 - **Work Authorization**: Kenyan citizen – open to remote international roles
-- **Availability**: Immediately available
+- **Availability**: 3 weeks
 - **Remote Readiness**: Proven self-discipline and independent work capabilities

@@ -9,7 +9,6 @@
   "portfolio": "",
   "date_of_birth": "15/11/1993",
   "gender": "Female",
-
   "preferences": {
     "language": "en",
     "resume_style": "modern_builder",
@@ -18,14 +17,12 @@
     "date_format": "YYYY-MM",
     "notes": "Set resume_style to: modern_builder, traditional, academic, or creative"
   },
-
   "narrative_hooks": {
     "why_this_industry": "Passionate about gender development and financial inclusion",
     "why_this_location": "Based in Kenya with experience across East Africa",
     "career_mission": "Drive inclusive financial solutions and gender empowerment",
     "unique_value": "Strong research, relationship management, and market development expertise"
   },
-
   "logistics": {
     "salary_current": "88000",
     "salary_expectation": "90000-200000",
@@ -36,6 +33,9 @@
     "relocation": "Open to relocation within East Africa",
     "remote_preference": "Flexible - Open to hybrid/remote roles",
     "availability": "Immediately available",
-    "spoken_languages": ["English", "Swahili"]
+    "spoken_languages": [
+      "English",
+      "Swahili"
+    ]
   }
 }

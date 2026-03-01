@@ -5,7 +5,7 @@ sender: Getrude Kasinga Ohanga
 date: 2026-02-23
 ---
 
-\letterheader
+\letterheader{Getrude Kasinga Ohanga}{Nairobi, Kenya}{+254 706 573 273}{ohanga.gertrude@gmail.com}{linkedin.com/in/getrude-ohanga}{}{}
 
 Dear MedBoard Hiring Team,
 
