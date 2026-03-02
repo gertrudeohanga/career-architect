@@ -1,28 +1,21 @@
----
-company: JTL
-role: Direct Sales Agent
-date: 2026-02-16
----
+# JTL Application Email Reply
 
-# Application Submission Guide
+**Subject:** Action Required: Direct Sales Agent Job at JTL - Getrude Kasinga Ohanga
 
-## Appication Method
--   **Method:** Online (Careers Portal).
--   **Deadline:** Feb 25, 2026.
+Dear Dorine,
 
-## Critical Checklist
+Thank you for considering me for the Direct Sales Agent role at Jamii Telecommunications Limited (JTL).
 
-### 1. Resume
--   We have simplified your resume. It focuses on **"Sales Agent"** and **"Field Work"**.
--   This prevents them from thinking you are "too senior" or "too expensive".
+As requested, please find attached the following documents:
+1.  **Filled Pre-screening Form** (PDF)
+2.  **Self-Perception Personality Test Results** (Screenshot)
 
-### 2. Form Questions
--   **Expected Salary:** Since it's a contract/commission role, ask for **Retention + Commission** (e.g., 25k-30k Retainer). Don't ask for 100k base here; you make your money on the sales.
--   *Strategy:* If forced to give a single number, put **Negotiable**.
+I am very excited about the opportunity to join the JTL team and look forward to the next steps.
 
-## Messaging
--   **Headline:** Direct Sales Agent | Territory Management & Closing Expert
--   **Why You:** "I am a plug-and-play sales agent. No training needed. Just give me the brochures."
+Please let me know if there is anything else you require.
 
----
-*Prepared using Career Architect pipeline • 2026-02-16*
+Best regards,
+
+Getrude Kasinga Ohanga
++254 706 573 273
+ohanga.gertrude@gmail.com

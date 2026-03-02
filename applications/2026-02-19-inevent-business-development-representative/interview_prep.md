@@ -6,6 +6,13 @@ date: 2026-02-19
 
 # Interview Preparation Guide
 
+> [!IMPORTANT]
+> **Interview Schedule: Today, Monday 2 Mar 2026 @ 6:00pm – 6:30pm EAT**
+> - **Meeting Link**: [meet.google.com/qbu-znov-jrg](https://meet.google.com/qbu-znov-jrg)
+> - **Phone**: +27 10 823 0938
+> - **PIN**: 305 355 203
+> - **Interviewer**: InEvent (Gertrude Ohanga)
+
 ## Company Research
 
 ### About InEvent
