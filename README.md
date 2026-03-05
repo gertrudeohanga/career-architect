@@ -471,6 +471,8 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 | Date | Company | Position | Status | Match Score | Application Type |
 |------|---------|----------|---------|-------------|------------------|
+| 2026-03-03 | Bank (Bancassurance) | Bancassurance Sales Representative | ⚠️ Critical Gap | 60/100 | Career Architect |
+| 2026-03-03 | Studio Twenty Two Agencies (ABELA) LIMITED | Business Development Manager | 🔄 In Progress | 90/100 | Career Architect |
 | 2026-02-21 | Kaziweza Limited | Branch Team Leader - Eldoret | 🔄 In Progress | 50/100 | Career Architect |
 | 2026-02-21 | SimplePay Capital Limited | Business Development Officer | 🔄 In Progress | 40/100 | Career Architect |
 | 2026-02-20 | SGS Brightsight | Business Development Executive | 🔄 In Progress | 70/100 | Career Architect |

@@ -43,31 +43,31 @@ check:
 	@echo "🔍 Checking required tools..."
 	@command -v python3 >/dev/null 2>&1 || { echo "❌ Python 3 not found"; exit 1; }
 	@command -v pandoc >/dev/null 2>&1 || { echo "❌ Pandoc not found. Install: https://pandoc.org/installing.html"; exit 1; }
-	@command -v pdflatex >/dev/null 2>&1 || { echo "❌ pdflatex not found. Install LaTeX distribution."; exit 1; }
+	@/Library/TeX/texbin/pdflatex --version >/dev/null 2>&1 || { echo "❌ pdflatex not found. Install LaTeX distribution."; exit 1; }
 	@echo "✅ All required tools are installed"
 	@echo ""
 	@echo "Tool versions:"
 	@python3 --version
 	@pandoc --version | head -1
-	@pdflatex --version | head -1
+	@/Library/TeX/texbin/pdflatex --version | head -1
 
 # Building
 build:
 ifdef APP
 	@echo "🔨 Building application: $(APP)"
-	python scripts/compile_all.py --application "$(APP)"
+	PATH="/Library/TeX/texbin:$$PATH" python scripts/compile_all.py --application "$(APP)"
 else
 	@echo "🔨 Building most recent application..."
-	python scripts/compile_all.py
+	PATH="/Library/TeX/texbin:$$PATH" python scripts/compile_all.py
 endif
 
 build-all:
 	@echo "🔨 Building all applications..."
-	python scripts/compile_all.py --all
+	PATH="/Library/TeX/texbin:$$PATH" python scripts/compile_all.py --all
 
 build-latest:
 	@echo "🔨 Building most recent application..."
-	python scripts/compile_all.py
+	PATH="/Library/TeX/texbin:$$PATH" python scripts/compile_all.py
 
 # Analysis
 ats:

@@ -30,6 +30,10 @@ pip-log.txt
 .DS_Store
 Thumbs.db
 
+# Node
+node_modules/
+package-lock.json
+
 # Keep applications structure but ignore generated files
 # Uncomment below if you want to track application markdown but not outputs
 # applications/**/*.pdf

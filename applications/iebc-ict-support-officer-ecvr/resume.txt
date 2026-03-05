@@ -1,0 +1,277 @@
+Professional Summary
+
+Results-driven ICT professional with 5+ years of hands-on experience in
+technical support, system configuration, and troubleshooting. Proven
+expertise in hardware and software support, network administration, data
+security, and user training. Strong track record of maintaining ICT
+equipment, providing first-level technical support under pressure, and
+ensuring data integrity and confidentiality. Kenyan citizen and
+registered voter with demonstrated integrity, reliability, and
+commitment to public service. Ready to support IEBC’s Enhanced
+Continuous Voter Registration program through technical excellence and
+dedication to electoral integrity.
+
+Core Competencies
+
+Technical Support & Troubleshooting
+
+Hardware configuration, setup, and maintenance | Software installation
+and troubleshooting | Network connectivity diagnostics | First-level
+technical support under pressure | System diagnostics and problem
+resolution | Equipment custody and accountability
+
+Data Security & Management
+
+Secure data transmission and synchronization | Backup procedures and
+data recovery | Data security protocols and confidentiality | System
+integrity maintenance | Access control and authentication | Audit
+logging and compliance
+
+Training & User Support
+
+User training and technical guidance | Documentation and knowledge
+transfer | Technical support for non-technical users | Clear
+communication of technical concepts | Patient and supportive approach |
+Training material development
+
+Documentation & Reporting
+
+ICT logs and incident reports | Equipment handover records | Technical
+documentation | Standard Operating Procedures | Maintenance records |
+Compliance reporting
+
+Professional Experience
+
+Code Particles
+
+Software Developer | Feb 2022 – Present | Nairobi, Kenya
+
+Technical Support & System Configuration:
+
+- Configured and deployed ICT systems for 6+ production applications
+  serving 5,000+ users across multiple sectors
+- Provided first-level technical support for hardware, software, and
+  connectivity issues
+- Troubleshot and resolved complex technical issues under pressure,
+  improving system reliability by 40%
+- Set up and maintained Docker-based development environments ensuring
+  system parity across multiple environments
+- Managed cloud infrastructure (AWS EC2, S3) with proper security and
+  access controls
+
+Data Security & Backup:
+
+- Implemented secure data transmission protocols with JWT authentication
+  and role-based access control
+- Designed and executed backup procedures for critical systems and
+  databases
+- Ensured data integrity through automated validation checks, reducing
+  data inconsistencies by 40%
+- Maintained comprehensive audit logs for compliance and security
+  tracking
+- Implemented encryption and secure data handling procedures
+
+Equipment Management & Accountability:
+
+- Managed ICT equipment inventory and accountability for development and
+  production systems
+- Ensured proper custody and maintenance of hardware and software assets
+- Conducted regular equipment audits and maintenance checks
+- Maintained equipment handover records and documentation
+- Optimized equipment utilization and lifecycle management
+
+Training & User Support:
+
+- Trained client teams on new technologies, IT policies, and secure
+  system usage
+- Provided technical guidance to non-technical users and stakeholders
+- Created comprehensive end-user guides and technical documentation
+- Conducted training sessions for internal teams on system features and
+  workflows
+- Supported users through system transitions and upgrades
+
+Documentation & Reporting:
+
+- Maintained detailed ICT logs, incident reports, and system
+  documentation
+- Created Standard Operating Procedures for technical processes
+- Produced technical specifications and handover materials
+- Documented troubleshooting procedures and solutions
+- Generated regular status reports for management
+
+Key Achievements:
+
+- Improved system reliability by 40% through proactive monitoring and
+  troubleshooting
+- Reduced deployment time by 50% through automated CI/CD pipelines
+- Enhanced data security by implementing comprehensive access controls
+  and encryption
+- Accelerated issue resolution through systematic troubleshooting and
+  documentation
+
+Code Particles
+
+Junior Web Developer | Jan 2020 – Jan 2022 | Nairobi, Kenya
+
+Technical Support & Troubleshooting:
+
+- Assisted in troubleshooting hardware, software, and network issues
+- Provided technical support for internal systems and applications
+- Resolved UI/UX issues and performance problems
+- Supported system maintenance and updates
+- Gained hands-on experience with database administration and debugging
+
+System Configuration & Maintenance:
+
+- Assisted in configuring development and testing environments
+- Supported deployment of applications and system updates
+- Maintained version control systems and code repositories
+- Contributed to system documentation and knowledge base
+- Participated in equipment setup and configuration
+
+Relevant Project Experience
+
+Healthcare Integration Platform - Technical Deployment
+
+- Deployed and configured hospital management system across multiple
+  facilities
+- Provided technical support for healthcare staff on system usage
+- Ensured secure data transmission and backup procedures
+- Maintained system integrity and compliance with healthcare standards
+- Trained medical staff on basic ICT operations and system features
+- Managed equipment accountability and maintenance schedules
+
+Multi-Site Application Deployment
+
+- Configured and deployed applications across 6+ production environments
+- Set up secure data synchronization and backup procedures
+- Provided first-level technical support for deployment issues
+- Maintained equipment inventory and accountability records
+- Documented deployment procedures and troubleshooting guides
+- Ensured system security and data confidentiality
+
+Education
+
+Bachelor of Science in Computer Science
+
+Zetech University | Nairobi, Kenya | 2020 – 2024
+
+- GPA: 3.8/4.0
+- Dean’s List: Six semesters
+- Relevant Coursework: Computer Networks, System Administration,
+  Database Systems, Information Security, Hardware & Software
+  Maintenance
+- Technical Projects: System deployment, network configuration,
+  technical support systems
+
+Technical Skills
+
+Hardware & Equipment: Computer hardware setup and configuration |
+Peripheral device installation | Equipment inventory management |
+Hardware diagnostics | Mobile device configuration | Biometric device
+support
+
+Software & Applications: Windows, Linux, macOS operating systems |
+Software installation and configuration | Application troubleshooting |
+Database systems (PostgreSQL, MySQL, MongoDB) | Backup and recovery
+software | Remote support tools
+
+Networking & Connectivity: TCP/IP, DNS, DHCP configuration | Network
+troubleshooting | Wi-Fi and mobile connectivity | VPN and secure
+connections | Firewall configuration | Network monitoring
+
+Data Security: Data encryption and secure transmission | Access control
+and authentication (JWT, RBAC) | Backup and disaster recovery | Security
+audits and compliance | Confidentiality protocols | Incident response
+
+Tools & Platforms: Docker containerization | CI/CD pipelines (CircleCI,
+GitHub Actions) | Cloud platforms (AWS: EC2, S3) | Version control (Git,
+GitHub) | Remote desktop and support tools | Monitoring and logging
+systems
+
+Certifications & Training
+
+- AWS Fundamentals - Amazon Web Services (Ongoing)
+- DevOps Fundamentals - DevOps Institute (2022)
+- Docker Certified Associate - Docker (2023)
+- System Monitoring - Linux Foundation (2022)
+- Angular Testing Strategies Workshop (2023)
+- Node.js Best Practices (2023)
+
+Key Qualifications for IEBC ECVR Role
+
+Technical Competence
+
+- BSc Computer Science - Exceeds minimum diploma requirement
+- 5+ years ICT experience - Extensive hands-on technical background
+- Hardware & software expertise - Proven configuration and
+  troubleshooting skills
+- Networking knowledge - TCP/IP, connectivity, and network
+  troubleshooting
+- Data security experience - Secure transmission, backup, and
+  confidentiality
+
+Support & Training
+
+- Technical support experience - First-level support under pressure
+- User training capability - Trained technical and non-technical users
+- Clear communication - Excellent interpersonal and communication skills
+- Documentation skills - Comprehensive logging and reporting experience
+
+Professional Attributes
+
+- Kenyan citizen - National ID available
+- Registered voter - Active voter registration
+- Demonstrated integrity - Professional track record of reliability
+- Confidentiality - Experience handling sensitive data
+- Neutrality - No political office or candidacy in last 5 years
+- Availability - Ready for long hours, weekends, and public holidays
+
+Field Readiness
+
+- Equipment management - Experience with custody and accountability
+- Pressure handling - Proven ability to troubleshoot under pressure
+- Adaptability - Quick learner with diverse technical experience
+- Reliability - Consistent and dependable professional
+
+Professional Attributes
+
+Integrity: Demonstrated ethical conduct and professional integrity
+throughout career
+
+Neutrality: No political affiliations or candidacy; committed to
+impartial service
+
+Confidentiality: Proven track record of handling sensitive data with
+discretion
+
+Reliability: Consistent performance and dependability in high-pressure
+situations
+
+Adaptability: Quick learner able to master new systems and equipment
+rapidly
+
+Service-Oriented: Committed to supporting users and ensuring system
+success
+
+Languages
+
+English - Professional proficiency
+Swahili - Native speaker
+
+Availability
+
+Immediate availability for training and deployment | Flexible schedule
+for long hours, weekends, and public holidays | Field deployment ready
+for ward-level assignments | Mobile and able to travel to assigned
+locations as required
+
+Declaration
+
+I declare that the information provided in this application is true and
+accurate to the best of my knowledge. I am a Kenyan citizen, a
+registered voter, and have not held political office or stood for
+election as a candidate or party agent in the last five years. I am
+prepared to undergo training, take an oath of secrecy, and serve with
+integrity, neutrality, and confidentiality in support of Kenya’s
+democratic electoral process.
