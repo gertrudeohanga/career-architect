@@ -1,0 +1,32 @@
+---
+company: CBM Global Disability Inclusion
+role: Business Development Coordinator
+date: 2026-03-24
+---
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Business Development Coordinator position at CBM Global. As a business development professional with over five years driving strategic partnerships and institutional funding pipelines across fintech, microfinance, and development sectors, combined with deep expertise in gender equality and inclusive development, I am excited about the opportunity to contribute to CBM Global's mission of fighting poverty and exclusion alongside people with disabilities.
+
+My career has been defined by a commitment to inclusive development and rights-based programming. During my two years with Maendeleo Ya Wanawake, Kenya's leading women's rights organization, I facilitated over 50 community empowerment workshops, conducted systematic research on gender-based violence, and supported 15+ grassroots women leaders in political campaigns. This experience taught me that meaningful inclusion requires authentic partnerships, power-aware approaches, and persistent advocacy - principles that align perfectly with CBM Global's work in disability inclusion.
+
+In my current role as Business Development Manager at Kwendo, I drive institutional partnership development and strategic positioning for a digital payroll platform serving Africa's casual workforce. I develop and maintain relationships with business clients and financial service partners, conduct market intelligence informing strategic decisions, and coordinate cross-functional collaboration between technical teams and operations. Previously, I managed institutional funding pipelines at Tenakata Enterprise, achieving 100% regulatory compliance while driving portfolio expansion through strategic stakeholder engagement and systematic opportunity identification.
+
+What distinguishes my candidacy is the combination of commercial business development expertise and inclusive development experience. I understand that institutional fundraising and commercial business development share the same core competencies: pipeline management, relationship building, proposal development, and strategic positioning. At Laterite Kenya Limited, I designed and executed mixed-methods research across three major refugee camps, assessing World Food Programme aid effectiveness and generating actionable insights for evidence-based programming. This experience, combined with my work coordinating with NGOs and government stakeholders during my time at Flex Money Transfer and the Ministry of Youth and Gender Affairs, has prepared me to navigate the complex donor landscape and consortium dynamics that define institutional fundraising.
+
+I am particularly drawn to CBM Global's federated structure and emphasis on authentic partnerships with the Disability Movement. My experience coordinating multi-stakeholder initiatives across government, NGOs, and private sector organizations has taught me the importance of collaborative, partnership-based approaches. At the Ministry of Youth and Gender Affairs, I coordinated three concurrent government programs - Uwezo Fund, KYEOP, and Inua Jamii - facilitating focus discussion groups, managing documentation compliance, and training community groups. This experience in complex, multi-stakeholder environments positions me well to serve as the central point of convergence between CBM Global's Country Team, Member Teams, Technical Teams, and partner organizations.
+
+My research background provides strong analytical and donor intelligence capabilities essential for this role. I have designed surveys, conducted interviews, facilitated focus groups, and analyzed data to inform strategic programming decisions. I am confident in my ability to map and monitor institutional donors, track funding cycles and policy developments, and prepare compelling donor-facing materials such as briefing notes and capability statements. My strong written communication skills, demonstrated through years of documentation, reporting, and stakeholder engagement, will serve me well in coordinating proposal development and maintaining structured repositories in Global Online.
+
+As a Nairobi-based professional with deep understanding of Kenya's development landscape, I bring valuable local context and established networks across the NGO ecosystem, government agencies, and development organizations. I am eager to represent CBM Global in donor coordination platforms and cluster meetings, leveraging my relationships and cultural sensitivity to strengthen in-country donor engagement and consortium positioning.
+
+I recognize that transitioning from commercial business development to institutional fundraising requires learning donor-specific processes and mechanisms. However, I am confident that my proven track record in pipeline development, relationship management, and strategic planning, combined with my commitment to inclusive development and learning agility, positions me to make immediate contributions while rapidly building expertise in institutional donor engagement. I am excited about the opportunity to contribute to CBM Global's institutional funding strategy development, drive proactive pipeline growth, and strengthen Country Team capacity for institutional funding.
+
+Thank you for considering my application. I would welcome the opportunity to discuss how my business development expertise, inclusive development experience, and passion for rights-based programming can contribute to CBM Global's mission of building inclusive communities where everyone can achieve their full potential.
+
+Sincerely,
+
+Getrude Kasinga Ohanga  
+ohanga.gertrude@gmail.com  
++254 706 573 273  
+Nairobi, Kenya
