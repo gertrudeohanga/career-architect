@@ -4,6 +4,8 @@ role: Business Development Coordinator
 date: 2026-03-24
 ---
 
+\contactline{Getrude Kasinga Ohanga}{Nairobi, Kenya}{+254 706 573 273}{ohanga.gertrude@gmail.com}
+
 Dear Hiring Manager,
 
 I am writing to express my strong interest in the Business Development Coordinator position at CBM Global. As a business development professional with over five years driving strategic partnerships and institutional funding pipelines across fintech, microfinance, and development sectors, combined with deep expertise in gender equality and inclusive development, I am excited about the opportunity to contribute to CBM Global's mission of fighting poverty and exclusion alongside people with disabilities.
@@ -25,8 +27,3 @@ I recognize that transitioning from commercial business development to instituti
 Thank you for considering my application. I would welcome the opportunity to discuss how my business development expertise, inclusive development experience, and passion for rights-based programming can contribute to CBM Global's mission of building inclusive communities where everyone can achieve their full potential.
 
 Sincerely,
-
-Getrude Kasinga Ohanga  
-ohanga.gertrude@gmail.com  
-+254 706 573 273  
-Nairobi, Kenya

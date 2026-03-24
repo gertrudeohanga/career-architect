@@ -111,9 +111,7 @@ The resume will be converted to PDF using LaTeX templates. You MUST follow these
 
 ### Header Format
 
-**DO NOT** create your own header with name, contact info, or styled text.
-
-**INSTEAD**, the PDF generator will inject a `\contactline` macro from `identity.json`.
+**CRITICAL**: You MUST add the `\contactline` LaTeX command after the frontmatter to inject contact info from `identity.json`.
 
 Your markdown should start with:
 
@@ -125,10 +123,32 @@ date: [YYYY-MM-DD]
 version: 1.0
 ---
 
+\contactline{Full Name}{Location}{Phone}{Email}
+
 ## Summary
 
 [Your summary here...]
 ```
+
+**Example**:
+```markdown
+---
+company: Acme Corp
+role: Senior Engineer
+date: 2025-01-10
+---
+
+\contactline{John Doe}{San Francisco, CA}{+1 555 123 4567}{john.doe@email.com}
+
+## Summary
+
+Results-driven engineer with 8+ years...
+```
+
+**Important**: 
+- Pull contact info from `identity.json` (full_name, location, phone, email)
+- The `\contactline` command uses 4 parameters in this exact order
+- Do NOT add any other contact information in the markdown body
 
 ### Section Headers
 

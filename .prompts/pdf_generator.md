@@ -12,17 +12,34 @@ The LaTeX templates (`templates/style.tex`, etc.) define the visual styling. The
 
 ### Header Handling
 
-**The template automatically generates the header.** The `\contactline` macro is injected from `identity.json`:
+**CRITICAL**: The markdown MUST include the `\contactline` LaTeX command after the frontmatter to inject contact info.
 
-```latex
-\contactline{NAME}{LOCATION}{PHONE}{EMAIL}{LINKEDIN}{GITHUB}{PORTFOLIO}
+**Required Format**:
+```markdown
+---
+company: [Company]
+role: [Role]
+date: [YYYY-MM-DD]
+---
+
+\contactline{Full Name}{Location}{Phone}{Email}
+
+## Summary
+[content...]
 ```
 
-**Therefore, the markdown MUST NOT contain:**
+**The `\contactline` macro takes 4 parameters from `identity.json`:**
+1. full_name
+2. location
+3. phone
+4. email
 
-- ❌ `# Name` (H1 header with person's name)
-- ❌ Contact information (email, phone, location, links)
-- ❌ Any header-like content before `## Summary`
+**Therefore, the markdown MUST:**
+- ✅ Include `\contactline{...}` command after frontmatter
+- ✅ Pull values from `identity.json`
+- ❌ NOT contain `# Name` (H1 header with person's name)
+- ❌ NOT duplicate contact information elsewhere in the document
+- ❌ NOT have any other header-like content before `## Summary`
 
 ### Required Structure
 

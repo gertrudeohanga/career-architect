@@ -85,12 +85,26 @@ Read `identity.json -> preferences` to determine:
 
 **Action**: After generating the cover letter, write it to the file. Do not just display — save to disk.
 
-**Format**: Include YAML frontmatter:
+**Format**: Include YAML frontmatter AND `\contactline` command:
 
-```yaml
+```markdown
 ---
 company: [Company Name]
 role: [Role Title]
 date: [YYYY-MM-DD]
 ---
+
+\contactline{Full Name}{Location}{Phone}{Email}
+
+Dear Hiring Manager,
+
+[Cover letter content...]
+
+Sincerely,
 ```
+
+**Important**: 
+- Pull contact info from `identity.json` (full_name, location, phone, email)
+- Add `\contactline` command immediately after frontmatter
+- Do NOT add contact info at the end of the letter (no signature block with email/phone)
+- The LaTeX template will format the header professionally

@@ -161,6 +161,8 @@ role: [Role]
 date: [YYYY-MM-DD]
 ---
 
+\contactline{Full Name}{Location}{Phone}{Email}
+
 ## Summary
 
 [content]
@@ -176,13 +178,25 @@ date: [YYYY-MM-DD]
 ## Education
 
 ## Skills
-````
-````
+```
 
 ### Critical Rules
 
-- **NO H1 headers** (`#`) - The LaTeX template handles the name/header
-- **NO contact info** in markdown - Template injects from `identity.json`
+- **MUST include `\contactline` command** after frontmatter with values from `identity.json`
+- **NO H1 headers** (`#`) - The LaTeX template handles the styling
+- **NO duplicate contact info** in markdown body - Only in `\contactline` command
 - **Use H2** (`##`) for sections, **H3** (`###`) for subsections
 - **Blank line before lists** - Required for proper rendering
 - **Numbered lists on separate lines** - Each `1.` `2.` `3.` on its own line
+
+### Contact Line Format
+
+Pull from `identity.json`:
+```
+\contactline{[full_name]}{[location]}{[phone]}{[email]}
+```
+
+Example:
+```
+\contactline{Jane Smith}{London, UK}{+44 20 1234 5678}{jane.smith@email.com}
+```

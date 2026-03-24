@@ -4,6 +4,8 @@ role: Business Development Coordinator
 date: 2026-03-24
 ---
 
+\contactline{Getrude Kasinga Ohanga}{Nairobi, Kenya}{+254 706 573 273}{ohanga.gertrude@gmail.com}
+
 ## Summary
 
 Business development professional with 5+ years driving strategic partnerships, institutional funding pipelines, and inclusive development initiatives across fintech, microfinance, and NGO sectors in Kenya. Proven track record in donor relationship management, proposal coordination, and multi-stakeholder engagement. Deep expertise in gender equality and rights-based programming, with strong research and analytical capabilities. Skilled at translating complex stakeholder needs into fundable, scalable interventions while building sustainable partnerships across government, NGOs, and development organizations.
