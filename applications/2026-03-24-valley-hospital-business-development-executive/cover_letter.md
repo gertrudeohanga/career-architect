@@ -1,0 +1,23 @@
+---
+company: Valley Hospital
+role: Business Development Executive
+date: 2026-03-24
+---
+
+\contactline{Getrude Kasinga Ohanga}{Nairobi, Kenya}{+254 706 573 273}{ohanga.gertrude@gmail.com}
+
+Dear Hiring Manager,
+
+I am excited to apply for the Business Development Executive position at Valley Hospital. With 5+ years driving business growth through strategic partnerships, community engagement, and stakeholder relationship management, I bring proven business development excellence combined with authentic passion for expanding access to essential services for underserved communities. My track record of consistently exceeding sales targets by 15-20%, facilitating 50+ community outreach programs reaching 2,000+ participants, and building relationships with diverse stakeholders positions me to strengthen Valley Hospital's presence and grow patient referrals across neighbouring counties.
+
+While my recent experience has been in financial services, my career foundation was built in community health and development work. At Maendeleo Ya Wanawake, I facilitated weekly workshops on HIV/AIDS sensitization, reproductive health, and family planning services across urban and rural communities, reaching 2,000+ women and girls. I trained 500+ youth on health implications and prevention strategies, coordinated with NGOs and government agencies on community health initiatives, and conducted household surveys assessing community health needs. This experience taught me how to build trust with communities, coordinate multi-stakeholder health programs, and communicate health information effectively—skills directly transferable to organizing medical camps, CME sessions, and community engagement for Valley Hospital. My transition to business development strengthened my sales execution, market analysis, and relationship management capabilities, but my passion for improving community access to essential services—whether financial or healthcare—has remained constant.
+
+At Kwendo, I built relationships with C-level decision-makers across multiple sectors and traveled extensively across Kenya identifying business opportunities and building regional presence. At My-Credit, I conducted market research across 5 counties, facilitated registration of 50+ community groups, and achieved 120% of annual growth targets through systematic outreach and stakeholder engagement. At Ngao Credit, I managed a pipeline of 100+ prospects while maintaining 95% customer satisfaction through relationship-focused service delivery. These experiences demonstrate my ability to work independently, exceed targets, analyze markets, and build the institutional and community partnerships essential for growing Valley Hospital's referral network and brand visibility in Nakuru and neighbouring counties.
+
+I am particularly drawn to Valley Hospital's commitment to expanding healthcare access through community and institutional engagement. I am eager to leverage my business development expertise, community outreach experience, and relationship-building strengths to identify new opportunities, strengthen stakeholder partnerships, and enhance Valley Hospital's presence across assigned counties. I am willing to travel extensively and am excited about the opportunity to contribute to improving healthcare access for communities in the region.
+
+Thank you for considering my application. I would welcome the opportunity to discuss how my business development track record and community engagement experience can support Valley Hospital's growth objectives.
+
+Sincerely,
+
+Getrude Kasinga Ohanga
