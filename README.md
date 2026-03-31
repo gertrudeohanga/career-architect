@@ -471,6 +471,10 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 | Date | Company | Position | Status | Match Score | Application Type |
 |------|---------|----------|---------|-------------|------------------|
+| 2026-04-01 | Infinite Talent Recruiters (Social Impact Project) | Sales Representative - Nanyuki | 🔄 In Progress | 90/100 | Career Architect |
+| 2026-03-27 | Mhasibu Sacco | Sales Representative | 🔄 In Progress | 100/100 | Career Architect |
+| 2026-03-27 | Platinum Credit Limited | Branch Manager/Team Leader | 🔄 In Progress | 80/100 | Career Architect |
+| 2026-03-24 | Q-Sourcing | Business Development and Operations Manager | 🔄 In Progress | 85/100 | Career Architect |
 | 2026-03-03 | Bank (Bancassurance) | Bancassurance Sales Representative | ⚠️ Critical Gap | 60/100 | Career Architect |
 | 2026-03-03 | Studio Twenty Two Agencies (ABELA) LIMITED | Business Development Manager | 🔄 In Progress | 90/100 | Career Architect |
 | 2026-02-21 | Kaziweza Limited | Branch Team Leader - Eldoret | 🔄 In Progress | 50/100 | Career Architect |
