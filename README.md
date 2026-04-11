@@ -471,6 +471,7 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 | Date | Company | Position | Status | Match Score | Application Type |
 |------|---------|----------|---------|-------------|------------------|
+| 2026-04-12 | Momentum Credit | Sales Executive – Microfinance | 🔄 In Progress | 90/100 | Career Architect |
 | 2026-04-11 | Kenya Railways Corporation | Sales and Marketing Manager | 🔄 In Progress | 60/100 | Career Architect |
 | 2026-04-01 | Infinite Talent Recruiters (Social Impact Project) | Sales Representative - Nanyuki | 🔄 In Progress | 90/100 | Career Architect |
 | 2026-03-27 | Mhasibu Sacco | Sales Representative | 🔄 In Progress | 100/100 | Career Architect |
