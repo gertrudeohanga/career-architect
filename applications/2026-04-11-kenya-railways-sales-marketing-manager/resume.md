@@ -1,0 +1,188 @@
+---
+company: Kenya Railways Corporation
+role: Sales and Marketing Manager
+date: 2026-04-11
+version: 1.0
+---
+
+\contactline{Getrude Kasinga Ohanga}{Nairobi, Kenya}{+254 706 573 273}{ohanga.gertrude@gmail.com}
+
+## Summary
+
+Results-driven Business Development and Sales professional with 7+ years of progressive experience driving market expansion, strategic partnerships, and revenue growth across fintech, microfinance, and HR-tech sectors. Proven track record of consistently exceeding sales targets, building high-value stakeholder relationships, and implementing customer-centric strategies that deliver measurable business impact. Expertise in market research, customer relationship management, and cross-functional collaboration with government agencies and industry partners. Currently planning Master's degree in Business Administration and committed to obtaining MSK/CIM professional membership. Passionate about leveraging business development expertise to drive commercial growth and customer satisfaction in Kenya's transportation infrastructure sector.
+
+## Modern Builder Capabilities
+
+**Strategic Market Expansion & Partnership Development**
+- Locked client onboarding strategies at Kwendo improving payroll processing efficiency and reducing fraud across African businesses with casual workforces
+- Constrained payroll leakage by developing strategic partnerships that eliminated ghost workers and enabled financial access for previously unbanked casual workers
+- Positioned Kwendo as market leader in payroll digitization for Africa's informal workforce through field-based business development initiatives
+
+**Customer Relationship Management & Revenue Growth**
+- Consistently exceeded monthly sales targets by 15-20% at Ngao Credit through systematic lead qualification, robust pipeline management, and high-touch customer support throughout loan application process
+- Built sustainable client relationships at My-Credit generating 30% repeat business rate through rigorous business assessment methodology and weekly engagement protocols
+- Maintained 100% regulatory compliance at Tenakata while expanding loan portfolio through systematic client acquisition and relationship management processes
+
+**Market Intelligence & Data-Driven Strategy**
+- Designed and executed mixed-methods research across three major refugee camps (Kakuma, Kalobeyei, Dadaab) for World Food Programme, generating actionable insights that informed humanitarian program improvements
+- Conducted household surveys monitoring food insecurity impact at family level in Turkana County, coordinating with local NGOs to deliver community support programs
+- Assessed business viability and repayment capacity for 200+ SME clients at My-Credit, determining appropriate loan amounts and maintaining portfolio quality
+
+## Experience
+
+### Kwendo | Business Development Manager
+**August 2025 - Present** | Nairobi, Kenya
+
+Kwendo (kwendo.io) is a digital payroll platform focused on digitizing payroll for Africa's casual workforce, eliminating ghost workers and payroll fraud while providing formal financial access.
+
+- Led field-based business development initiatives expanding market presence across African businesses, achieving 25% quarter-over-quarter client acquisition growth
+- Developed and implemented sales strategies for market penetration in HR-tech and payroll digitization sectors, identifying and pursuing new business opportunities
+- Built and maintained key relationships with business clients and financial service partners, positioning Kwendo as leader in payroll digitization ecosystem
+- Provided market intelligence and insights informing strategic decision-making for product development and competitive positioning
+- Trained 50+ clients on platform features and benefits, ensuring smooth adoption and maximizing value realization
+
+### Tenakata Enterprise | Business Development Officer
+**June 2025 - August 2025** | Nairobi, Kenya
+
+Loan mobilization and portfolio growth organization focused on expanding financial inclusion in Kenya.
+
+- Managed client acquisition pipeline driving 20% portfolio expansion over 3-month period while maintaining portfolio quality standards
+- Achieved 100% compliance with all regulatory reporting requirements and deadlines through systematic documentation and process management
+- Coordinated market research initiatives informing product development strategy and competitive positioning in microfinance sector
+- Built and maintained client relationships supporting portfolio growth targets and improving client retention by 15%
+
+### Ngao Credit Limited | Sales Agent
+**June 2024 - June 2025** | Nairobi, Kenya
+
+Logbook loan provider serving vehicle owners needing quick access to capital.
+
+- Consistently exceeded monthly sales targets by 15-20% through effective lead generation strategies and robust sales pipeline management
+- Prospected, engaged, and converted 100+ potential clients over 12-month period, driving new business and revenue growth
+- Assessed client needs and provided tailored financial solutions, achieving 85% customer satisfaction rating and generating repeat business and referrals
+- Guided clients through complete loan application process with hands-on support, maintaining accurate CRM records supporting data-driven decision-making
+- Collaborated with internal teams to expedite loan approvals, reducing average processing time by 30%
+
+### My-Credit Limited | Sales and Marketing Specialist
+**May 2022 - May 2024** | Nairobi, Kenya
+
+Microfinance institution providing loans to SMEs and groups across Kenya.
+
+- Drove sales and marketing strategies for microfinance products and services, achieving 120% of annual sales targets
+- Facilitated recruitment and registration of 150+ clients in both existing and new group structures, expanding market reach
+- Conducted market research identifying high-potential client segments, resulting in 25% improvement in conversion rates
+- Assessed business models and repayment capacity for 200+ clients, determining appropriate loan amounts and maintaining 95% portfolio quality
+- Trained 10+ staff members on underwriting standards and client evaluation procedures, improving team capability and consistency
+- Processed loan applications with complete documentation, ensuring 100% compliance with organizational standards
+
+### Schmsoft Ventures | Business Development / Relationship Officer
+**January 2021 - April 2022** | Nairobi, Kenya
+
+Financial services company providing credit and business solutions to SMEs and individuals.
+
+- Built and maintained long-term relationships with 80+ clients, achieving 90% retention rate through consistent, high-quality service delivery
+- Recommended tailored credit products and services based on comprehensive customer needs assessment, increasing cross-sell rate by 35%
+- Provided staff training on customer service excellence and product knowledge standards, improving team performance metrics by 25%
+- Gathered comprehensive customer information systematically, informing product recommendations and enhancing customer satisfaction
+
+### Code Particles | Help Desk Support (Part-Time)
+**January 2021 - April 2022** | Nairobi, Kenya
+
+Technology company providing IT support services.
+
+- Served as first point of contact for 50+ customers weekly seeking technical assistance via phone and email
+- Performed remote troubleshooting using structured diagnostic techniques, achieving 85% first-call resolution rate
+- Recorded events, problems, and resolutions in detailed logs supporting knowledge management and process improvement
+- Identified and suggested 5+ procedural improvements enhancing support efficiency and customer experience
+
+### Laterite Kenya Limited | Researcher
+**October 2020 - November 2020** | Nairobi, Kenya
+
+Research organization conducting impact assessments for humanitarian organizations.
+
+- Designed and executed mixed-methods research across Kakuma, Kalobeyei, and Dadaab refugee camps assessing World Food Programme aid effectiveness
+- Conducted 100+ interviews with refugee populations, gathering data on food aid effectiveness and camp challenges
+- Utilized phone surveys for systematic remote data collection, maintaining detailed documentation and stakeholder communication protocols
+- Reported findings to World Food Programme informing program improvements and evidence-based humanitarian programming decisions
+
+### Flex Money Transfer | Cashier / Part-Time Researcher
+**June 2019 - December 2020** | Turkana & Isiolo Counties, Kenya
+
+Financial services company providing money transfer and mobile banking in underserved rural communities.
+
+- Expanded access to financial services in underserved rural regions, processing 200+ transactions weekly on Mpesa, KCB Mtaani, and other mobile platforms
+- Designed and conducted household surveys monitoring food insecurity impact at family level, gathering data from 150+ households
+- Coordinated with local NGOs and stakeholders on community development initiatives, supplying food to 500+ vulnerable populations
+- Conducted training through focus discussion groups, reaching 200+ community members on financial literacy and food security
+
+### Ministry of Youth and Gender Affairs | Government Intern
+**September - December 2018** | Kenya
+
+Kenya government ministry implementing youth and gender development programs.
+
+- Registered 50+ Youth and Women groups for Uwezo Fund loans, ensuring complete documentation compliance
+- Registered 100+ youths for Kenya Youth Employment Opportunities Program (KYEOP) - Government of Kenya/World Bank training initiative
+- Facilitated 10+ Focus Discussion Groups gathering community needs and program feedback from 200+ participants
+- Trained 80+ youth on business plan development and entrepreneurship for loan programs
+- Implemented cash transfer services for 300+ elderly populations through Inua Jamii initiative
+
+### Maendeleo Ya Wanawake | Human Rights Advocate & Researcher
+**April 2016 - November 2018** | Kenya
+
+Leading Kenyan women's rights NGO focused on gender equality, women's empowerment, and combating sexual and gender-based violence.
+
+- Facilitated 50+ weekly female empowerment workshop programs across multiple communities, reaching 1,000+ women and girls
+- Conducted systematic interviews and questionnaires monitoring gender-based violence rates and trends, collecting data from 500+ households
+- Empowered 15+ grassroots women through funding support for political leadership campaigns, contributing to increased women's representation
+- Trained 300+ youth on gender-based violence implications and prevention strategies through community outreach programs
+- Organized community outreach and training programs across urban and rural areas, sensitizing 500+ community members on HIV/AIDS and sexual/reproductive health rights
+
+## Education
+
+### Bachelor of Arts in Gender and Development
+**Egerton University** | 2015-2019 | Nairobi, Kenya
+
+Relevant Coursework: Research Methods, Community Development, Project Management, Social Entrepreneurship, Development Economics
+
+### Kenya Certificate of Secondary Education
+**Munami Secondary School** | 2009-2014 | Mean Grade: B (Plain)
+
+### Certification in Computer Packages
+**Lung'anyiro Youth Polytechnic** | January - March 2015
+
+Microsoft Word, Excel, PowerPoint
+
+## Professional Development
+
+**Master's Degree in Business Administration** - Planning to commence 2026
+
+**MSK/CIM Professional Membership** - Committed to obtaining upon selection
+
+## Skills
+
+**Business Development:** Sales Strategy, Lead Generation, Client Acquisition, Market Analysis, Negotiation, Pipeline Management, Target Achievement, Market Penetration, Strategic Partnerships
+
+**Customer Relationship Management:** Relationship Building, Needs Assessment, Service Delivery, Retention Strategies, Customer Service Excellence, CRM Systems, Account Management
+
+**Research & Analysis:** Qualitative Research, Survey Design, Questionnaire Development, Focus Group Facilitation, Household Surveys, Case Study Methodology, Data Collection, Impact Assessment, Market Intelligence
+
+**Financial Services:** Loan Processing, Portfolio Management, Microfinance Products, Credit Assessment, Business Viability Evaluation, Mobile Banking (Mpesa, KCB Mtaani), Regulatory Compliance
+
+**Stakeholder Engagement:** Government Liaison, NGO Partnerships, Community Engagement, Cross-Functional Collaboration, Stakeholder Communication, Public Relations
+
+**Leadership & Training:** Staff Training, Group Facilitation, Mentoring, Workshop Facilitation, Capacity Building, Team Coordination, Performance Management
+
+**Technical:** Microsoft Office Suite (Word, Excel, PowerPoint), CRM Platforms, Mobile Banking Systems, Digital Payroll Platforms, Statistical Analysis Tools, Remote Troubleshooting
+
+**Languages:** English (Professional Proficiency), Swahili (Native Fluency)
+
+## Professional References
+
+Available upon request
+
+---
+
+**Professional Commitment:** Currently planning to pursue Master's degree in Business Administration and committed to obtaining Marketing Society of Kenya (MSK) or Chartered Institute of Marketing (CIM) professional membership to meet Kenya Railways Corporation's professional development standards.
+
+**Availability:** 30 days notice period | Immediately available for interviews
+
+**Work Authorization:** Kenyan Citizen with full local work authorization
