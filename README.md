@@ -471,6 +471,7 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 | Date | Company | Position | Status | Match Score | Application Type |
 |------|---------|----------|---------|-------------|------------------|
+| 2026-04-14 | Facilities Management Co. | Business Development Executive (Cleaning/FM) | ⚠️ Moderate Match | 60/100 | Career Architect |
 | 2026-04-14 | Co-op Consultancy (Sacco) | Sacco Business Development Executive | 🟡 In Progress | 90/100 | Career Architect |
 | 2026-04-14 | Dawa Life Sciences | Business Development Analyst | 🟡 In Progress | 70/100 | Career Architect |
 | 2026-04-12 | Momentum Credit | Sales Executive – Microfinance | 🔄 In Progress | 90/100 | Career Architect |
