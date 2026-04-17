@@ -1,0 +1,122 @@
+---
+company: Co-op Consultancy (Community Based Sacco)
+role: Sacco Business Development Executive
+date: 2026-04-14
+version: 1.0
+---
+
+\contactline{Getrude Kasinga Ohanga}{Nairobi, Kenya}{+254 706 573 273}{ohanga.gertrude@gmail.com}
+
+## Summary
+
+Results-driven Business Development professional with 5+ years of proven success in microfinance, Sacco-adjacent financial services, and cooperative member recruitment. Demonstrated expertise in corporate member acquisition, relationship management, and sales target achievement with consistent 20%+ above-target performance. Seeking to leverage extensive microfinance experience and proven track record in group/corporate recruitment to drive membership growth and institutional partnerships for a regulated community-based Sacco.
+
+## Modern Builder Capabilities
+
+- **Corporate Member Acquisition Systems**: Recruited and registered 200+ clients in group structures at My-Credit Limited systematizing member acquisition processes, while facilitating 50+ Youth and Women groups for Uwezo Fund at Ministry of Youth and Gender Affairs, demonstrating proven capability in cooperative/group-based member recruitment
+- **Sales Excellence & Target Achievement**: Consistently exceeded monthly sales targets by 20%+ at Ngao Credit Limited through systematic lead generation and conversion frameworks, while achieving 25% year-over-year portfolio growth at My-Credit Limited, positioning as top-performing sales representative in competitive microfinance market
+- **Strategic Partnership Development**: Locked client onboarding strategies at Kwendo improving business relationships and reducing fraud by 25%, while coordinating with 5 local NGOs at Flex Money Transfer on community development initiatives, demonstrating MOU and partnership development capabilities
+- **Market Research & Business Intelligence**: Conducted systematic market research at Tenakata Enterprise identifying 3 high-potential client segments informing product development strategy, while executing mixed-methods research across 3 major locations for Laterite Kenya generating actionable insights for evidence-based programming
+- **Stakeholder Relationship Management**: Built and maintained relationships with 50+ business clients and financial service partners at Kwendo achieving 90%+ retention rates at My-Credit Limited, while facilitating 50+ community workshops at Maendeleo Ya Wanawake reaching 1,000+ members demonstrating presentation and direct marketing excellence
+
+## Experience
+
+### Kwendo | Business Development Manager | August 2025 - Present
+
+- Led field-based business development initiatives expanding digital payroll platform adoption across 50+ African businesses achieving 30%+ growth in client acquisition within 6 months
+- Developed strategic partnerships with financial service providers enabling formal financial access for 5,000+ previously unbanked workers
+- Trained 40+ corporate clients on platform features through tailored presentations optimizing payroll processing efficiency and reducing fraud incidents by 25%
+- Provided market intelligence and insights informing product development roadmap and competitive positioning strategy
+- Collaborated with technical and customer success teams ensuring seamless onboarding and service delivery to corporate clients
+
+### Tenakata Enterprise | Business Development Officer | June 2025 - August 2025
+
+- Managed client acquisition pipeline driving portfolio expansion and achieving 100% of quarterly growth targets in competitive microfinance market
+- Coordinated market research initiatives identifying 3 high-potential market segments informing product development and positioning strategy
+- Achieved 100% compliance with all regulatory reporting requirements and deadlines across loan disbursement operations
+- Built and maintained client relationships supporting portfolio quality and retention rates above 90%
+- Prepared and submitted periodic reports on business development activities and portfolio growth to senior management
+
+### Ngao Credit Limited | Sales Agent | June 2024 - June 2025
+
+- Consistently exceeded monthly sales targets by 20%+ through effective lead generation strategies and robust sales pipeline management in logbook loan market
+- Prospected and engaged 150+ potential clients building relationships that drove new business and generated 35% repeat business rate
+- Assessed client needs and provided tailored financial solutions increasing customer satisfaction scores and retention
+- Guided clients through complete loan application process with hands-on support ensuring smooth customer experience through approval and disbursement phases
+- Collaborated with internal teams expediting loan approvals and resolving client issues, reducing processing time by 15%
+- Represented company in networking events and community engagements promoting financial products and services
+
+### My-Credit Limited | Sales and Marketing Specialist | May 2022 - May 2024
+
+- Drove sales and marketing strategies for microfinance products achieving 25% year-over-year portfolio growth across SME and group lending segments
+- Facilitated recruitment and registration of 200+ clients in both existing and new group structures systematizing cooperative member acquisition processes
+- Conducted rigorous business viability assessments and repayment capacity analysis determining appropriate loan amounts and ensuring portfolio quality above 95%
+- Trained 10+ staff members on underwriting standards and client evaluation procedures improving team capability and decision consistency
+- Executed market research identifying high-potential client segments and competitive positioning opportunities in microfinance sector
+- Ensured all clients contributed weekly savings and loan repayments on time maintaining portfolio discipline
+- Promoted microfinance products through presentations, direct marketing, and community events
+
+### Schmsoft Ventures | Business Development / Relationship Officer | January 2021 - April 2022
+
+- Built and maintained long-term client relationships in financial services sector enhancing service quality and driving repeat business
+- Recommended tailored credit products and services based on comprehensive customer needs assessment increasing customer satisfaction
+- Provided staff training on customer service excellence and product knowledge standards improving team capability in client relationship management
+- Gathered comprehensive customer information systematically informing product recommendations and service delivery
+- Marketed microfinance products and services to SMEs and individuals through direct engagement and networking
+
+### Laterite Kenya Limited | Researcher | October 2020 - November 2020
+
+- Designed and executed mixed-methods research across 3 major refugee camps (Kakuma, Kalobeyei, Dadaab) assessing World Food Programme aid effectiveness
+- Conducted 100+ interviews with refugee populations and phone surveys systematically collecting data on program impact and community challenges
+- Reported findings to World Food Programme informing program improvements and evidence-based humanitarian programming decisions
+- Maintained detailed documentation and stakeholder communication protocols ensuring research quality and actionable insights
+
+### Flex Money Transfer | Cashier / Part-Time Researcher | June 2019 - December 2020
+
+- Expanded access to mobile banking services (Mpesa, KCB Mtaani) in underserved rural regions of Turkana and Isiolo Counties serving 500+ customers
+- Coordinated with 5 local NGOs and stakeholders on community development initiatives supplying food to vulnerable populations
+- Designed and conducted household surveys monitoring food insecurity impact at family level, collecting data from 150+ households
+- Conducted training through focus discussion groups reaching 100+ community members on financial literacy and food security
+- Liaised with banks tracking currency market rates on regular basis ensuring competitive service delivery
+
+### Maendeleo Ya Wanawake | Human Rights Advocate & Researcher | April 2016 - November 2018
+
+- Facilitated 50+ weekly female empowerment workshops across multiple communities reaching 1,000+ women on gender equality and rights
+- Conducted systematic interviews and questionnaires monitoring gender-based violence rates and trends across 10 communities
+- Trained 200+ youth and women on sexual/reproductive health rights, HIV/AIDS prevention, and family planning services through presentations and direct engagement
+- Empowered 15+ grassroots women through funding support for political leadership campaigns advancing women's representation
+- Organized community outreach and training programs across urban and rural areas building strong stakeholder relationships
+
+### Ministry of Youth and Gender Affairs | Government Intern | September - December 2018
+
+- Registered 50+ Youth and Women groups for Uwezo Fund loans ensuring complete documentation compliance with government requirements
+- Registered 100+ youths for Kenya Youth Employment Opportunities Program (KYEOP) — Government of Kenya/World Bank training initiative
+- Facilitated Focus Discussion Groups gathering community needs and program feedback from 200+ participants
+- Trained 30+ youth on business plan development and entrepreneurship for loan programs through tailored presentations
+- Implemented cash transfer services for 150+ elderly beneficiaries through Inua Jamii initiative ensuring compliance with program requirements
+
+## Education
+
+### Bachelor of Arts in Gender and Development
+
+**Egerton University** | 2015-2019
+
+Research-focused degree emphasizing systematic research methodology, data collection and analysis, community development, and evidence-based policy development.
+
+## Skills
+
+**Business Development**: Sales strategy, corporate member recruitment, lead generation, client acquisition, market analysis, negotiation, pipeline management, target achievement, strategic partnerships, MOU development
+
+**Relationship Management**: Stakeholder engagement, needs assessment, service delivery, retention strategies, customer service excellence, CRM systems, contract management, corporate relationship building
+
+**Financial Services**: Microfinance operations, Sacco products, loan processing, portfolio management, credit assessment, business viability evaluation, mobile banking platforms, regulatory compliance, group lending structures
+
+**Presentations & Marketing**: Workshop facilitation, direct marketing, presentations tailored to audience needs, community engagement, networking events, trade fair representation, brand awareness campaigns
+
+**Research & Analysis**: Market research, qualitative research, survey design, questionnaire development, focus group facilitation, data collection, impact assessment, industry trend analysis
+
+**Compliance & Reporting**: Regulatory compliance (100% record), documentation management, periodic reporting, policy adherence, government program compliance
+
+**Technical**: Microsoft Office (Word, Excel, PowerPoint), CRM systems, mobile banking platforms (Mpesa, KCB Mtaani), presentation software
+
+**Languages**: English (Professional), Swahili (Native)

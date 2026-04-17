@@ -1,0 +1,129 @@
+---
+company: Facilities Management Company
+role: Business Development Executive (Cleaning/Facilities Management)
+date: 2026-04-14
+version: 1.0
+---
+
+\contactline{Getrude Kasinga Ohanga}{Nairobi, Kenya}{+254 706 573 273}{ohanga.gertrude@gmail.com}
+
+## Summary
+
+Results-driven Business Development Executive with 5+ years of proven success in B2B sales, consistently exceeding targets by 20%+ and driving revenue growth across diverse sectors. Demonstrated expertise in lead generation, corporate client acquisition, proposal development, and team training with a track record of building relationships with 50+ business clients. Seeking to leverage strong B2B sales fundamentals, field-based business development experience, and proven ability to quickly master new industries to drive growth in facilities management services.
+
+## Modern Builder Capabilities
+
+- **B2B Sales Excellence & Target Achievement**: Consistently exceeded monthly sales targets by 20%+ at Ngao Credit Limited through systematic lead generation and conversion frameworks, while achieving 25% year-over-year revenue growth at My-Credit Limited and 30%+ client acquisition growth at Kwendo, demonstrating proven ability to deliver measurable business development results
+- **Corporate Client Acquisition & Relationship Management**: Built and maintained relationships with 50+ business clients at Kwendo achieving 90%+ retention rates at My-Credit Limited, while prospecting and engaging 150+ potential corporate clients at Ngao Credit generating 35% repeat business through exceptional relationship management and customer service
+- **Proposal Development & Needs Assessment**: Developed tailored client proposals and solutions at Kwendo based on comprehensive needs assessment, while conducting rigorous business viability evaluations at My-Credit determining appropriate service levels and pricing, demonstrating ability to create customized solutions driving client satisfaction
+- **Team Training & Performance Management**: Trained 10+ staff members at My-Credit Limited on sales techniques and client evaluation procedures improving team capability and decision consistency, while training 40+ corporate clients at Kwendo through tailored presentations and facilitating 50+ workshops at Maendeleo Ya Wanawake reaching 1,000+ individuals
+- **Field-Based Business Development & Site Visits**: Led field-based business development initiatives at Kwendo expanding platform adoption across African businesses, while conducting extensive community visits and site assessments at Flex Money Transfer in underserved regions and representing organizations in networking events and trade engagements
+
+## Experience
+
+### Kwendo | Business Development Manager | August 2025 - Present
+
+- Led field-based business development initiatives expanding digital payroll platform adoption across 50+ corporate clients achieving 30%+ growth in client acquisition within 6 months
+- Developed and implemented sales strategies for market penetration through cold calling, field visits, and referrals driving new business opportunities
+- Built strategic partnerships with business clients and financial service providers enabling service delivery for 5,000+ end users
+- Trained 40+ corporate clients through tailored presentations on platform features and benefits optimizing adoption and reducing operational challenges by 25%
+- Provided market intelligence and insights informing product development roadmap and competitive positioning strategy
+- Prepared and presented periodic reports on business development activities and client acquisition to senior management
+- Collaborated with technical and customer success teams ensuring seamless client onboarding and service delivery
+
+### Tenakata Enterprise | Business Development Officer | June 2025 - August 2025
+
+- Managed client acquisition pipeline driving business expansion and achieving 100% of quarterly growth targets
+- Coordinated market research initiatives identifying 3 high-potential client segments informing business development strategy
+- Conducted field visits and client meetings to understand requirements and ensure service satisfaction
+- Achieved 100% compliance with all regulatory reporting requirements and deadlines
+- Built and maintained client relationships supporting retention rates above 90%
+- Prepared weekly and monthly sales reports tracking performance metrics and forecasting revenue
+
+### Ngao Credit Limited | Sales Agent | June 2024 - June 2025
+
+- Consistently exceeded monthly sales targets by 20%+ through effective lead generation strategies including cold calling, referrals, and networking
+- Prospected and engaged 150+ potential clients building relationships that drove new business in competitive market
+- Developed tailored financial solutions based on comprehensive client needs assessment increasing customer satisfaction and generating 35% repeat business rate
+- Conducted site visits and client meetings to assess requirements and provide hands-on support throughout service delivery
+- Collaborated with internal teams expediting approvals and resolving client issues, reducing processing time by 15%
+- Maintained accurate CRM records supporting data-driven decision-making and pipeline management
+- Represented company in networking events and community engagements promoting services and building brand awareness
+
+### My-Credit Limited | Sales and Marketing Specialist | May 2022 - May 2024
+
+- Drove sales and marketing strategies achieving 25% year-over-year revenue growth across SME and group client segments
+- Recruited and registered 200+ clients through field visits, presentations, and direct marketing systematizing client acquisition processes
+- Developed proposals and service recommendations based on rigorous business viability assessments ensuring client satisfaction and service quality above 95%
+- Trained 10+ staff members on sales techniques, product knowledge, and client evaluation procedures improving team performance and consistency
+- Set sales goals, tracked performance metrics, and provided regular feedback and coaching to team members
+- Executed market research identifying high-potential client segments and competitive positioning opportunities
+- Prepared and presented monthly sales reports and forecasts to management
+- Ensured all contracts and agreements were properly executed and documented
+
+### Schmsoft Ventures | Business Development / Relationship Officer | January 2021 - April 2022
+
+- Built and maintained long-term client relationships in B2B environment enhancing service quality and driving repeat business
+- Developed tailored service recommendations based on comprehensive customer needs assessment increasing customer satisfaction
+- Provided staff training on customer service excellence and product knowledge standards improving team capability
+- Gathered comprehensive customer information systematically informing service recommendations and delivery
+- Marketed services to SMEs and individuals through direct engagement, presentations, and networking
+
+### Laterite Kenya Limited | Researcher | October 2020 - November 2020
+
+- Designed and executed mixed-methods research across 3 major locations assessing program effectiveness for international client
+- Conducted 100+ interviews and phone surveys systematically collecting data on client needs and program impact
+- Reported findings to client informing program improvements and evidence-based decision-making
+- Maintained detailed documentation and stakeholder communication protocols ensuring research quality
+
+### Flex Money Transfer | Cashier / Part-Time Researcher | June 2019 - December 2020
+
+- Expanded access to services in underserved rural regions of Turkana and Isiolo Counties serving 500+ customers through field visits
+- Coordinated with 5 local organizations and stakeholders on community development initiatives
+- Designed and conducted surveys collecting data from 150+ households informing program development
+- Conducted training through focus discussion groups reaching 100+ community members
+- Liaised with partner organizations tracking market rates and ensuring competitive service delivery
+
+### Maendeleo Ya Wanawake | Human Rights Advocate & Researcher | April 2016 - November 2018
+
+- Facilitated 50+ weekly workshops across multiple communities reaching 1,000+ individuals demonstrating presentation and direct marketing skills
+- Trained 200+ individuals through presentations and direct engagement on program benefits and services
+- Conducted systematic interviews and surveys across 10 communities collecting data on needs and program impact
+- Organized community outreach and training programs across urban and rural areas building strong stakeholder relationships
+- Represented organization in community events and networking forums promoting programs and building brand awareness
+
+### Ministry of Youth and Gender Affairs | Government Intern | September - December 2018
+
+- Registered 50+ groups ensuring complete documentation compliance with government requirements
+- Registered 100+ individuals for government programs demonstrating client acquisition and onboarding capabilities
+- Facilitated Focus Discussion Groups gathering community needs and program feedback from 200+ participants
+- Trained 30+ individuals on program requirements and application processes through presentations
+- Prepared reports on program activities and client registration for management review
+
+## Education
+
+### Bachelor of Arts in Gender and Development
+
+**Egerton University** | 2015-2019
+
+Research-focused degree emphasizing systematic research methodology, data collection and analysis, community development, and evidence-based decision-making.
+
+## Skills
+
+**Business Development**: B2B sales, lead generation, cold calling, field visits, client acquisition, market analysis, negotiation, pipeline management, target achievement, strategic partnerships, proposal development
+
+**Sales Team Leadership**: Team training, performance management, goal setting, coaching, mentoring, sales meetings, performance tracking, feedback delivery, team motivation
+
+**Client Relationship Management**: Stakeholder engagement, needs assessment, site visits, service delivery, retention strategies, account management, customer service excellence, CRM systems, contract management
+
+**Proposal & Quotation Development**: Needs assessment, tailored solutions, pricing strategies, service recommendations, business viability evaluation, value proposition development
+
+**Market Research & Strategy**: Market research, competitive analysis, segment identification, industry trend analysis, business planning, promotional campaigns, growth strategies
+
+**Reporting & Administration**: Sales reports, forecasts, performance metrics, CRM records, documentation management, contract execution, compliance
+
+**Field-Based Sales**: Site visits, client meetings, community engagement, networking events, trade fairs, direct marketing, presentations
+
+**Technical**: Microsoft Office (Word, Excel, PowerPoint), CRM systems, presentation software, data analysis tools
+
+**Languages**: English (Professional), Swahili (Native)

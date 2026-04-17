@@ -1,0 +1,25 @@
+---
+company: Co-op Consultancy (Community Based Sacco)
+role: Sacco Business Development Executive
+date: 2026-04-14
+---
+
+\contactline{Getrude Kasinga Ohanga}{Nairobi, Kenya}{+254 706 573 273}{ohanga.gertrude@gmail.com}
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Sacco Business Development Executive position (REF: CBI/BDE/05/25) with your regulated community-based Sacco. With over 5 years of proven success in microfinance and cooperative financial services—including direct experience at My-Credit Limited, Ngao Credit Limited, and Tenakata Enterprise—I bring the exact industry expertise, sales excellence, and corporate member recruitment capabilities your Sacco needs to achieve its growth objectives.
+
+My microfinance background positions me as an ideal candidate for Sacco business development. At My-Credit Limited, I drove 25% year-over-year portfolio growth while recruiting and registering 200+ clients in group structures—the same cooperative member acquisition model central to Sacco operations. I consistently exceeded sales targets by 20%+ at Ngao Credit, demonstrating the target-driven performance essential for this role. At the Ministry of Youth and Gender Affairs, I registered 50+ Youth and Women groups for Uwezo Fund loans, gaining valuable experience in cooperative group formation and government program compliance. This combination of microfinance sales excellence, group/corporate member recruitment, and regulatory compliance directly translates to Sacco business development success.
+
+My corporate relationship management and presentation capabilities align perfectly with your requirement to recruit corporate members and promote Sacco products through presentations and direct marketing. At Kwendo, I built relationships with 50+ business clients and financial service partners, developing strategic partnerships that reduced fraud by 25% while enabling financial access for 5,000+ workers. I trained 40+ corporate clients through tailored presentations, demonstrating my ability to engage corporate employees and decision-makers effectively. At Maendeleo Ya Wanawake, I facilitated 50+ community workshops reaching 1,000+ individuals, honing my skills in direct marketing, stakeholder engagement, and brand awareness campaigns. I have represented organizations in networking events, conducted market research to identify high-potential segments, and collaborated with internal teams to ensure seamless service delivery—all core responsibilities of this Sacco business development role.
+
+What excites me most about this opportunity is the chance to contribute to cooperative financial services growth in Kenya. Having worked extensively in microfinance and community development, I understand the transformative power of member-based financial institutions in expanding financial inclusion and empowering communities. My commitment to financial inclusion—demonstrated through my work expanding mobile banking access in underserved regions at Flex Money Transfer and my community development initiatives—aligns with the Sacco movement's mission. I am eager to leverage my proven track record in member acquisition, relationship management, and sales target achievement to drive your Sacco's institutional presence and membership growth.
+
+I am confident that my microfinance expertise, corporate recruitment capabilities, and target-driven sales performance make me an excellent fit for this role. I would welcome the opportunity to discuss how I can contribute to your Sacco's growth objectives and member acquisition targets.
+
+Thank you for considering my application. I look forward to the opportunity to discuss my qualifications further.
+
+Sincerely,
+
+Getrude Kasinga Ohanga

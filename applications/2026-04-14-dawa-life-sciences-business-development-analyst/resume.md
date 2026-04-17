@@ -1,0 +1,107 @@
+---
+company: Dawa Life Sciences
+role: Business Development Analyst
+date: 2026-04-14
+version: 1.0
+---
+
+\contactline{Getrude Kasinga Ohanga}{Nairobi, Kenya}{+254 706 573 273}{ohanga.gertrude@gmail.com}
+
+## Summary
+
+Results-driven Business Development professional with 5+ years of proven success driving revenue growth, building strategic partnerships, and expanding market presence across fintech, HR-tech, and financial services sectors. Demonstrated expertise in market research, stakeholder relationship management, and regulatory compliance with a strong foundation in research methodology and community health initiatives. Seeking to leverage business development excellence and analytical capabilities to drive pharmaceutical market expansion and healthcare access at Dawa Life Sciences.
+
+## Modern Builder Capabilities
+
+- **Strategic Partnership Architecture**: Locked client onboarding strategies at Kwendo improving payroll processing efficiency and fraud prevention while developing strategic partnerships that reduced ghost workers across client businesses, positioning the platform as leader in payroll digitization for Africa's 2M+ casual workforce
+- **Market Intelligence & Expansion**: Conducted systematic market research across 3 major sectors (HR-tech, microfinance, financial services) identifying high-value client segments and informing product development strategy, contributing to portfolio growth and 100% regulatory compliance at Tenakata Enterprise
+- **Relationship Management Systems**: Built and maintained key stakeholder relationships with 50+ business clients, financial service partners, and healthcare organizations while consistently exceeding monthly sales targets by 20%+ at Ngao Credit through systematic lead qualification and conversion frameworks
+- **Research-Driven Decision Making**: Designed and executed mixed-methods research across 3 refugee camps (Kakuma, Kalobeyei, Dadaab) for World Food Programme, conducting 100+ interviews and surveys generating actionable insights for evidence-based humanitarian programming and policy improvements
+- **Community Health Impact**: Facilitated 50+ female empowerment workshops and trained 200+ community members on sexual/reproductive health rights and HIV/AIDS prevention at Maendeleo Ya Wanawake, demonstrating commitment to healthcare access and gender development outcomes
+
+## Experience
+
+### Kwendo | Business Development Manager | August 2025 - Present
+
+- Led field-based business development initiatives expanding digital payroll platform adoption across African businesses with casual workforces, positioning Kwendo as market leader in payroll digitization
+- Developed and implemented sales strategies for market penetration achieving 30%+ growth in client acquisition within 6 months
+- Built strategic partnerships with financial service providers enabling formal financial access for previously unbanked casual workers, impacting 5,000+ individuals
+- Provided market intelligence and insights informing product development roadmap and competitive positioning strategy
+- Trained 40+ clients on platform features optimizing payroll processing efficiency and reducing fraud incidents by 25%
+
+### Tenakata Enterprise | Business Development Officer | June 2025 - August 2025
+
+- Managed client acquisition pipeline driving portfolio expansion and achieving 100% of quarterly growth targets
+- Coordinated market research initiatives identifying 3 high-potential market segments informing product development strategy
+- Achieved 100% compliance with all regulatory reporting requirements and deadlines across loan disbursement operations
+- Built and maintained client relationships supporting portfolio quality and retention rates above 90%
+
+### Ngao Credit Limited | Sales Agent | June 2024 - June 2025
+
+- Consistently exceeded monthly sales targets by 20%+ through effective lead generation strategies and robust sales pipeline management
+- Prospected and engaged 150+ potential clients building relationships that drove new business in competitive logbook loan market
+- Assessed client needs and provided tailored financial solutions increasing customer satisfaction scores and generating 35% repeat business rate
+- Guided clients through complete loan application process with hands-on support ensuring smooth customer experience through approval and disbursement phases
+- Collaborated with internal teams expediting loan approvals and resolving client issues, reducing processing time by 15%
+
+### My-Credit Limited | Sales and Marketing Specialist | May 2022 - May 2024
+
+- Drove sales and marketing strategies for microfinance products achieving 25% year-over-year portfolio growth across SME and group lending segments
+- Facilitated recruitment and registration of 200+ clients in both existing and new group structures systematizing client acquisition processes
+- Conducted rigorous business viability assessments and repayment capacity analysis determining appropriate loan amounts and ensuring portfolio quality above 95%
+- Trained 10+ staff members on underwriting standards and client evaluation procedures improving team capability and decision consistency
+- Executed market research identifying high-potential client segments and competitive positioning opportunities
+
+### Laterite Kenya Limited | Researcher | October 2020 - November 2020
+
+- Designed and executed mixed-methods research across 3 major refugee camps (Kakuma, Kalobeyei, Dadaab) assessing World Food Programme aid effectiveness
+- Conducted 100+ interviews with refugee populations and phone surveys systematically collecting data on food aid impact and camp challenges
+- Reported findings to World Food Programme informing program improvements and evidence-based humanitarian programming decisions
+- Maintained detailed documentation and stakeholder communication protocols ensuring research quality and actionable insights
+
+### Flex Money Transfer | Cashier / Part-Time Researcher | June 2019 - December 2020
+
+- Expanded access to mobile banking services (Mpesa, KCB Mtaani) in underserved rural regions of Turkana and Isiolo Counties serving 500+ customers
+- Designed and conducted household surveys monitoring food insecurity impact at family level, collecting data from 150+ households
+- Coordinated with 5 local NGOs and stakeholders on community development initiatives supplying food to vulnerable populations
+- Conducted training through focus discussion groups reaching 100+ community members on financial literacy and food security
+
+### Maendeleo Ya Wanawake | Human Rights Advocate & Researcher | April 2016 - November 2018
+
+- Facilitated 50+ weekly female empowerment workshops across multiple communities reaching 1,000+ women on gender equality and rights
+- Conducted systematic interviews and questionnaires monitoring gender-based violence rates and trends across 10 communities
+- Trained 200+ youth and women on sexual/reproductive health rights, HIV/AIDS prevention, and family planning services
+- Empowered 15+ grassroots women through funding support for political leadership campaigns advancing women's representation
+- Collected household surveys measuring GBV prevalence and community impact informing evidence-based programming
+
+### Ministry of Youth and Gender Affairs | Government Intern | September - December 2018
+
+- Registered 50+ Youth and Women groups for Uwezo Fund loans ensuring complete documentation compliance with government requirements
+- Registered 100+ youths for Kenya Youth Employment Opportunities Program (KYEOP) — Government of Kenya/World Bank training initiative
+- Facilitated Focus Discussion Groups gathering community needs and program feedback from 200+ participants
+- Trained 30+ youth on business plan development and entrepreneurship for loan programs
+- Implemented cash transfer services for 150+ elderly beneficiaries through Inua Jamii initiative
+
+## Education
+
+### Bachelor of Arts in Gender and Development
+
+**Egerton University** | 2015-2019
+
+Research-focused degree emphasizing systematic research methodology, data collection and analysis, community development, and evidence-based policy development.
+
+## Skills
+
+**Business Development**: Sales strategy, lead generation, client acquisition, market analysis, negotiation, pipeline management, target achievement, market penetration, strategic partnerships
+
+**Relationship Management**: Stakeholder engagement, needs assessment, service delivery, retention strategies, customer service excellence, CRM systems, contract management
+
+**Research & Analysis**: Qualitative research, survey design, questionnaire development, focus group facilitation, household surveys, case study methodology, data collection, impact assessment, market research
+
+**Financial Services**: Loan processing, portfolio management, microfinance products, credit assessment, business viability evaluation, mobile banking platforms, regulatory compliance
+
+**Healthcare & Community**: Gender-based violence prevention, women's empowerment, reproductive health education, community sensitization, advocacy, program coordination
+
+**Technical**: Microsoft Office (Word, Excel, PowerPoint), CRM systems, mobile banking platforms (Mpesa, KCB Mtaani), digital payroll systems, HR-tech platforms
+
+**Languages**: English (Professional), Swahili (Native)
