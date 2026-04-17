@@ -439,8 +439,9 @@ Contact: 0726340466
 
 ## Logistics
 
-**Salary Expectation**: KES 40,000 - 150,000 (flexible, negotiable based on benefits and opportunities)  
-**Notice Period**: 30 days  
+**Current Salary**: KES 37,000  
+**Salary Expectation**: KES 45,000 - 75,000 (flexible, negotiable based on benefits and opportunities)  
+**Notice Period**: 3 weeks  
 **Work Authorization**: Kenyan citizen - Local work authorization  
 **Relocation**: Open to relocation within East Africa  
 **Remote Preference**: Flexible - Open to hybrid/remote roles  
