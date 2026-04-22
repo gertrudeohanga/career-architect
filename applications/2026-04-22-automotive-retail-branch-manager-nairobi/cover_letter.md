@@ -1,0 +1,42 @@
+---
+company: AMEX Automotive Retail
+role: Branch Manager
+date: 2026-04-22
+---
+
+# Getrude Kasinga Ohanga
+**Nairobi, Kenya | +254 706 573 273 | ohanga.gertrude@gmail.com**
+
+**April 22, 2026**
+
+**RE: APPLICATION FOR BRANCH MANAGER POSITION**
+
+Hiring Manager  
+AMEX Automotive Retail  
+Nairobi, Kenya
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Branch Manager position at AMEX. While my 7+ years of professional experience has been in B2B sales and business development rather than retail branch operations, I bring proven transferable skills in sales target achievement, people management, customer service excellence, and analytical reporting that are essential for successful branch management. I am excited about the opportunity to apply my track record of exceeding sales targets by 30%+, training high-performing teams, and delivering 95% customer satisfaction to drive branch performance and profitability.
+
+I am a results-driven professional with consistent track record of exceeding sales targets and driving revenue growth. At Ngao Credit Limited, I exceeded monthly sales targets by 30% through disciplined execution, strong customer engagement, and systematic performance tracking. At My-Credit Limited, I achieved 120% of annual sales targets through strategic planning and effective team coordination. Most recently at Kwendo, I drove 25% quarter-over-quarter client acquisition growth through systematic sales strategies and performance monitoring. These results demonstrate my ability to achieve and exceed targets, monitor team activities, control costs, and drive profitability - core responsibilities of the Branch Manager role.
+
+What distinguishes my candidacy is my proven ability to manage, train, and develop high-performing teams. At My-Credit, I trained 20+ staff members on sales techniques, product knowledge, and customer service, improving overall team performance by 18%. I provided coaching and mentoring, monitored individual performance, and ensured team members had the tools and knowledge needed to succeed. At Schmsoft Ventures, I trained staff on sales techniques and customer service, improving team performance by 30%. I understand the importance of staff motivation, continuous training, and creating a conducive working environment - all critical for effective people management. While I haven't managed formal HR functions like performance evaluations and staff scheduling in a retail environment, I have strong experience in team training, coaching, and performance monitoring that translates directly to people management responsibilities.
+
+I bring exceptional customer service skills and a customer-centric mindset. I have maintained a 95% customer satisfaction rate and generated 40% repeat business through professional service delivery, prompt complaint handling, and attention to client needs. I understand that customer experience is paramount in retail, and I'm committed to ensuring high standards of service excellence, handling customer feedback promptly, and continuously improving the shopping experience. My approach is to understand customer needs deeply, provide professional service, and build lasting relationships - principles that apply equally to retail as to B2B sales.
+
+I am highly analytical with strong reporting and performance tracking skills. Throughout my career, I have prepared regular performance reports, tracked KPIs, analyzed sales data, and provided insights to management for strategic decision-making. I am proficient in MS Office (Excel, PowerPoint, Word) and experienced in using CRM systems for data management and reporting. I have strong attention to detail, work well under pressure, and am decisive in problem-solving - attributes essential for managing branch operations, compliance, and reporting requirements.
+
+I understand this role requires retail branch management experience including merchandising, stock control, and inventory management - areas where I don't have direct experience. However, I'm a quick learner with strong analytical skills and attention to detail that will enable me to rapidly master these retail-specific functions. My systematic approach to record-keeping, data accuracy, and process compliance in my previous roles demonstrates my ability to manage operational details effectively. I'm committed to learning retail operations through training and hands-on experience, and I'm confident I can quickly become proficient in merchandising, stock takes, and inventory management.
+
+I am particularly attracted to this opportunity because of the attractive salary of KES 120,000, which aligns well with my expectations, and the chance to apply my proven sales, people management, and customer service skills in a retail environment. I'm excited about the challenge of transitioning to retail operations and contributing to branch profitability and growth. I bring a fresh perspective, proven results, and hunger to excel in retail branch management.
+
+I am a Kenyan citizen based in Nairobi, immediately available for interviews, and can commence employment with 3 weeks' notice. I have attached my CV for your review and would welcome the opportunity to discuss how my 7+ years of proven sales excellence, people management, and customer service can contribute to your branch's success.
+
+Thank you for considering my application. I look forward to the possibility of bringing my transferable skills and proven track record to AMEX's retail operations.
+
+Yours sincerely,
+
+**Getrude Kasinga Ohanga**
+
+**Enclosure**: Curriculum Vitae

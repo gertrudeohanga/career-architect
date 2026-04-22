@@ -1,0 +1,123 @@
+
+# Getrude Kasinga Ohanga
+**Nairobi, Kenya | +254 706 573 273 | ohanga.gertrude@gmail.com**  
+
+
+## Professional Summary
+
+Results-driven Sales and Operations Professional with 7+ years of proven success in sales target achievement, people management, and customer service excellence. Demonstrated expertise in exceeding sales targets by 30%+, training and developing high-performing teams, and maintaining 95% customer satisfaction rates. Strong analytical skills with experience in performance tracking, reporting, and data-driven decision making. Excellent communicator with ability to lead teams, manage operations, and deliver exceptional customer experiences. Seeking to leverage transferable sales, people management, and customer service skills in retail branch operations management.
+
+
+## Core Competencies
+
+**Sales & Profitability**: Sales Target Achievement (30%+ above quota), Revenue Growth, Cost Control, Performance Monitoring, KPI Tracking, Sales Team Management
+
+**People Management**: Team Leadership, Staff Training & Development, Performance Evaluation, Coaching & Mentoring, Conflict Resolution, Staff Motivation, Delegation
+
+**Customer Service**: Customer Satisfaction (95% rate), Complaint Handling, Service Excellence, Client Relationship Management, Customer Retention (40% repeat business)
+
+**Operations & Reporting**: Performance Reporting, Data Analysis, MS Office (Excel, PowerPoint, Word), CRM Systems, Process Compliance, Attention to Detail
+
+**Personal Attributes**: Works Well Under Pressure, Decisive, Highly Analytical, Great Interpersonal Skills, Creative Problem Solving, Results-Oriented
+
+
+## Professional Experience
+
+### Kwendo | Business Development Manager
+**August 2025 - Present** | Nairobi, Kenya
+
+- **Sales Target Achievement**: Achieved 25% quarter-over-quarter client acquisition growth through systematic sales strategies and team coordination
+- **Team Leadership**: Led sales activities, coordinated team efforts, and provided coaching to ensure target achievement
+- **Customer Service**: Engaged 50+ business clients, maintaining high satisfaction levels and building long-term relationships
+- **Performance Tracking**: Monitored daily sales activities, tracked KPIs, and prepared regular performance reports for management
+- **Training & Development**: Trained 50+ clients on product adoption, demonstrating strong training and communication abilities
+
+### Tenakata Enterprise | Business Development Officer
+**June 2025 - August 2025** | Nairobi, Kenya
+
+- **Target Achievement**: Drove 25% portfolio expansion through aggressive sales strategies and systematic execution
+- **Team Coordination**: Coordinated with team members to ensure smooth operations and target achievement
+- **Reporting**: Prepared regular performance reports tracking sales activities, targets, and achievements
+- **Customer Management**: Managed client relationships, handled inquiries, and ensured customer satisfaction
+
+### Ngao Credit Limited | Sales Agent
+**June 2024 - June 2025** | Nairobi, Kenya
+
+- **Sales Excellence**: Consistently exceeded monthly sales targets by 30% through disciplined execution and strong customer engagement
+- **Lead Conversion**: Converted 200+ qualified leads into active clients, demonstrating exceptional sales and closing abilities
+- **Customer Satisfaction**: Maintained 95% customer satisfaction rate through professional service delivery and attention to client needs
+- **Repeat Business**: Generated 40% repeat business and referrals through exceptional relationship management
+- **Performance Tracking**: Maintained detailed records of sales activities, customer interactions, and performance metrics
+
+### My-Credit Limited | Sales and Marketing Specialist
+**May 2022 - May 2024** | Nairobi, Kenya
+
+- **Quota Achievement**: Achieved 120% of annual sales targets through strategic planning and effective execution
+- **Team Training**: Trained 20+ staff members on sales techniques, product knowledge, and customer service, improving team performance by 18%
+- **Performance Management**: Monitored team activities, provided coaching, and tracked individual and team performance against targets
+- **Customer Management**: Managed pipeline of 500+ prospects, ensuring high-quality customer interactions and service delivery
+- **Conversion Optimization**: Improved conversion rates by 25% through refined sales processes and enhanced customer engagement
+- **Reporting & Analysis**: Analyzed sales data, identified trends, and provided insights to management for strategic decision-making
+
+### Schmsoft Ventures | Business Development / Relationship Officer
+**January 2021 - April 2022** | Nairobi, Kenya
+
+- **Client Engagement**: Engaged 150+ clients, maintaining 85% retention rate through exceptional relationship management
+- **Team Coaching**: Trained staff on sales techniques and customer service, improving team performance by 30%
+- **Customer Service**: Handled customer complaints and feedback professionally, ensuring satisfaction and retention
+- **Performance Tracking**: Maintained systematic records of customer interactions and performance metrics
+
+### Maendeleo Ya Wanawake | Human Rights Advocate & Researcher
+**April 2016 - November 2018** | Kenya
+
+- **Training & Facilitation**: Facilitated 50+ workshops and training sessions reaching 2,000+ participants
+- **Team Coordination**: Coordinated program activities, managed schedules, and ensured smooth operations
+- **Communication**: Trained 500+ individuals through structured programs, demonstrating strong presentation and training abilities
+- **Stakeholder Management**: Engaged diverse stakeholders across urban and rural areas, building relationships and managing expectations
+
+
+## Education
+
+### Bachelor of Arts in Gender and Development
+**Egerton University** | 2015-2019 | Nairobi, Kenya
+
+Relevant Coursework: Research Methods, Communication, Project Management, Data Analysis, Community Engagement
+
+
+## Key Achievements
+
+- **Exceeded sales targets by 30%+** consistently across multiple organizations
+- **Achieved 120% of annual sales targets** through strategic planning and execution
+- **Trained 20+ staff members** improving team performance by 18%
+- **Maintained 95% customer satisfaction rate** with 40% repeat business generation
+- **Converted 200+ qualified leads** into active clients demonstrating strong sales ability
+- **Drove 25% quarter-over-quarter growth** through systematic sales strategies
+- **Improved conversion rates by 25%** through refined processes and customer engagement
+- **Facilitated 50+ training workshops** reaching 2,000+ participants
+- **Maintained 85% client retention rate** through exceptional relationship management
+
+
+## Technical Skills
+
+**Computer Skills**: MS Office (Word, Excel, PowerPoint) - Advanced proficiency, CRM Systems, Data Analysis, Performance Tracking, Reporting Tools
+
+**Communication**: Excellent oral and written communication, Professional presentation skills, Training & facilitation, Stakeholder engagement
+
+**Analytical**: Data analysis, Performance metrics tracking, Trend identification, Problem-solving, Attention to detail
+
+
+## Languages
+
+- **English**: Native-level Proficiency (Spoken & Written)
+- **Swahili**: Native Fluency
+
+
+## Professional References
+
+Available upon request
+
+
+**Notice Period**: 3 weeks  
+**Availability**: Immediately available for interviews  
+**Work Authorization**: Kenyan Citizen with full local work authorization  
+**Location**: Based in Nairobi, Kenya

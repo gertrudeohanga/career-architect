@@ -1,0 +1,141 @@
+---
+company: Brites Management
+role: Business Development Officer
+date: 2026-04-18
+version: 1.0
+---
+
+# Getrude Kasinga Ohanga
+**Nairobi, Kenya | +254 706 573 273 | ohanga.gertrude@gmail.com**  
+[LinkedIn: linkedin.com/in/getrude-ohanga](https://www.linkedin.com/in/getrude-ohanga/)
+
+---
+
+## Professional Summary
+
+Results-driven Business Development Officer with 5 years of proven success in corporate sales, client relationship management, and business development. Demonstrated expertise in identifying business opportunities, negotiating and closing deals, and exceeding sales targets by 30%+. Strong track record of building long-term client relationships, managing multiple accounts simultaneously, and providing tailored solutions to strengthen partnerships. Excellent negotiation, communication, and analytical skills with ability to work independently and drive company growth.
+
+---
+
+## Core Competencies
+
+**Business Development**: Lead Generation, Opportunity Identification, Market Expansion, Strategic Planning, Growth Strategy
+
+**Sales Excellence**: Corporate Sales, B2B Sales, Negotiation, Deal Closing, Target Achievement, Pipeline Management
+
+**Client Relationship Management**: Account Management, Client Retention, Needs Assessment, Tailored Solutions, Trust Building
+
+**Market Intelligence**: Market Research, Competitor Analysis, Trend Monitoring, Actionable Insights, Strategic Recommendations
+
+**Performance Management**: Sales Reporting, Activity Tracking, Performance Metrics, Data Analysis, Results Orientation
+
+---
+
+## Professional Experience
+
+### Kwendo | Business Development Manager
+**August 2025 - Present** | Nairobi, Kenya
+
+Digital payroll platform serving corporate clients and businesses.
+
+- **Business Development**: Achieved 25% quarter-over-quarter client acquisition growth through systematic lead identification, strategic planning, and targeted business development initiatives
+- **Corporate Sales**: Engaged 50+ corporate clients through consultative selling, conducting needs assessments and presenting tailored solutions
+- **Client Relationship Management**: Built and maintained long-term relationships with 20+ financial service providers and corporate accounts, serving as main point of contact for inquiries and requests
+- **Negotiation & Closing**: Successfully negotiated and closed deals with corporate clients, achieving sales targets consistently
+- **Market Intelligence**: Monitored market trends and competitor activities, providing actionable insights to management for strategic decision-making
+- **Performance Tracking**: Maintained accurate records of sales activities, client interactions, and deals closed using CRM systems
+
+### Tenakata Enterprise | Business Development Officer
+**June 2025 - August 2025** | Nairobi, Kenya
+
+Microfinance organization providing working capital solutions to SMEs and corporate clients.
+
+- **Lead Generation**: Identified potential business opportunities and qualified leads, driving 25% portfolio expansion
+- **Sales Strategy**: Developed and executed strategies to acquire new clients and expand market reach
+- **Target Achievement**: Consistently met and exceeded monthly business development targets through proactive approach
+- **Client Management**: Managed multiple client accounts simultaneously, ensuring satisfaction and generating referrals
+- **Reporting**: Prepared regular reports on performance, market trends, and business development progress for management review
+
+### Ngao Credit Limited | Sales Agent
+**June 2024 - June 2025** | Nairobi, Kenya
+
+Logbook loan provider with performance-based sales environment.
+
+- **Sales Excellence**: Consistently exceeded monthly sales targets by 30% through high-activity prospecting and strong closing ability
+- **Lead Conversion**: Identified and converted 200+ qualified leads into active clients, demonstrating exceptional conversion rates
+- **Client Relationship Management**: Built trust and credibility with clients, maintaining 95% customer satisfaction rate
+- **Repeat Business**: Generated 40% repeat business and referrals through exceptional relationship management
+- **Performance Tracking**: Maintained detailed records of sales activities, client interactions, and deals closed
+
+### My-Credit Limited | Sales and Marketing Specialist
+**May 2022 - May 2024** | Nairobi, Kenya
+
+Microfinance institution with structured sales processes serving individual and business clients.
+
+- **Target Achievement**: Achieved 120% of annual sales targets through systematic prospecting, effective negotiation, and strategic closing
+- **Pipeline Management**: Managed pipeline of 500+ prospects, conducting needs discovery and providing tailored solutions
+- **Conversion Optimization**: Improved conversion rates by 25% through refined qualification process and enhanced negotiation techniques
+- **Market Research**: Analyzed market trends, competitor activities, and customer needs to inform business development strategy
+- **Collaboration**: Worked with internal teams to ensure smooth service delivery and client satisfaction
+
+### Schmsoft Ventures | Business Development / Relationship Officer
+**January 2021 - April 2022** | Nairobi, Kenya
+
+Financial services company with performance-driven culture.
+
+- **Client Engagement**: Engaged 150+ corporate and individual clients, maintaining 85% retention rate through exceptional relationship management
+- **Needs Assessment**: Conducted comprehensive needs discovery to understand client requirements and recommend tailored financial solutions
+- **Account Management**: Served as main point of contact for client inquiries, building trust and credibility
+- **Performance Reporting**: Maintained systematic records of client interactions, sales activities, and performance metrics
+
+---
+
+## Education
+
+### Bachelor of Arts in Gender and Development
+**Egerton University** | 2015-2019 | Nairobi, Kenya
+
+Relevant Coursework: Research Methods, Communication, Business Development, Data Analysis, Project Management
+
+---
+
+## Key Achievements
+
+- **Exceeded sales targets by 30%+** consistently across multiple organizations
+- **Achieved 120% of annual sales targets** through strategic planning and execution
+- **Converted 200+ qualified leads** into active clients demonstrating strong closing ability
+- **Maintained 95% customer satisfaction rate** with 40% repeat business generation
+- **Drove 25% quarter-over-quarter growth** through systematic business development
+- **Built relationships with 20+ corporate clients** expanding market reach
+- **Improved conversion rates by 25%** through refined negotiation and sales techniques
+- **Maintained 85% client retention rate** through exceptional relationship management
+
+---
+
+## Professional Skills
+
+**Technical**: CRM Systems, MS Office (Advanced - Word, Excel, PowerPoint), Sales Analytics, Performance Tracking, Data Analysis
+
+**Communication**: Excellent verbal and written communication, Professional presentation skills, Stakeholder engagement, Report writing
+
+**Personal Attributes**: Results-oriented, Proactive, Self-motivated, Professional, Confident in corporate settings, Ability to work independently, Strong work ethic
+
+---
+
+## Languages
+
+- **English**: Native-level Proficiency (Spoken & Written)
+- **Swahili**: Native Fluency
+
+---
+
+## Professional References
+
+Available upon request
+
+---
+
+**Notice Period**: 3 weeks  
+**Availability**: Immediately available for interviews  
+**Work Authorization**: Kenyan Citizen with full local work authorization  
+**Location**: Based in Nairobi, Kenya

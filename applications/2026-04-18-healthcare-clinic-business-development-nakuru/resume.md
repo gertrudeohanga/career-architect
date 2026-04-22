@@ -1,0 +1,186 @@
+---
+company: Healthcare Clinic
+role: Business Development Officer
+location: Nakuru, Kenya
+date: 2026-04-18
+version: 1.0
+---
+
+# Getrude Kasinga Ohanga
+**Nairobi, Kenya | +254 706 573 273 | ohanga.gertrude@gmail.com**  
+
+---
+
+## Professional Summary
+
+Results-driven Business Development Professional with 7+ years of proven success in driving revenue growth, establishing strategic partnerships, and exceeding sales targets by 30%+. Demonstrated expertise in B2B sales, relationship building, and partnership development with track record of achieving 120% of annual quotas and converting 200+ qualified leads. Strong communicator with experience conducting 100+ professional engagements and training 20+ staff members. Proven adaptability across multiple sectors with consistent ability to quickly master new domains and systems. Seeking to leverage transferable business development skills and proven methodologies to drive growth in healthcare sector.
+
+---
+
+## Core Competencies
+
+**Business Development**: Strategic Planning, Market Expansion, Growth Strategy, Revenue Generation, Partnership Development, B2B Sales, Account Management, Client Acquisition, Footfall Generation
+
+**Sales Excellence**: Target Achievement (30%+ above quota), Lead Generation & Conversion, Needs Assessment, Value Proposition Development, Negotiation, Closing Techniques, Pipeline Management, Sales Forecasting
+
+**Relationship Building**: Strategic Partnerships, Stakeholder Engagement, Client Relationship Management, Networking, Customer Satisfaction (95%), Retention Strategies, Referral Generation
+
+**Communication**: Professional Presentations, Workshop Facilitation, Staff Training, Stakeholder Engagement, Report Writing, Interpersonal Communication
+
+**Technical Skills**: CRM Systems, MS Office (Advanced), Data Analysis, Performance Tracking, Digital Platforms, Quick Technology Adoption
+
+**Personal Attributes**: Results-Oriented, Adaptable, Quick Learner, Strategic Thinker, Self-Motivated, Team Collaborator
+
+---
+
+## Professional Experience
+
+### Kwendo | Business Development Manager
+**August 2025 - Present** | Nairobi, Kenya
+
+Digital payroll platform providing financial access solutions to businesses and employees.
+
+- **Revenue Growth**: Achieved 25% quarter-over-quarter client acquisition growth through systematic prospecting, strategic partnerships, and targeted business development initiatives
+- **Strategic Partnerships**: Established partnerships with 20+ financial service providers and corporate clients, expanding market reach and service offerings
+- **B2B Sales**: Engaged 50+ business clients through consultative selling approach, conducting needs assessments and presenting tailored value propositions
+- **Client Relationship Management**: Maintained 85%+ client retention through exceptional service delivery and ongoing relationship nurturing
+- **Market Expansion**: Identified and pursued new market opportunities, resulting in diversified client portfolio across multiple sectors
+- **Training & Enablement**: Trained 50+ clients on platform adoption, ensuring successful onboarding and maximizing product utilization
+- **Performance Tracking**: Utilized CRM systems for pipeline management, sales forecasting, and performance analytics to drive data-driven decisions
+
+### Tenakata Enterprise | Business Development Officer
+**June 2025 - August 2025** | Nairobi, Kenya
+
+Microfinance organization providing working capital solutions to SMEs and entrepreneurs.
+
+- **Portfolio Expansion**: Drove 25% portfolio growth through aggressive prospecting, lead qualification, and systematic conversion strategies
+- **Target Achievement**: Consistently met and exceeded monthly business development targets through disciplined execution and strategic planning
+- **Client Acquisition**: Prospected and converted qualified leads into active clients, expanding customer base and market presence
+- **Relationship Development**: Built and maintained relationships with business clients, ensuring satisfaction and generating referrals
+- **Market Intelligence**: Conducted market research and competitive analysis to identify opportunities and inform business development strategy
+- **Reporting**: Provided accurate sales forecasts and performance reports to management, supporting strategic decision-making
+
+### Ngao Credit Limited | Sales Agent
+**June 2024 - June 2025** | Nairobi, Kenya
+
+Logbook loan provider with performance-based sales environment serving individual and business clients.
+
+- **Sales Excellence**: Consistently exceeded monthly sales targets by 30% through high-activity prospecting, disciplined follow-up, and strong closing ability
+- **Lead Conversion**: Prospected and converted 200+ qualified leads into active clients, demonstrating exceptional conversion rates and sales effectiveness
+- **Customer Satisfaction**: Maintained 95% customer satisfaction rate through professional service delivery, clear communication, and consultative approach
+- **Repeat Business**: Generated 40% repeat business and referrals through exceptional relationship management and client satisfaction
+- **Performance Metrics**: Tracked and analyzed sales KPIs including conversion rates, average deal size, and revenue contribution to optimize performance
+- **CRM Management**: Maintained detailed CRM records tracking all prospect interactions, pipeline status, and follow-up activities
+
+### My-Credit Limited | Sales and Marketing Specialist
+**May 2022 - May 2024** | Nairobi, Kenya
+
+Microfinance institution providing credit solutions to underserved markets with structured sales processes.
+
+- **Quota Achievement**: Achieved 120% of annual sales targets through systematic prospecting, effective qualification, and strategic closing techniques
+- **Pipeline Management**: Managed pipeline of 500+ prospects, conducting needs discovery, qualification, and multi-touch follow-up campaigns
+- **Conversion Optimization**: Improved conversion rates by 25% through refined qualification process, objection handling techniques, and value demonstration
+- **Team Training**: Trained 20+ staff members on sales techniques, objection handling, and closing strategies, improving overall team performance by 18%
+- **Strategic Planning**: Developed and executed sales plans aligned with organizational growth objectives and market opportunities
+- **Performance Analysis**: Analyzed sales data to identify trends, optimize strategies, and improve win rates and revenue per client
+
+### Schmsoft Ventures | Business Development / Relationship Officer
+**January 2021 - April 2022** | Nairobi, Kenya
+
+Financial services company with performance-driven culture serving individual and business clients.
+
+- **Client Engagement**: Engaged 150+ prospects and clients through multi-channel outreach (phone, email, in-person), maintaining 85% retention rate
+- **Needs Assessment**: Conducted comprehensive needs discovery to qualify prospects and recommend tailored financial solutions
+- **Relationship Management**: Built and maintained strong client relationships, ensuring satisfaction and identifying upsell/cross-sell opportunities
+- **Performance Coaching**: Trained staff on persuasion techniques, objection handling, and closing strategies, improving team performance by 30%
+- **CRM Utilization**: Maintained systematic CRM records tracking all customer interactions, pipeline status, and performance metrics
+
+### Laterite Kenya Limited | Researcher
+**October 2020 - November 2020** | Nairobi, Kenya
+
+Research organization conducting stakeholder engagement and data collection for development projects.
+
+- **Stakeholder Engagement**: Conducted 100+ professional phone and in-person interviews with diverse stakeholders including government officials, NGO representatives, and community leaders
+- **Needs Discovery**: Performed structured needs assessment and qualification through systematic questioning and active listening
+- **Communication Excellence**: Maintained exceptional professionalism, clarity, and empathy in all stakeholder interactions
+- **Data Management**: Accurately documented all interview outcomes, notes, and insights in systematic format for analysis
+
+### Flex Money Transfer | Cashier / Part-Time Researcher
+**June 2019 - December 2020** | Turkana & Isiolo Counties, Kenya
+
+Financial services company providing money transfer and financial access in rural markets.
+
+- **Customer Service**: Provided phone-based and in-person customer service to 1,000+ customers, handling inquiries, complaints, and product information
+- **Community Outreach**: Conducted community outreach and customer engagement through multiple channels to expand service awareness and adoption
+- **Adaptability**: Worked effectively in challenging rural environments, demonstrating flexibility and comfort with diverse conditions
+
+### Maendeleo Ya Wanawake | Human Rights Advocate & Researcher
+**April 2016 - November 2018** | Kenya
+
+Women's rights NGO with community engagement and empowerment focus.
+
+- **Workshop Facilitation**: Facilitated 50+ workshops and training sessions reaching 2,000+ participants, demonstrating strong presentation and engagement skills
+- **Training Delivery**: Trained 500+ individuals through structured programs, maintaining clarity, professionalism, and participant engagement
+- **Stakeholder Engagement**: Conducted phone-based and in-person outreach to diverse community stakeholders across urban and rural areas
+- **Program Development**: Contributed to program design and implementation for women's empowerment and rights advocacy initiatives
+
+---
+
+## Education
+
+### Bachelor of Arts in Gender and Development
+**Egerton University** | 2015-2019 | Nairobi, Kenya
+
+Relevant Coursework: Research Methods, Communication, Community Engagement, Data Analysis, Project Management, Development Studies
+
+### Certification in Computer Packages
+**Lung'anyiro Youth Polytechnic** | January - March 2015
+
+Microsoft Word, Excel, PowerPoint - Advanced proficiency
+
+---
+
+## Key Achievements
+
+- **Exceeded sales quotas by 30%+** consistently across multiple organizations
+- **Achieved 120% of annual sales targets** through strategic planning and execution
+- **Converted 200+ qualified leads** into active clients demonstrating strong closing ability
+- **Maintained 95% customer satisfaction rate** with 40% repeat business generation
+- **Drove 25% quarter-over-quarter growth** through systematic business development
+- **Established 20+ strategic partnerships** expanding market reach and service offerings
+- **Conducted 100+ professional stakeholder engagements** demonstrating communication excellence
+- **Facilitated 50+ workshops** reaching 2,000+ participants showing presentation mastery
+- **Trained 20+ staff members** improving team performance by 18%
+- **Improved conversion rates by 25%** through refined sales processes and techniques
+- **Maintained 85% customer retention rate** through exceptional relationship management
+
+---
+
+## Professional Development & Interests
+
+**Continuous Learning**: Committed to professional development and rapidly acquiring new domain knowledge. Successfully transitioned across multiple sectors (microfinance, fintech, digital lending) demonstrating adaptability and quick learning ability.
+
+**Healthcare Interest**: Passionate about contributing to healthcare sector growth and improving health access for communities. Eager to apply proven business development methodologies to drive clinic expansion and patient footfall.
+
+**Research Background**: Strong foundation in research methods, data collection, and systematic analysis - valuable for understanding healthcare regulations, products, and market dynamics.
+
+---
+
+## Languages
+
+- **English**: Native-level Proficiency (Spoken & Written)
+- **Swahili**: Native Fluency
+
+---
+
+## Professional References
+
+Available upon request
+
+---
+
+**Notice Period**: 3 weeks  
+**Availability**: Immediately available for interviews  
+**Work Authorization**: Kenyan Citizen with full local work authorization  
+**Relocation**: Open to relocation to Nakuru for the right opportunity  
+**Location Flexibility**: Previous experience working in rural areas (Turkana, Isiolo Counties)
